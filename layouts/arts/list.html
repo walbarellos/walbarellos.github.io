@@ -118,7 +118,40 @@
           font-size: 48px;
         }
       }
+      .back-btn {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border: 2px solid white;
+  background: transparent;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s, transform 0.3s;
+}
 
+.back-btn svg {
+  width: 20px;
+  height: 20px;
+  transition: transform 0.3s ease;
+}
+
+.back-btn:hover {
+  background: white;
+  color: black;
+}
+
+.back-btn:hover svg {
+  transform: translateX(-5px);
+}
+
+      
       .button {
         margin: 40px;
         padding: 15px 30px;
@@ -135,6 +168,9 @@
         background: white;
         color: black;
       }
+
+
+      
     </style>
   </head>
 
@@ -144,7 +180,15 @@
       <h1><span>B</span>e<span>m</span><span> V</span>in<span>d</span>o</h1>
     </a>
 
-    <button class="button" onclick="history.back()">← Voltar</button>
+  <button class="button back-btn" onclick="history.back()">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-left">
+    <line x1="19" y1="12" x2="5" y2="12"></line>
+    <polyline points="12 19 5 12 12 5"></polyline>
+  </svg>
+  Voltar
+</button>
+
 
     <div class="images"></div>
 

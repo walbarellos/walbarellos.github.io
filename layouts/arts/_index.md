@@ -1,0 +1,4 @@
+---
+title: "Artes"
+type: arts
+---

@@ -1,0 +1,74 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "OR✡"
+theme = "hugo-theme-m10c"
+
+[pagination]
+  pagerSize = 8
+
+
+[module]
+  [[module.imports]]
+    path = "hugo-theme-m10c"
+    disable = false
+
+[Author]
+  name = "Willian Albarello"
+  website = "https://wepiphany.netlify.app"
+  email = "willianalbarello@gmail.com"
+  github = "walbarellos"
+
+[params]
+  author = "OR✡"
+  description = "programação e tecnologia"
+  avatar = "images/avatar.png"  # coloque essa imagem na pasta `static/images/avatar.png`
+  menu_item_separator = " | "
+
+[[params.social]]
+    icon = "brand-github"
+    name = "My Github"
+    url = "https://github.com/walbarellos"
+
+[[params.social]]
+    icon = "brand-mastodon"
+    name = "QOTO"
+    url = "https://qoto.org/web/@wepiphany"
+
+[[menu.main]]
+  name = "Sobre"
+  url = "/page/sobre/"
+  weight = 5
+
+[[menu.main]]
+  name = "Publicações"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  name = "Artes"
+  url = "/arts/"
+  weight = 2
+
+  # Default theme
+  # [params.style]
+  #   darkestColor = "#242930"
+  #   darkColor = "#353b43"
+  #   lightColor = "#afbac4"
+  #   lightestColor = "#ffffff"
+  #   primaryColor = "#57cc8a"
+
+  # Green theme
+  # [params.style]
+  #   darkestColor = "#315659"
+  #   darkColor = "#253031"
+  #   lightColor = "#96a879"
+  #   lightestColor = "#fff"
+  #   primaryColor = "#dad865"
+
+  # Red theme
+  # [params.style]
+  #   darkestColor = "#d35050"
+  #   darkColor = "#212121"
+  #   lightColor = "#d6d6d6"
+  #   lightestColor = "#d3d3d3"
+  #   primaryColor = "#ffffff"

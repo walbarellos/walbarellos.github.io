@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -120,26 +119,23 @@
         }
       }
 
-      .button {
-        margin: 40px;
-        padding: 15px 30px;
-        border: 2px solid white;
-        color: white;
-        font-size: 20px;
-        border-radius: 10px;
-        background: transparent;
-        cursor: pointer;
-        transition: background 0.3s, color 0.3s;
-      }
+.button {
+  margin: 40px;
+  padding: 15px 30px;
+  border: 2px solid white;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  background: transparent;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s;
+  align-self: flex-start; /* <-- isso alinha à esquerda */
+  margin-left: 20px;       /* <-- espaçamento opcional da esquerda */
+}
 
       .button:hover {
         background: white;
         color: black;
-      }
-
-      .back-button {
-        align-self: flex-start;
-        margin-left: 40px;
       }
     </style>
   </head>
@@ -150,7 +146,7 @@
       <h1><span>B</span>e<span>m</span><span> V</span>in<span>d</span>o</h1>
     </a>
 
-    <button class="button back-button" onclick="history.back()">← Voltar</button>
+    <button class="button" onclick="history.back()">← Voltar</button>
 
     <div class="images"></div>
 

@@ -49,6 +49,12 @@ theme = "hugo-theme-m10c"
   url = "/arts/"
   weight = 2
 
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+
+
   # Default theme
   # [params.style]
   #   darkestColor = "#242930"

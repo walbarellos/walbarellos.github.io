@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://dev-walbarello.netlify.app/"
 languageCode = "en-us"
 title = "OR✡"
 theme = "hugo-theme-m10c"

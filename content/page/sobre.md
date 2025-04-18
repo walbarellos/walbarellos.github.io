@@ -13,7 +13,7 @@ Mas então... O primeiro contato com **Computadores** foi em 2000~2002 quando ti
 
 Hoje também sou "Poliglota" em Programação: **Python, Javascript, Lua, C/C++ 💻🚀**.
 
-Esse é um certificado que recebi na Função de **Servidor Público**, aprendi muito, fiz diversos amigos e o melhor, pude servir e ajudar várias pessoas das quais eram gratas de livre espontaneidade. Só gratidão. [*(Meu certificado ✅🚀)*](https://dev-walbarello.netlify.app/images/arts/willianalbarello.pdf)
+Esse é um certificado que recebi na Função de **Servidor Público**, aprendi muito, fiz diversos amigos e o melhor, pude servir e ajudar várias pessoas [*(Meu certificado ✅🚀)*](https://dev-walbarello.netlify.app/images/arts/willianalbarello.pdf)
 
 Além de me interessar por idiomas e programação, meu maior amor nesta Vida é a **Filosofia** e todas as **Religiões 💭✝️**
 

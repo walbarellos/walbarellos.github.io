@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>Artes</title>
-    
+
     <style>
       @import url("https://fonts.googleapis.com/css2?family=Fresca&display=swap");
 
@@ -157,15 +157,16 @@
 
     <script type="text/javascript">
       const images = document.querySelector(".images");
+      const base = window.location.origin;
 
       for (let i = 21; i <= 44; i++) {
         const a = document.createElement("a");
-        a.href = '/images/arts/' + i + '.gif';
+        a.href = base + '/images/arts/' + i + '.gif';
         a.target = '_blank';
         a.style.display = 'inline';
 
         const img = document.createElement("img");
-        img.src = '/images/arts/' + i + '.gif';
+        img.src = base + '/images/arts/' + i + '.gif';
         img.alt = '#' + i;
 
         a.append(img);

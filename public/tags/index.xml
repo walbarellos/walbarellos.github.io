@@ -2,10 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on OR✡</title>
-    <link>https://dev-walbarello.netlify.app/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on OR✡</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://dev-walbarello.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Apr 2025 00:40:34 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certificado</title>
+      <link>http://localhost:1313/tags/certificado/</link>
+      <pubDate>Fri, 18 Apr 2025 00:40:34 -0300</pubDate>
+      <guid>http://localhost:1313/tags/certificado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hebraico</title>
+      <link>http://localhost:1313/tags/hebraico/</link>
+      <pubDate>Fri, 18 Apr 2025 00:40:34 -0300</pubDate>
+      <guid>http://localhost:1313/tags/hebraico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inglês</title>
+      <link>http://localhost:1313/tags/ingl%C3%AAs/</link>
+      <pubDate>Fri, 18 Apr 2025 00:40:34 -0300</pubDate>
+      <guid>http://localhost:1313/tags/ingl%C3%AAs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>http://localhost:1313/tags/sobre/</link>
+      <pubDate>Fri, 18 Apr 2025 00:40:34 -0300</pubDate>
+      <guid>http://localhost:1313/tags/sobre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TOEFLITP</title>
+      <link>http://localhost:1313/tags/toeflitp/</link>
+      <pubDate>Fri, 18 Apr 2025 00:40:34 -0300</pubDate>
+      <guid>http://localhost:1313/tags/toeflitp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AST</title>
+      <link>http://localhost:1313/tags/ast/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compiladores</title>
+      <link>http://localhost:1313/tags/compiladores/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/compiladores/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1313/tags/go/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go/Ast</title>
+      <link>http://localhost:1313/tags/go/ast/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/go/ast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>http://localhost:1313/tags/golang/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parser</title>
+      <link>http://localhost:1313/tags/parser/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/parser/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

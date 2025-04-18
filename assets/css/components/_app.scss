@@ -1,0 +1,63 @@
+.app-header {
+  padding: 2.5em;
+  background: $darkest-color;
+  text-align: center;
+}
+
+@keyframes neonPulse {
+  0%, 200% {
+    box-shadow: 0 0 1rem $primary-color, 0 0 0rem $primary-color, 0 0 0rem $primary-color;
+  }
+  50% {
+    box-shadow: 0 0 0.4rem lighten($primary-color, 1%), 0 0 0.5rem lighten($primary-color, 1%), 0 0 0.5rem lighten($primary-color, 1%);
+  }
+}
+
+.app-header-avatar {
+  width: 15rem;
+  height: 15rem;
+  border-radius: 100%;
+  border: 0.5rem solid $primary-color;
+  animation: neonPulse 2s infinite;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+
+.app-container {
+  padding: 2.5rem;
+}
+
+.app-header-social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2em;
+  color: $lightest-color;
+
+  a:not(:last-child) {
+    margin-right: 0.4em;
+  }
+}
+
+.app-header-title {
+  color: $lightest-color;
+  display: block;
+  font-size: 2em;
+  margin: 0.67em 0;
+  font-weight: bold;
+}
+
+@media (min-width: 940px) {
+  .app-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 20rem;
+    min-height: 100vh;
+  }
+
+  .app-container {
+    max-width: 65rem;
+    margin-left: 20rem;
+  }
+}

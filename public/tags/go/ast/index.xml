@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go/Ast on OR✡</title>
+    <link>http://localhost:1313/tags/go/ast/</link>
+    <description>Recent content in Go/Ast on OR✡</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/go/ast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explorando as Entranhas do Go: Manipulando Código com ASTs como um Compilador Ninja</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>&lt;p&gt;Você sabia que dá pra analisar código Go em tempo real usando ferramentas da própria linguagem? Com os pacotes &lt;code&gt;go/ast&lt;/code&gt;, &lt;code&gt;go/parser&lt;/code&gt; e &lt;code&gt;go/token&lt;/code&gt;, podemos &lt;strong&gt;parsear código-fonte, navegar na AST e até transformar código&lt;/strong&gt; — tudo isso dentro de um programa Go!&lt;/p&gt;&#xA;&lt;p&gt;Neste post, vamos explorar o núcleo da linguagem e construir um mini interpretador estático que &lt;strong&gt;encontra funções e parâmetros declarados&lt;/strong&gt; em um código Go qualquer. Isso é o tipo de coisa que linters, IDEs e ferramentas como &lt;code&gt;go vet&lt;/code&gt; fazem nos bastidores.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

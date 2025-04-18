@@ -1,35 +1,37 @@
 <!doctype html>
 <html lang="en-us">
-  <head>
-    <title>Sejam bem-vind(x)s // OR✡</title>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <title>Explorando as Entranhas do Go: Manipulando Código com ASTs como um Compilador Ninja // OR✡</title>
     <link rel="shortcut icon" href="/favicon.ico" />
     <meta charset="utf-8" />
     <meta name="generator" content="Hugo 0.146.5">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="author" content="OR✡" />
-    <meta name="description" content="" />
-    <link rel="stylesheet" href="/css/main.min.5b1fcc8902588589c4767187402a3c29f8b8d7a6fdef6d9f8f77045bb0d14fee.css" />
+    <meta name="description" content="Aprenda como usar os pacotes internos da linguagem Go para analisar, interpretar e navegar por código-fonte Go usando árvores de sintaxe abstrata." />
+    <link rel="stylesheet" href="/css/main.min.543772b04730ac9c430864c669c0741721d50cefa2ea111d2cd487458b387c19.css" />
     
 
     
     
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Sejam bem-vind(x)s">
-  <meta name="twitter:description" content="Sejam bem-vind(x)s ao grupo de estudos Marmota!
-Nota: Primeiramente, FIQUE EM CASA! Se não puder, entre em contato conosco para que possamos identificar onde se encaixa e a qual grupo, comunidade, iniciativa mais perto de você que já está promovendo financiamento coletivo para te ajudar. Para saber mais, acesse o menu Apoio.
-Esta iniciativa surgiu em uma conversa corriqueira entre amigos no Twitter. Compreendemos que neste período de isolamento em que estamos vivendo, há uma forte necessidade de mais interação e produção de conteúdo entre as comunidades. Mais do que produzir conteúdo, precisamos produzir conteúdo mais inclusivo. Tívemos então a ideia de criar este grupo de estudos para que possamos aprender e compartilhar conhecimento a cerca de programação GO. Este é um espaço onde centralizarmos materiais em vídeoaulas, canais do youtube ou outras mídias, conteúdo gratuito disponível online, recomendações de livros, desafios e roadmap de estudos.">
+  <meta name="twitter:title" content="Explorando as Entranhas do Go: Manipulando Código com ASTs como um Compilador Ninja">
+  <meta name="twitter:description" content="Aprenda como usar os pacotes internos da linguagem Go para analisar, interpretar e navegar por código-fonte Go usando árvores de sintaxe abstrata.">
 
-    <meta property="og:url" content="https://dev-walbarello.netlify.app/posts/welcome/">
+    <meta property="og:url" content="http://localhost:1313/posts/welcome/">
   <meta property="og:site_name" content="OR✡">
-  <meta property="og:title" content="Sejam bem-vind(x)s">
-  <meta property="og:description" content="Sejam bem-vind(x)s ao grupo de estudos Marmota!
-Nota: Primeiramente, FIQUE EM CASA! Se não puder, entre em contato conosco para que possamos identificar onde se encaixa e a qual grupo, comunidade, iniciativa mais perto de você que já está promovendo financiamento coletivo para te ajudar. Para saber mais, acesse o menu Apoio.
-Esta iniciativa surgiu em uma conversa corriqueira entre amigos no Twitter. Compreendemos que neste período de isolamento em que estamos vivendo, há uma forte necessidade de mais interação e produção de conteúdo entre as comunidades. Mais do que produzir conteúdo, precisamos produzir conteúdo mais inclusivo. Tívemos então a ideia de criar este grupo de estudos para que possamos aprender e compartilhar conhecimento a cerca de programação GO. Este é um espaço onde centralizarmos materiais em vídeoaulas, canais do youtube ou outras mídias, conteúdo gratuito disponível online, recomendações de livros, desafios e roadmap de estudos.">
+  <meta property="og:title" content="Explorando as Entranhas do Go: Manipulando Código com ASTs como um Compilador Ninja">
+  <meta property="og:description" content="Aprenda como usar os pacotes internos da linguagem Go para analisar, interpretar e navegar por código-fonte Go usando árvores de sintaxe abstrata.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2020-05-07T21:36:10-03:00">
-    <meta property="article:modified_time" content="2020-05-07T21:36:10-03:00">
+    <meta property="article:published_time" content="2025-04-18T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-04-18T00:00:00+00:00">
+    <meta property="article:tag" content="Go">
+    <meta property="article:tag" content="Golang">
+    <meta property="article:tag" content="AST">
+    <meta property="article:tag" content="Compiladores">
+    <meta property="article:tag" content="Parser">
+    <meta property="article:tag" content="Go/Ast">
 
 
   </head>
@@ -45,6 +47,9 @@ Esta iniciativa surgiu em uma conversa corriqueira entre amigos no Twitter. Comp
              | 
           
           <a class="app-header-menu-item" href="/page/sobre/">Sobre</a>
+             | 
+          
+          <a class="app-header-menu-item" href="/tags/">Tags</a>
       </nav>
       <p>programação e tecnologia</p>
       <div class="app-header-social">
@@ -63,25 +68,121 @@ Esta iniciativa surgiu em uma conversa corriqueira entre amigos no Twitter. Comp
       
   <article class="post">
     <header class="post-header">
-      <h1 class ="post-title">Sejam bem-vind(x)s</h1>
+      <h1 class ="post-title">Explorando as Entranhas do Go: Manipulando Código com ASTs como um Compilador Ninja</h1>
       <div class="post-meta">
         <div>
           <svg class="icon icon-calendar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><title>calendar</title><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
-          May 7, 2020
+          Apr 18, 2025
         </div>
         <div>
           <svg class="icon icon-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><title>clock</title><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-          2 min read
+          3 min read
+        </div>
+        <div>
+          <svg class="icon icon-tag" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><title>tag</title><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg>
+              <a class="tag" href="/tags/go/">Go</a>
+              <a class="tag" href="/tags/golang/">Golang</a>
+              <a class="tag" href="/tags/ast/">AST</a>
+              <a class="tag" href="/tags/compiladores/">Compiladores</a>
+              <a class="tag" href="/tags/parser/">Parser</a>
+              <a class="tag" href="/tags/go/ast/">Go/Ast</a>
         </div>
       </div>
     </header>
     <div class="post-content">
-      <p>Sejam bem-vind(x)s ao grupo de estudos Marmota!</p>
-<blockquote>
-<p><strong>Nota</strong>: Primeiramente, <strong>FIQUE EM CASA</strong>! Se não puder, entre em contato conosco para que possamos identificar onde se encaixa e a qual grupo, comunidade, iniciativa mais perto de você que já está promovendo financiamento coletivo para te ajudar. Para saber mais, acesse o menu <strong><a href="https://marmotaproject.github.io/page/apoio/">Apoio</a></strong>.</p></blockquote>
-<p>Esta iniciativa surgiu em uma conversa corriqueira entre amigos no Twitter. Compreendemos que neste período de isolamento em que estamos vivendo, há uma forte necessidade de mais interação e produção de conteúdo entre as comunidades. Mais do que produzir conteúdo, precisamos produzir conteúdo mais inclusivo. Tívemos então a ideia de criar este grupo de estudos para que possamos aprender e compartilhar conhecimento a cerca de programação GO. Este é um espaço onde centralizarmos materiais em vídeoaulas, canais do youtube ou outras mídias, conteúdo gratuito disponível online, recomendações de livros, desafios e roadmap de estudos.</p>
-<p>Nossa proposta é que você comece a estudar Golang através do material disponível no menu <strong><a href="https://marmotaproject.github.io/page/tutoriais/">Tutoriais</a></strong> e em seguida, inicie a série de desafios propostos aqui na plataforma. Além disso, independente do ponto onde você parou com os exercícios e desafios, agendaremos lives em grupo através do <strong><a href="https://meet.google.com/">Google Meet</a></strong> ou <strong><a href="https://zoom.us/">Zoom</a></strong> para que possamos nos conhecer, melhorar o network e aprender. O que achou a ideia? Deseja participar? Cola com a gente então! Conheça nosso canal no <strong><a href="https://t.me/joinchat/ClM0VBp3EC8o6OgET7LI9Q">Telegram</a></strong>.</p>
-<p>Além do propósito de estudo em grupo, nós do Marmota usamos este espaço para ajudar na divulgação e apoio a iniciativas sociais que consideramos importantes. Para conhecer alguma destas iniciativas, vá até o menu <strong><a href="https://marmotaproject.github.io/page/apoio/">Apoio</a></strong>.</p>
+      <p>Você sabia que dá pra analisar código Go em tempo real usando ferramentas da própria linguagem? Com os pacotes <code>go/ast</code>, <code>go/parser</code> e <code>go/token</code>, podemos <strong>parsear código-fonte, navegar na AST e até transformar código</strong> — tudo isso dentro de um programa Go!</p>
+<p>Neste post, vamos explorar o núcleo da linguagem e construir um mini interpretador estático que <strong>encontra funções e parâmetros declarados</strong> em um código Go qualquer. Isso é o tipo de coisa que linters, IDEs e ferramentas como <code>go vet</code> fazem nos bastidores.</p>
+<h2 id="-o-que-é-uma-ast">🔍 O que é uma AST?</h2>
+<p>A AST (<em>Abstract Syntax Tree</em>) é uma estrutura de dados que representa o código-fonte de maneira hierárquica e estruturada. Cada pedaço do código (função, variável, chamada de função) vira um nó dentro de uma árvore.</p>
+<p>Com ela, podemos <strong>inspecionar e manipular o código como dados</strong>. É o coração de qualquer compilador ou analisador semântico.</p>
+<hr>
+<h2 id="-exemplo-na-prática-parseando-código-go">🧪 Exemplo na prática: parseando código Go</h2>
+<p>Vamos analisar o seguinte código:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> <span style="color:#e6db74">&#34;fmt&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">Hello</span>(<span style="color:#a6e22e">name</span> <span style="color:#66d9ef">string</span>) {
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;Hello&#34;</span>, <span style="color:#a6e22e">name</span>)
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Abaixo está o programa Go que parseia esse código-fonte, gera a AST e imprime as informações da função declarada:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> (
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#34;fmt&#34;</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#34;go/parser&#34;</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#34;go/token&#34;</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#34;go/ast&#34;</span>
+</span></span><span style="display:flex;"><span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">src</span> <span style="color:#f92672">:=</span> <span style="color:#e6db74">`
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">		package main
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">		import &#34;fmt&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">		func Hello(name string) {
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">			fmt.Println(&#34;Hello&#34;, name)
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">		}
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">	`</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>	<span style="color:#75715e">// Cria um novo conjunto de tokens</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">fset</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">token</span>.<span style="color:#a6e22e">NewFileSet</span>()
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>	<span style="color:#75715e">// Faz o parse do código</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">node</span>, <span style="color:#a6e22e">err</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">parser</span>.<span style="color:#a6e22e">ParseFile</span>(<span style="color:#a6e22e">fset</span>, <span style="color:#e6db74">&#34;example.go&#34;</span>, <span style="color:#a6e22e">src</span>, <span style="color:#a6e22e">parser</span>.<span style="color:#a6e22e">AllErrors</span>)
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">if</span> <span style="color:#a6e22e">err</span> <span style="color:#f92672">!=</span> <span style="color:#66d9ef">nil</span> {
+</span></span><span style="display:flex;"><span>		panic(<span style="color:#a6e22e">err</span>)
+</span></span><span style="display:flex;"><span>	}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>	<span style="color:#75715e">// Percorre a árvore de sintaxe</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">ast</span>.<span style="color:#a6e22e">Inspect</span>(<span style="color:#a6e22e">node</span>, <span style="color:#66d9ef">func</span>(<span style="color:#a6e22e">n</span> <span style="color:#a6e22e">ast</span>.<span style="color:#a6e22e">Node</span>) <span style="color:#66d9ef">bool</span> {
+</span></span><span style="display:flex;"><span>		<span style="color:#75715e">// Encontra declarações de função</span>
+</span></span><span style="display:flex;"><span>		<span style="color:#66d9ef">if</span> <span style="color:#a6e22e">fn</span>, <span style="color:#a6e22e">ok</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">n</span>.(<span style="color:#f92672">*</span><span style="color:#a6e22e">ast</span>.<span style="color:#a6e22e">FuncDecl</span>); <span style="color:#a6e22e">ok</span> {
+</span></span><span style="display:flex;"><span>			<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;Função encontrada:&#34;</span>, <span style="color:#a6e22e">fn</span>.<span style="color:#a6e22e">Name</span>.<span style="color:#a6e22e">Name</span>)
+</span></span><span style="display:flex;"><span>			<span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">param</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">fn</span>.<span style="color:#a6e22e">Type</span>.<span style="color:#a6e22e">Params</span>.<span style="color:#a6e22e">List</span> {
+</span></span><span style="display:flex;"><span>				<span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">name</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">param</span>.<span style="color:#a6e22e">Names</span> {
+</span></span><span style="display:flex;"><span>					<span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Printf</span>(<span style="color:#e6db74">&#34;- Parâmetro: %s do tipo %T\n&#34;</span>, <span style="color:#a6e22e">name</span>.<span style="color:#a6e22e">Name</span>, <span style="color:#a6e22e">param</span>.<span style="color:#a6e22e">Type</span>)
+</span></span><span style="display:flex;"><span>				}
+</span></span><span style="display:flex;"><span>			}
+</span></span><span style="display:flex;"><span>		}
+</span></span><span style="display:flex;"><span>		<span style="color:#66d9ef">return</span> <span style="color:#66d9ef">true</span>
+</span></span><span style="display:flex;"><span>	})
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="-o-que-esse-código-faz">🧠 O que esse código faz?</h3>
+<ol>
+<li>Define um trecho de código Go como string.</li>
+<li>Usa <code>parser.ParseFile</code> para gerar uma árvore sintática.</li>
+<li>Percorre a árvore com <code>ast.Inspect</code>.</li>
+<li>Encontra funções (<code>ast.FuncDecl</code>) e extrai os parâmetros e nomes.</li>
+</ol>
+<hr>
+<h2 id="-dicas-de-uso-prático">💡 Dicas de uso prático</h2>
+<p>Esse conhecimento é a base para criar ferramentas como:</p>
+<ul>
+<li><strong>Linters personalizados</strong> (ex: proibir funções globais).</li>
+<li><strong>Geradores de código</strong> com base em padrões.</li>
+<li><strong>Analisadores semânticos</strong> para refatoração automática.</li>
+<li><strong>Mini interpretadores ou DSLs</strong> dentro de Go.</li>
+</ul>
+<hr>
+<h2 id="-quer-avançar-ainda-mais">🚀 Quer avançar ainda mais?</h2>
+<p>Se quiser ir além, você pode:</p>
+<ul>
+<li>Modificar a AST e <strong>reescrever o código-fonte</strong>.</li>
+<li>Integrar com <code>go/types</code> para fazer análise de tipos.</li>
+<li>Criar plugins para o <code>go vet</code> ou para sua própria IDE.</li>
+</ul>
+<hr>
+<h2 id="-referências-oficiais">🧭 Referências oficiais</h2>
+<ul>
+<li><a href="https://pkg.go.dev/go/ast">Pacote <code>go/ast</code></a></li>
+<li><a href="https://pkg.go.dev/go/parser">Pacote <code>go/parser</code></a></li>
+<li><a href="https://pkg.go.dev/go/token">Pacote <code>go/token</code></a></li>
+</ul>
+<hr>
+<h2 id="-conclusão">🧵 Conclusão</h2>
+<p>Com <code>go/ast</code>, você não está só escrevendo Go — você está <strong>escrevendo ferramentas que entendem Go</strong>. Isso coloca você em um novo patamar como desenvolvedor: um que pode construir suas próprias ferramentas de análise, refatoração ou até compilação!</p>
+<hr>
+<p>Quer ver mais posts como esse? Comenta aí ou me chama que posso explorar mais temas avançados como geração de código com <code>go/types</code>, concorrência low-level com <code>unsafe</code>, ou construção de plugins com <code>go plugin</code>!</p>
 
     </div>
     <div class="post-footer">

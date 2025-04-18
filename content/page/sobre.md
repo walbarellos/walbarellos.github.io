@@ -1,7 +1,7 @@
 ---
 title: "Sobre"
 date: '2025-04-18T00:40:34-03:00'
-tags: ["tea", "TOEFLITP", "English", "Hebrew", "Sobre", "certificado"]
+tags: ["TOEFLITP", "Inglês", "Hebraico", "Sobre", "Certificado"]
 draft: false
 ---
 

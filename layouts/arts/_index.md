@@ -1,4 +1,4 @@
 ---
 title: "Artes"
-type: arts
+type: "arts"
 ---

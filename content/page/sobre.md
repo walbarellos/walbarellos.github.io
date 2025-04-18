@@ -1,6 +1,7 @@
 ---
 title: "Sobre"
 date: '2025-04-18T00:40:34-03:00'
+type: "post"
 tags: ["TOEFLITP", "Inglês", "Hebraico", "Sobre", "Certificado"]
 draft: false
 ---

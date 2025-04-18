@@ -1,17 +1,33 @@
 ---
-title: "Sejam bem-vind(x)s"
-date: 2020-05-07T21:36:10-03:00
+title: "Explorando as Entranhas do Go: Manipulando Código com ASTs como um Compilador Ninja"
+date: 2025-04-18
+tags: ["Go", "Golang", "AST", "Compiladores", "Parser", "go/ast"]
+description: "Aprenda como usar os pacotes internos da linguagem Go para analisar, interpretar e navegar por código-fonte Go usando árvores de sintaxe abstrata."
 weight: 1
 draft: false
 ---
 
-Sejam bem-vind(x)s ao grupo de estudos Marmota!
+Você sabia que dá pra analisar código Go em tempo real usando ferramentas da própria linguagem? Com os pacotes `go/ast`, `go/parser` e `go/token`, podemos **parsear código-fonte, navegar na AST e até transformar código** — tudo isso dentro de um programa Go!
 
-> **Nota**: Primeiramente, **FIQUE EM CASA**! Se não puder, entre em contato conosco para que possamos identificar onde se encaixa e a qual grupo, comunidade, iniciativa mais perto de você que já está promovendo financiamento coletivo para te ajudar. Para saber mais, acesse o menu **[Apoio](https://marmotaproject.github.io/page/apoio/)**.
+Neste post, vamos explorar o núcleo da linguagem e construir um mini interpretador estático que **encontra funções e parâmetros declarados** em um código Go qualquer. Isso é o tipo de coisa que linters, IDEs e ferramentas como `go vet` fazem nos bastidores.
 
-Esta iniciativa surgiu em uma conversa corriqueira entre amigos no Twitter. Compreendemos que neste período de isolamento em que estamos vivendo, há uma forte necessidade de mais interação e produção de conteúdo entre as comunidades. Mais do que produzir conteúdo, precisamos produzir conteúdo mais inclusivo. Tívemos então a ideia de criar este grupo de estudos para que possamos aprender e compartilhar conhecimento a cerca de programação GO. Este é um espaço onde centralizarmos materiais em vídeoaulas, canais do youtube ou outras mídias, conteúdo gratuito disponível online, recomendações de livros, desafios e roadmap de estudos.
+## 🔍 O que é uma AST?
 
-Nossa proposta é que você comece a estudar Golang através do material disponível no menu **[Tutoriais](https://marmotaproject.github.io/page/tutoriais/)** e em seguida, inicie a série de desafios propostos aqui na plataforma. Além disso, independente do ponto onde você parou com os exercícios e desafios, agendaremos lives em grupo através do **[Google Meet](https://meet.google.com/)** ou **[Zoom](https://zoom.us/)** para que possamos nos conhecer, melhorar o network e aprender. O que achou a ideia? Deseja participar? Cola com a gente então! Conheça nosso canal no **[Telegram](https://t.me/joinchat/ClM0VBp3EC8o6OgET7LI9Q)**.
+A AST (*Abstract Syntax Tree*) é uma estrutura de dados que representa o código-fonte de maneira hierárquica e estruturada. Cada pedaço do código (função, variável, chamada de função) vira um nó dentro de uma árvore.
 
-Além do propósito de estudo em grupo, nós do Marmota usamos este espaço para ajudar na divulgação e apoio a iniciativas sociais que consideramos importantes. Para conhecer alguma destas iniciativas, vá até o menu **[Apoio](https://marmotaproject.github.io/page/apoio/)**.
+Com ela, podemos **inspecionar e manipular o código como dados**. É o coração de qualquer compilador ou analisador semântico.
 
+---
+
+## 🧪 Exemplo na prática: parseando código Go
+
+Vamos analisar o seguinte código:
+
+```go
+package main
+
+import "fmt"
+
+func Hello(name string) {
+	fmt.Println("Hello", name)
+}

@@ -6,12 +6,14 @@
     
     <style>
       @import url("https://fonts.googleapis.com/css2?family=Fresca&display=swap");
+
       * {
         box-sizing: border-box;
         color: rgba(255, 255, 255, 0.7);
         text-align: center;
         font-family: "Fresca", sans-serif;
       }
+
       body {
         padding: 0;
         margin: 0;
@@ -20,6 +22,7 @@
         flex-direction: column;
         align-items: center;
       }
+
       .images {
         min-height: 300px;
         max-width: 1080px;
@@ -27,16 +30,19 @@
         justify-content: center;
         flex-wrap: wrap;
       }
+
       img {
         padding: 20px;
         max-width: 350px;
       }
+
       @media (max-width: 1080px) {
         img {
           padding: 20px;
           max-width: 440px;
         }
       }
+
       h1 {
         z-index: 1;
         font-size: 72px;
@@ -46,15 +52,18 @@
         --color-3: rgba(255, 255, 255, 0.5);
         --color-4: rgba(255, 255, 255, 0.55);
       }
+
       @media (max-width: 1080px) {
         h1 {
           margin: 30px;
           margin-top: 70px;
         }
       }
+
       h1 > span {
         animation: color-animation 0.1s linear infinite;
       }
+
       @keyframes color-animation {
         0%    {color: var(--color-1)}
         24%   {color: var(--color-1)}
@@ -66,64 +75,89 @@
         99%   {color: var(--color-4)}
         100%  {color: var(--color-1)}
       }
+
       .fade {
         width: 100vw;
         height: 20vh;
         max-height: 200px;
         position: fixed;
       }
+
       .bottom {
         bottom: 0;
         background: linear-gradient(transparent, black);
       }
+
       .top {
         top: 0;
         background: linear-gradient(black, transparent);
       }
+
       a {
         text-decoration: none;
       }
+
       .flicker-a {
         z-index: 1;
         padding: 40px;
         margin-top: 100px;
         margin-bottom: 150px;
       }
+
       .flicker-a.other {
         padding: 40px;
       }
+
       a > h1 {
         margin: 0;
         font-size: 32px;
       }
+
       @media (max-width: 1080px) {
         a > h1 {
           font-size: 48px;
         }
       }
+
+      .button {
+        margin: 40px;
+        padding: 15px 30px;
+        border: 2px solid white;
+        color: white;
+        font-size: 20px;
+        border-radius: 10px;
+        background: transparent;
+        cursor: pointer;
+        transition: background 0.3s, color 0.3s;
+      }
+
+      .button:hover {
+        background: white;
+        color: black;
+      }
     </style>
   </head>
 
   <body>
-    <a class="flicker-a" href="http://localhost:1313/posts/" target="_blank">
-  <h1>
-    <span>B</span>e<span>m</span><span> V</span>in<span>d</span>o
-  </h1>
-</a>
 
-<div class="images"></div>
+    <a class="flicker-a" href="https://dev-walbarello.netlify.app/" target="_blank">
+      <h1><span>B</span>e<span>m</span><span> V</span>in<span>d</span>o</h1>
+    </a>
 
-    <a class="flicker-a" href="https://qoto.org/@wepiphany" target="_blank">
+    <button class="button" onclick="history.back()">← Voltar</button>
+
+    <div class="images"></div>
+
+    <a class="flicker-a other" href="https://qoto.org/@wepiphany" target="_blank">
       <h1><span>@</span>w<span>a</span>l<span>b</span>a<span>r</span>e<span>l</span>l<span>o</span></h1>
     </a>
-    
+
     <div class="fade top"></div>
     <div class="fade bottom"></div>
 
     <script type="text/javascript">
       const images = document.querySelector(".images");
 
-      // Supondo nomes de 21.gif a 44.gif
       for (let i = 21; i <= 44; i++) {
         const a = document.createElement("a");
         a.href = '/images/arts/' + i + '.gif';
@@ -138,7 +172,7 @@
         images.append(a);
       }
 
-      // Embaralhar ordem
+      // Shuffle
       for (let i = images.children.length; i >= 0; i--) {
         images.appendChild(images.children[Math.random() * i | 0]);
       }

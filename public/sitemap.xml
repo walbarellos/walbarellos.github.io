@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/welcome/</loc>
+    <loc>https://dev-walbarello.netlify.app/posts/welcome/</loc>
     <lastmod>2020-05-07T21:36:10-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://dev-walbarello.netlify.app/</loc>
     <lastmod>2025-04-18T00:40:34-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://dev-walbarello.netlify.app/page/</loc>
     <lastmod>2025-04-18T00:40:34-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/sobre/</loc>
+    <loc>https://dev-walbarello.netlify.app/page/sobre/</loc>
     <lastmod>2025-04-18T00:40:34-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://dev-walbarello.netlify.app/posts/</loc>
     <lastmod>2020-05-07T21:36:10-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/arts/</loc>
+    <loc>https://dev-walbarello.netlify.app/arts/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://dev-walbarello.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://dev-walbarello.netlify.app/tags/</loc>
   </url>
 </urlset>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OR✡</title>
-    <link>http://localhost:1313/</link>
+    <link>https://dev-walbarello.netlify.app/</link>
     <description>Recent content on OR✡</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Apr 2025 00:40:34 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dev-walbarello.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sejam bem-vind(x)s</title>
-      <link>http://localhost:1313/posts/welcome/</link>
+      <link>https://dev-walbarello.netlify.app/posts/welcome/</link>
       <pubDate>Thu, 07 May 2020 21:36:10 -0300</pubDate>
-      <guid>http://localhost:1313/posts/welcome/</guid>
+      <guid>https://dev-walbarello.netlify.app/posts/welcome/</guid>
       <description>&lt;p&gt;Sejam bem-vind(x)s ao grupo de estudos Marmota!&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota&lt;/strong&gt;: Primeiramente, &lt;strong&gt;FIQUE EM CASA&lt;/strong&gt;! Se não puder, entre em contato conosco para que possamos identificar onde se encaixa e a qual grupo, comunidade, iniciativa mais perto de você que já está promovendo financiamento coletivo para te ajudar. Para saber mais, acesse o menu &lt;strong&gt;&lt;a href=&#34;https://marmotaproject.github.io/page/apoio/&#34;&gt;Apoio&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Esta iniciativa surgiu em uma conversa corriqueira entre amigos no Twitter. Compreendemos que neste período de isolamento em que estamos vivendo, há uma forte necessidade de mais interação e produção de conteúdo entre as comunidades. Mais do que produzir conteúdo, precisamos produzir conteúdo mais inclusivo. Tívemos então a ideia de criar este grupo de estudos para que possamos aprender e compartilhar conhecimento a cerca de programação GO. Este é um espaço onde centralizarmos materiais em vídeoaulas, canais do youtube ou outras mídias, conteúdo gratuito disponível online, recomendações de livros, desafios e roadmap de estudos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sobre</title>
-      <link>http://localhost:1313/page/sobre/</link>
+      <link>https://dev-walbarello.netlify.app/page/sobre/</link>
       <pubDate>Fri, 18 Apr 2025 00:40:34 -0300</pubDate>
-      <guid>http://localhost:1313/page/sobre/</guid>
+      <guid>https://dev-walbarello.netlify.app/page/sobre/</guid>
       <description>&lt;h1 id=&#34;meu-nome-é-willian-albarello-tenho-28-anos-suspeito-de-autismo&#34;&gt;Meu nome é Willian Albarello, tenho 28 anos. Suspeito de Autismo&lt;/h1&gt;&#xA;&lt;p&gt;Afinal diagnóstico custa um carro! Faço parte do spectrum leve, seja lá o que isso signifique, certo? Afinal DSM ignora um dado realmente importante: suicídio de autistas &amp;ldquo;grau leve&amp;rdquo; comparado aos que possuem &amp;ldquo;grau severo&amp;rdquo;. O Estado deseja que eu vire uma 🌟 no céu&amp;hellip; KKK (perdão).&lt;/p&gt;&#xA;&lt;p&gt;Mas então&amp;hellip; O primeiro contato com &lt;strong&gt;Computadores&lt;/strong&gt; foi em 2000~2002 quando tive a oportunidade de consertar um &lt;strong&gt;Windows 95&lt;/strong&gt;. Era maravilhoso. Ainda criança, me apaixonei pela liberdade e o compartilhar de informações e estudos. &lt;strong&gt;Consegui minha fluência em Inglês&lt;/strong&gt; através de inúmeros artigos, jogos e filmes. Hoje, tenho proficiência atestada pelo &lt;strong&gt;TOEFL ITP 📚✅&lt;/strong&gt;. &lt;a href=&#34;https://shnose.netlify.app/img/isf-declaracao.pdf&#34;&gt;&lt;em&gt;(Meu certificado, próximo que fizer será C2! 🚀)&lt;/em&gt;&lt;/a&gt; Estou atualmente conseguindo a fluência do meu terceiro Idioma: &lt;strong&gt;Hebraico&lt;/strong&gt;, muito pouco de &lt;strong&gt;Yiddish,&lt;/strong&gt; perdão comunidade ashkenazi 🇮🇱. Atualmente falo &lt;strong&gt;Português-Brasil&lt;/strong&gt; (língua mãe), &lt;strong&gt;Inglês&lt;/strong&gt; (fluente), &lt;strong&gt;Hebraico&lt;/strong&gt; e escuto muito bem japonês graças a 20 anos de animes. Aprendizado insconsciente é algo surreal. 🌍. Ser poliglota foi um Sonho realizado graças aos Avanços da Tecnologia em todo o Mundo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Artes</title>
-      <link>http://localhost:1313/arts/</link>
+      <link>https://dev-walbarello.netlify.app/arts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/arts/</guid>
+      <guid>https://dev-walbarello.netlify.app/arts/</guid>
       <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;  &lt;head&gt;&#xD;&#xA;    &lt;meta charset=&#34;UTF-8&#34; /&gt;&#xD;&#xA;    &lt;title&gt;Artes&lt;/title&gt;&#xD;&#xA;    &lt;!-- ... (todo o seu &lt;style&gt; e HTML completo aqui) ... --&gt;&#xD;&#xA;  &lt;/head&gt;&#xD;&#xA;  &lt;body&gt;&#xD;&#xA;    &lt;!-- seu conteúdo aqui --&gt;&#xD;&#xA;  &lt;/body&gt;&#xD;&#xA;&lt;/html&gt;</description>
     </item>
   </channel>

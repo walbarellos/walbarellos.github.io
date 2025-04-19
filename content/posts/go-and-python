@@ -1,20 +1,148 @@
+
 ---
-title: Programação Assíncrona Avançada e Metaprogramação em Python
-date: 2024-08-01 # Data de publicação (ajuste conforme necessário)
-description: Um guia completo sobre como usar asyncio para programar de forma não bloqueante e como explorar o poder da metaprogramação com Python.
+title: Programação Assíncrona e Metaprogramação em Python vs Ruby
+date: 2024-08-01
+description: Comparativo prático entre recursos de programação assíncrona e metaprogramação em Python e Ruby, com exemplos reais.
 tags:
   - Python
+  - Ruby
   - Asyncio
+  - Fibers
   - Metaprogramação
-  - Corrotinas
-  - Descriptors
-  - AST
+  - Desenvolvimento
+  - Programação Avançada
 ---
 
+# Python vs Ruby — Assíncrono e Metaprogramação
 
-# Programação Assíncrona Avançada e Metaprogramação em Python
+Este documento compara as abordagens de **Python** e **Ruby** para dois temas poderosos: **programação assíncrona** e **metaprogramação**.
 
-Este documento explora técnicas avançadas de programação assíncrona com `asyncio` e conceitos sofisticados de metaprogramação em Python, com exemplos práticos e explicações detalhadas para cada caso.
+---
+
+## ⚙️ Programação Assíncrona
+
+### Python com `asyncio`
+
+```python
+import asyncio
+
+async def tarefa():
+    print("Início")
+    await asyncio.sleep(1)
+    print("Fim")
+
+asyncio.run(tarefa())
+```
+
+- Nativo desde o Python 3.5 (`async`, `await`)
+- Cancelamento com `.cancel()`
+- Timeout com `asyncio.wait_for()`
+- Execução paralela com `asyncio.gather()`
+- Suporte a `async generators`
+
+### Ruby com `async` (gem)
+
+```ruby
+require 'async'
+
+Async do
+  task1 = Async { sleep 2; puts "Task 1 done" }
+  task2 = Async { sleep 1; puts "Task 2 done" }
+end
+```
+
+- Utiliza Fibers (não threads)
+- Controle via escopos de tarefa
+- Cancelamento com `task.stop`
+- Timeout com `Async::Timeout`
+- Leve, elegante, mas exige gems externas
+
+### Cancelamento de Tarefa em Ruby
+
+```ruby
+require 'async'
+
+Async do |task|
+  child = task.async { sleep 5; puts "não verá isso" }
+  sleep 1
+  child.stop  # Cancela
+end
+```
+
+### Timeout em Ruby
+
+```ruby
+require 'async'
+require 'async/timeout'
+
+Async do
+  Async::Timeout.timeout(2) do
+    sleep 5
+  end
+rescue Async::TimeoutError
+  puts "Tempo excedido!"
+end
+```
+
+---
+
+## 🧠 Metaprogramação
+
+### Python
+
+```python
+def criar_classe():
+    return type('NovaClasse', (), {'diga_oi': lambda self: print("Oi")})
+
+cls = criar_classe()
+obj = cls()
+obj.diga_oi()
+```
+
+- Criação de classes com `type()`
+- Metaclasses via `__new__`
+- Descriptors com `__get__`, `__set__`
+- Manipulação de AST (`ast`, `inspect`)
+- Monkey patching e introspecção
+
+### Ruby
+
+```ruby
+class Pessoa
+  define_method(:diga_oi) { puts "Oi!" }
+end
+
+Pessoa.new.diga_oi
+```
+
+- Tudo é objeto (incluindo classes e métodos)
+- Métodos dinâmicos com `define_method`
+- `method_missing` para interceptação
+- Avaliação dinâmica com `eval`, `instance_eval`
+- `Module#prepend`, `alias_method` para alteração de comportamento
+
+### Ruby: `method_missing`
+
+```ruby
+class Logger
+  def method_missing(metodo, *args)
+    puts "Chamou #{metodo} com #{args.inspect}"
+  end
+end
+
+Logger.new.salvar("teste")
+```
+
+### Ruby: introspecção e reflexão
+
+```ruby
+class Produto
+  attr_accessor :nome
+end
+
+p = Produto.new
+p.methods.include?(:nome)  # true
+```
 
 ---
 
@@ -158,4 +286,27 @@ async def main():
 
 ---
 
-*(continua com metaprogramação conforme já estruturado acima)*
+## ⚖️ Comparativo Final
+
+| Conceito                    | Python                          | Ruby                             |
+|----------------------------|----------------------------------|----------------------------------|
+| Assíncrono nativo          | ✅ asyncio                       | ⚠️ via gem (async, EventMachine) |
+| Cancelamento de tarefas    | ✅ cancel(), try/except          | ⚠️ task.stop, escopos manuais    |
+| Timeout                    | ✅ wait_for()                    | ⚠️ Async::Timeout                |
+| `async generators`         | ✅ sim                          | ❌ não diretamente                |
+| Criação dinâmica de classe | ✅ `type()`                      | ✅ `define_method`, `class_eval` |
+| Metaclasses                | ✅ via `type`, `__new__`         | ✅ via `Class.new`, `Module`     |
+| AST e introspecção         | ✅ `ast`, `inspect`              | ⚠️ introspecção limitada         |
+| Monkey patching            | ✅ sim                          | ✅ muito comum                   |
+
+---
+
+
+
+## 🧩 Conclusão
+
+- **Python** tem uma estrutura assíncrona robusta, com excelente integração com o loop de eventos e manipulação de código via metaprogramação e AST.
+- **Ruby** brilha na expressividade e facilidade da metaprogramação, com DSLs elegantes e flexibilidade incomparável.
+
+Ambas linguagens são poderosas. Escolha depende do contexto: concisão e DSLs? Ruby. Performance e ecossistema assíncrono? Python.
+

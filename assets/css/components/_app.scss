@@ -7,46 +7,6 @@
   text-align: center;
 }
 
-@keyframes neonBoxPulse {
-  0%, 200% {
-    box-shadow: 0 0 1rem $primary-color, 0 0 0rem $primary-color, 0 0 0rem $primary-color;
-  }
-  50% {
-    box-shadow: 0 0 0.4rem lighten($primary-color, 1%), 0 0 0.5rem lighten($primary-color, 1%), 0 0 0.5rem lighten($primary-color, 1%);
-  }
-}
-
-@keyframes glitch {
-  0%, 100% {
-    transform: translate(0);
-  }
-  20% {
-    transform: translate(2px, -2px);
-  }
-  40% {
-    transform: translate(-2px, 2px);
-  }
-  60% {
-    transform: translate(1px, 1px);
-  }
-  80% {
-    transform: translate(-1px, -1px);
-  }
-}
-
-@keyframes neonTextPulse {
-  from {
-    text-shadow: 0 0 0.25rem #00ff00, 0 0 0.5rem #00ff00, 0 0 0.75rem #00ff00;
-  }
-  to {
-    text-shadow: 0 0 0.5rem #00ff00, 0 0 1rem #00ff00, 0 0 1.5rem #00ff00;
-  }
-}
-
-html {
-  -webkit-text-size-adjust: 100%;
-  text-size-adjust: 100%;
-}
 
 .app-header-avatar {
   width: 15rem;

@@ -13,15 +13,36 @@
   }
 }
 
+@keyframes glitch {
+  0%, 100% {
+    transform: translate(0);
+  }
+  1%, 1.1%, 0.8%, 1.2%, 0.9% {
+    transform: translate(2px, -2px);
+  }
+  1%, 1%, 1%, 1% {
+    transform: translate(-2px, 2px);
+  }
+}
+
 .app-header-avatar {
+  /* ... (seu estilo existente) ... */
   width: 15rem;
   height: 15rem;
   border-radius: 100%;
   border: 0.5rem solid $primary-color;
   animation: neonPulse 2s infinite;
   transition: box-shadow 0.3s ease-in-out;
+  animation: neonPulse 2s infinite, glitch 0.5s infinite alternate; /* Adicionando a animação de glitch */
+  transition: box-shadow 0.3s ease-in-out, transform 0.2s ease-in-out; /* Adicionando transição para a transformação */
+
 }
 
+
+.app-header-avatar:hover {
+  box-shadow: 0 0 2rem $primary-color, 0 0 1rem $primary-color, 0 0 1rem $primary-color;
+  transform: scale(1.1); /* Aumenta o tamanho do avatar no hover */
+}
 
 .app-container {
   padding: 2.5rem;
@@ -45,7 +66,19 @@
   font-size: 2em;
   margin: 0.67em 0;
   font-weight: bold;
+  text-shadow: 0 0 0.25rem #00ff00, 0 0 0.5rem #00ff00, 0 0 0.25rem #00ff00; /* Sombras neon */
+  animation: neonPulse 2s infinite alternate; /* Pulsação das sombras */
 }
+
+@keyframes neonPulse {
+  from {
+    text-shadow: 0 0 0.25rem #00ff00, 0 0 0.5rem #00ff00, 0 0 0.75rem #00ff00;
+  }
+  to {
+    text-shadow: 0 0 0.5rem #00ff00, 0 0 1rem #00ff00, 0 0 1.5rem #00ff00;
+  }
+}
+
 
 @media (min-width: 940px) {
   .app-header {

@@ -1,5 +1,5 @@
 ---
-title: Ikveta deMeshicha עִקְּבוֹת הַמָּשִׁיחַ
+title: עִקְּבוֹת הַמָּשִׁיחַ e os sinais.
 date: 2024-08-01 # Data de publicação
 description: Uma análise aprofundada do conceito de "Ikveta deMeshicha" (os calcanhares do Messias) e seus sinais na tradição judaica.
 tags:
@@ -142,6 +142,96 @@ Fontes e Comentários:
 > "oyvei ish anshei beito"
 
 Tradução: Os inimigos de uma pessoa serão os membros de sua própria casa.
+
+
+
+## As Características da Era Messiânica na Tradição Judaica
+
+A Era Messiânica é um período futuro de paz, prosperidade e entendimento universal, aguardado com grande expectativa na tradição judaica. As Escrituras Hebraicas oferecem vislumbres dessas características transformadoras.
+
+### A Transformação da Natureza
+
+**Fertilidade da Terra Restaurada:**
+
+> "וְנָתַן יְהוָה אֶת־טַל שָׁמֶיךָ וְאֶת־אֶרֶץ פִּרְיָהּ לְעִתּוֹ"
+>
+> "venatan Adonai et-tal shamekha ve'et-eretz piryah le'ito"
+
+Tradução: E o Senhor dará a chuva para a tua terra no seu tempo, e a terra dará o seu fruto.
+Fonte: Deuteronômio 11:14.
+
+**Paz entre os Animais:**
+
+> "וְגָר זְאֵב עִם־כֶּבֶשׂ וְנָמֵר עִם־גְּדִי יִרְבָּץ וְעֵגֶל וּכְפִיר וּמְרִיא יַחְדָּו וְנַעַר קָטֹן נֹהֵג בָּם"
+>
+> "vegar ze'ev im-keves venamer im-gedi yirbats ve'egel ukhfir umeri yaḥdav vena'ar katon noheg bam"
+
+Tradução: E o lobo habitará com o cordeiro, e o leopardo se deitará com o cabrito; e o bezerro, e o leão novo, e o animal cevado viverão juntos; e uma criança pequena os conduzirá.
+Fonte: Isaías 11:6.
+
+### A Ressurreição dos Mortos
+
+**A Visão dos Ossos Secos:**
+
+> "הִנְּבֵא עַל־הָעֲצָמוֹת הָאֵלֶּה וְאָמַרְתָּ אֲלֵיהֶם הָעֲצָמוֹת הַיְבֵשׁוֹת שִׁמְעוּ דְּבַר־יְהוָה"
+>
+> "hinavei al-ha'atzamot ha'elleh ve'amarta aleihem ha'atzamot hayevashot shim'u devar-Adonai"
+
+Tradução: Profetiza sobre estes ossos, e dize-lhes: Ó ossos secos, ouvi a palavra do Senhor.
+Fonte: Ezequiel 37:4.
+
+### A Paz Universal
+
+**Desarmamento Global:**
+
+> "לֹא־יִשָּׂא גוֹי אֶל־גּוֹי חֶרֶב וְלֹא־יִלְמְדוּ עוֹד מִלְחָמָה"
+>
+> "lo-yissa goi el-goi cherev velo-yilmedu od milchamah"
+
+Tradução: Uma nação não levantará espada contra outra nação, e eles não aprenderão mais a guerra.
+Fontes: Isaías 2:4, Miquéias 4:3.
+
+### O Conhecimento de Deus
+
+**Entendimento Universal:**
+
+> "כִּי־מָלְאָה הָאָרֶץ דֵּעָה אֶת־יְהוָה כַּמַּיִם לַיָּם מְכַסִּים"
+>
+> "ki-male'ah ha'aretz de'ah et-Adonai kama'yim layam mekhassim"
+
+Tradução: Pois a terra se encherá do conhecimento do Senhor, assim como as águas cobrem o mar.
+Fonte: Isaías 11:9.
+
+**Uma Linguagem Pura:**
+
+> "כִּי־אָז אֶהְפֹּךְ אֶל־עַמִּים שָׂפָה בְרוּרָה לִקְרֹא כֻלָּם בְּשֵׁם יְהוָה לְעָבְדוֹ שְׁכֶם אֶחָד"
+>
+> "ki-az ehpof el-amim safah berurah likro khulam beshem Adonai le'ovdo shekhem eḥad"
+
+Tradução: Porque então darei aos povos lábios puros, para que todos invoquem o nome do Senhor, para o servirem com um só ombro.
+Fonte: Sofonias 3:9.
+
+### A Centralidade de Jerusalém
+
+**Casa de Oração para Todas as Nações:**
+
+> "וְהֵבִיאֹתִים אֶל־הַר קָדְשִׁי וְשִׂמַּחְתִּים בְּבֵית תְּפִלָּתִי עוֹלֹתֵיהֶם וְזִבְחֵיהֶם לְרָצוֹן עַל־מִזְבְּחִי כִּי בֵיתִי בֵּית־תְּפִלָּה יִקָּרֵא לְכָל־הָעַמִּים"
+>
+> "vehevi'otim el-har kodshi vesimachtim beveit tefilati oloteihem vezivḥeihem leratzon al-mizbeḥi ki veiti veit-tefilah yikarei lekhol-ha'amim"
+
+Tradução: Também os trarei ao meu santo monte, e os alegrarei na minha casa de oração; os seus holocaustos e os seus sacrifícios serão aceitos no meu altar; porque a minha casa será chamada casa de oração para todos os povos.
+Fonte: Isaías 56:7.
+
+**Lei e Justiça Emanarão de Jerusalém:**
+
+> "כִּי מִצִּיּוֹן תֵּצֵא תוֹרָה וּדְבַר־יְהוָה מִירוּשָׁלָ‍ִם"
+>
+> "ki mitzion tetzei torah u'devar-Adonai מירושלים"
+
+Tradução: Porque de Sião sairá a lei, e a palavra do Senhor de Jerusalém.
+Fontes: Isaías 2:3, Miquéias 4:2.
+
+
 
 Fontes e Comentários:
 * **Miquéias 7:6 (citado no Talmud Bavli, Sotá 49b):** Esta citação bíblica, trazida pelo Talmud, enfatiza a profunda divisão e desconfiança que permearão a sociedade, chegando ao ponto de inimizade dentro da própria família, os laços mais íntimos se tornando fontes de conflito.

@@ -14,6 +14,82 @@ tags:
 ---
 
 
+# 📖 Análise Zohar – Siman 16 (Sulam Edition)
+
+## 🔍 Texto selecionado para análise
+
+> "ויברא אלהים את האדם בצלמו, דא מטטרו״ן... ואם לא זכה, צלם דסמא״ל תנינא, מלאך המות..."
+
+---
+
+## 1. Peshat (פשט) – o sentido literal
+
+Literalmente, o texto está explorando o versículo **"E criou Deus o homem à Sua imagem" (Bereshit 1:27)**.  
+Mas aqui o Zohar interpreta que essa "imagem" (צלם – *Tzelem*) pode ser de **Metatron**, um anjo elevado, ou de **Samael**, o anjo da morte, dependendo do mérito do homem.
+
+A dualidade é clara:
+
+- Se o homem é **justo (זכה)**, ele é criado com a imagem de **Metatron**.
+- Se **não é justo (לא זכה)**, ele recebe a forma de **Samael** – associado ao mal e à morte.
+
+---
+
+## 2. Remez (רמז) – alusão simbólica
+
+Há uma alusão sutil aqui ao **livre-arbítrio** e às **duas inclinações humanas** (יצר טוב ויצר רע – *Yetzer Tov* e *Yetzer Ra*).
+
+- **Metatron** representa o *Yetzer Tov*, o aspecto espiritual que conecta o ser humano à luz divina.
+- **Samael** é o *Yetzer Ra*, que afasta o ser humano da divindade.
+
+O texto sugere que cada ser humano carrega a **potencialidade de ambas as formas** — a imagem que se manifesta depende de suas ações e escolhas.
+
+---
+
+## 3. Derash (דרש) – interpretação homilética
+
+O texto conecta essa ideia com o ensinamento rabínico:
+
+> **"עשה מצוה אחת קנה לו פרקליט אחד"**  
+> *“Quem cumpre um mandamento, adquire um defensor (פרקליט)”*
+
+Cada membro do corpo (אבר) que cumpre uma mitsvá gera um **anjo defensor**.  
+Assim, o corpo do ser humano torna-se um **trono (כסא)** para a presença divina ou para forças negativas — dependendo de suas ações.
+
+Isso ecoa com a ideia midráshica de que o ser humano é o **campo de batalha entre forças de luz e escuridão**.  
+A escolha diária de viver com santidade molda até mesmo o **estado ontológico da alma** após a morte.
+
+---
+
+## 4. Sod (סוד) – o segredo místico
+
+Aqui está o núcleo místico do texto: a ideia de **duas formas arquetípicas** que habitam o ser humano.  
+O *צלם* não é apenas uma imagem externa, mas uma **estrutura espiritual interior** que conecta a alma às dimensões superiores.
+
+- **Metatron** é identificado como o “Tzelem” ideal — o **projeto divino** para o homem.  
+- **Samael**, anjo da morte, é o **Tzelem corrompido**, que se manifesta se o homem não "merece" refletir o ideal divino.
+
+A estrutura do homem, portanto, é um **microcosmo**:
+
+- Cada órgão tem um anjo correspondente.
+- Cada ação cria ou destrói realidades espirituais.
+- O corpo é um “trono” para forças celestiais ou infernais.
+
+Essa visão corresponde à **Cabala do Zohar**, onde o ser humano é uma ponte entre mundos — uma **"árvore das sefirot" viva**, e seu estado depende de sua adesão à Torá e às mitsvot.
+
+---
+
+## 🌌 Conexão com o PARDES
+
+| Nível   | Chave                                     | Interpretação no Zohar                          |
+|---------|-------------------------------------------|--------------------------------------------------|
+| Peshat  | Forma do homem criada à imagem de Deus    | Deus criou o homem com um “Tzelem”              |
+| Remez   | Dois anjos: Metatron (bem) e Samael (mal) | Alusão às duas inclinações humanas              |
+| Derash  | Cada mitsvá cria um defensor espiritual   | Corpo como trono, mitsvot moldam anjos          |
+| Sod     | Tzelem como estrutura energética/angelical| A alma como microcosmo místico                  |
+
+
+
+
 ## Sinais Precedentes à Vinda do Mashiach - Análise Detalhada de Fontes Judaicas
 
 Estes são os sinais do período conhecido como "Ikveta deMeshicha" (os calcanhares do Messias), conforme detalhado no Talmud e expandido por Midrashim e obras cabalísticas, com comentários e citações relevantes.

@@ -323,5 +323,5 @@ A combinação de programação assíncrona e metaprogramação representa o áp
 * Se você deseja criar DSLs, estruturas dinâmicas, ou modificar comportamento de código com leveza, Ruby é imbatível na metaprogramação.
 
 Ambas linguagens são ferramentas de alto nível — e saber usá-las com consciência pode transformar a forma como você escreve e entende software.
-rono? Python.
+
 

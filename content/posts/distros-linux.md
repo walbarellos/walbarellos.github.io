@@ -111,15 +111,15 @@ Spoiler: tem mais evolução rolando do que você imagina. Confira os dados e ti
 | Característica           | Fedora 42                                | openSUSE Tumbleweed                        |
 |--------------------------|------------------------------------------|--------------------------------------------|
 | 🔁 Modelo de lançamento  | Semi-rolling (lançamentos regulares)     | Rolling release (atualizações contínuas)   |
-| 🧠 Foco principal         | Inovação com estabilidade                | Inovação com foco técnico e robustez       |
+| 🧠 Foco principal        |  Inovação com estabilidade               | Inovação com foco técnico e robustez       |
 | 🖥️ Desktop padrão        | GNOME 48 / KDE Plasma                    | KDE Plasma (padrão), GNOME opcional        |
 | 📦 Gerenciador de pacotes| dnf / rpm-ostree                         | zypper com snapper                         |
 | 📦 Formatos suportados   | RPM, Flatpak                             | RPM, Flatpak, AppImage                     |
 | 🧪 Ferramentas exclusivas| Toolbox, Podman, novo Anaconda           | YaST, Snapper, OBS                         |
 | 🧬 Kernel                | 6.14 (sempre recente)                    | 6.14+ (frequentemente atualizado)          |
 | 🧩 Sistema de arquivos   | ext4 ou Btrfs (opcional)                 | Btrfs com Snapshots automáticos            |
-| 🔧 Facilidade de rollback| Limitado (melhor no Silverblue)         | Excelente (com Snapper + Btrfs)            |
-| 🧑‍💻 Ideal para...        | Devs, desktop moderno, GNOME             | Sysadmins, usuários técnicos, KDE lovers   |
+| 🔧 Facilidade de rollback| Limitado (melhor no Silverblue)          | Excelente (com Snapper + Btrfs)            |
+| 🧑‍💻 Ideal para...       | Devs, desktop moderno, GNOME             | Sysadmins, usuários técnicos, KDE lovers   |
 
 ---
 
@@ -146,21 +146,6 @@ Spoiler: tem mais evolução rolando do que você imagina. Confira os dados e ti
 - KDE Plasma como principal, com XFCE, GNOME etc.
 - Gerenciador gráfico de drivers, kernels e pacotes
 - Acesso ao AUR com repositórios próprios testados
-
----
-
-## 🟠 Comparativo: Manjaro vs Fedora vs Tumbleweed
-
-| Critério                | Manjaro                                  | Fedora 42                              | Tumbleweed                              |
-|-------------------------|------------------------------------------|----------------------------------------|------------------------------------------|
-| 🌱 Tipo de release      | Rolling (com buffer de testes)           | Semi-rolling                           | Rolling release (sem buffer)             |
-| 🧠 Curva de aprendizado | Média (mais fácil que Arch)              | Baixa a média                          | Alta (mais técnico)                      |
-| 🔄 Atualizações         | Constantes, mas testadas                 | Controladas e previsíveis             | Muito frequentes                         |
-| 🧩 AUR suportado?       | ✅ Sim, nativamente                      | ❌ Não                                  | ❌ Não                                    |
-| 🧪 Tecnologias de ponta | 🟡 Quase sempre em breve                 | 🟢 Rapidamente                          | 🟢 Imediatamente                          |
-| 🛡️ Estabilidade        | Boa, mas não LTS                         | Alta                                   | Boa, com riscos se não cuidar            |
-| 🖥️ Interface padrão     | KDE Plasma                              | GNOME / KDE                            | KDE Plasma                               |
-| 🧑‍💻 Ideal para...       | Usuários desktop com Arch simplificado   | Devs e entusiastas do GNOME            | Sysadmins e power users                  |
 
 ---
 

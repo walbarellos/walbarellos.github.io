@@ -54,6 +54,12 @@ theme = "hugo-theme-m10c"
   name = "Tags"
   url = "/tags/"
 
+[[menu.main]]
+  name = "Texts"
+  url = "/texts/"
+  weight = 5
+
+
 
   # Default theme
   # [params.style]

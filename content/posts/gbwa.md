@@ -1,5 +1,5 @@
 ---
-title: JS Gunbound
+title: 🎮 JS Gunbound
 date: 2025-04-22
 description: Game construído em JS
 tags:

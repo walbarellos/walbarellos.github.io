@@ -5,3 +5,4 @@ type: "texts"
 ---
 
 {{ readFile "static/texts/luz.txt" | markdownify }}
+{{ readFile "static/texts/luz01.txt" | markdownify }}

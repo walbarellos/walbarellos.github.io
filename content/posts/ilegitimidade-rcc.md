@@ -10,18 +10,6 @@ tags:
   - Devarim
 ---
 
-# 🛡️ A Autoridade da Torá e a Ilegitimidade da Substituição Cristã
-
-## Uma análise baseada em Devarim 17:8-11 e na Halachá Judaica
-
-## 📖 1. Texto Base – Devarim / Deuteronômio 17:8–11
-
-**Texto Hebraico:**
-
-# 🛡️ A Autoridade da Torá e a Ilegitimidade da Substituição Cristã
-
-## Uma análise baseada em Devarim 17:8-11 e na Halachá Judaica
-
 ## 📖 1. Texto Base – Devarim / Deuteronômio 17:8–11
 
 

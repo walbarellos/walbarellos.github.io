@@ -81,7 +81,7 @@ Essa visão corresponde à **Cabala do Zohar**, onde o ser humano é uma ponte e
 ## 🌌 Conexão com o PARDES
 
 | Nível   | Chave                                     | Interpretação no Zohar                          |
-|---------|-------------------------------------------|--------------------------------------------------|
+|---------|-------------------------------------------|-------------------------------------------------|
 | Peshat  | Forma do homem criada à imagem de Deus    | Deus criou o homem com um “Tzelem”              |
 | Remez   | Dois anjos: Metatron (bem) e Samael (mal) | Alusão às duas inclinações humanas              |
 | Derash  | Cada mitsvá cria um defensor espiritual   | Corpo como trono, mitsvot moldam anjos          |

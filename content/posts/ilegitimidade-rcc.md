@@ -30,8 +30,7 @@ A Torá exige obediência absoluta às decisões vindas da autoridade judaica of
 O versículo 11 ordena:
 
 > עַל־פִּי הַתּוֹרָה אֲשֶׁר יוֹרוּךָ וְעַל הַמִּשְׁפָּט אֲשֶׁר יֹאמְרוּ לְךָ תַּעֲשֶׂה לֹא תָסוּר מִן־הַדָּבָר אֲשֶׁר־יַגִּידוּ לְךָ יָמִין וּשְׂמֹאל׃
-
-> Al-pi haTorah asher yorucha ve'al hamishpat asher yomru lecha ta'aseh; lo tasur min-hadavar asher yagidu lecha yamin usmol.
+    > Al-pi haTorah asher yorucha ve'al hamishpat asher yomru lecha ta'aseh; lo tasur min-hadavar asher yagidu lecha yamin usmol.
 
 > “Conforme à Torá que te ensinarem e conforme ao julgamento que te disserem, farás; não te desviarás da palavra que te disserem, nem para a direita nem para a esquerda.”
 
@@ -39,8 +38,7 @@ O versículo 11 ordena:
 
 **📘 Talmud Bavli – Sanhedrin 88b:**
 > כל הממרה את פי בית דין – הרי זה כממרה את פי המקום
-
-> Kol ha-memare et pi Beit Din – harei zeh ke-memare et pi haMakom.
+    > Kol ha-memare et pi Beit Din – harei zeh ke-memare et pi haMakom.
 
 > “Aquele que recusa aceitar a decisão do tribunal central é como quem recusa a palavra do próprio Deus.”
 

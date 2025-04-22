@@ -14,8 +14,7 @@ tags:
 
 
 > כִּֽי־יִפָּלֵא מִמְּךָ דָבָר לַמִּשְׁפָּט בֵּין דָּם לְדָם בֵּין דִּין לְדִין בֵּין נֶגַע לָנֶגַע דִּבְרֵי רִיבֹת בִּשְׁעָרֶיךָ וְקַמְתָּ וְעָלִיתָ אֶל־הַמָּקוֹם אֲשֶׁר־יִבְחַר יְהוָה אֱלֹהֶיךָ בוֹ
-
-> Ki yippalé mimcha davar la-mishpat, bein dam le-dam, bein din le-din, bein nega la-nega, divrei rivot bish'arecha; vekamta ve'alita el-hamakom asher yivchar Hashem Eloheicha bo.
+      > Ki yippalé mimcha davar la-mishpat, bein dam le-dam, bein din le-din, bein nega la-nega, divrei rivot bish'arecha; vekamta ve'alita el-hamakom asher yivchar Hashem Eloheicha bo.
 
 > Quando alguma questão de julgamento for difícil demais para ti – entre sangue e sangue, entre veredito e veredito, entre praga e praga, controvérsias dentro de teus portões – então te levantarás e subirás ao lugar que o Eterno, teu Deus, escolher.
 

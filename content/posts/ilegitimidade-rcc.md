@@ -10,6 +10,14 @@ tags:
   - Devarim
 ---
 
+🔹 A RCC, ao usurpar a identidade judaica e incitar o mundo contra o povo judeu, perfura o barco da fé, maculando a santidade da Torá e afrontando a própria essência divina contra o nosso mundo.
+
+>  "Quando os amigos se sentam juntos e não se separam uns dos outros, então o Santo, bendito seja, Se regozija com eles [...] Mas se houver entre eles alguém que não é reto, o grupo inteiro sofre, e não recebem as palavras corretamente até que essa pessoa seja afastada." **Zohar I, 200a, Parashat Nassô**
+>  "Qualquer um que violar os mandamentos da Torá é como se manchasse o mundo de cima, manchasse o mundo de baixo, manchasse a si mesmo e manchasse todos os mundos. Há uma alegoria sobre marinheiros que estavam navegando em um barco. Um tolo que estava entre eles se levantou e quis fazer um buraco no barco. Seu amigo lhe disse: 'Por que você está fazendo um buraco?' Ele respondeu: 'O que lhe interessa? Estou perfurando debaixo de mim!' Ele lhe disse: 'Mas nós dois vamos nos afogar juntos no barco!'"
+— **Zohar para Todos, Nassô, “Infidelidade contra o Senhor”**, **Itens 18-19**
+>  "A Torá é chamada 'santa', pois está escrito, 'pois Eu, o Senhor, sou santo'. Consequentemente, aquele que se envolve nela é purificado e então santificado, como está escrito: 'Vocês serão santos'. Não diz, 'foram santos', mas 'serão santos', serão de fato. Isto é, é uma promessa de que através da Torá você será santo."
+— **Zohar, Kedoshim, Item 13**
+
 ## 📖 1. Texto Base – Devarim / Deuteronômio 17:8–11
 
 

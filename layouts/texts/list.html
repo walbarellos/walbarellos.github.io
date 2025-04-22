@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Reflexões</title>
+
+    <style>
+      /* O estilo permanece o mesmo que você forneceu. */
+      @import url("https://fonts.googleapis.com/css2?family=Fresca&display=swap");
+
+      * {
+        box-sizing: border-box;
+        color: rgba(255, 255, 255, 0.7);
+        text-align: center;
+        font-family: "Fresca", sans-serif;
+      }
+
+      body {
+        padding: 0;
+        margin: 0;
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .text-container {
+        max-width: 800px;
+        padding: 20px;
+        margin: 30px;
+        border: 2px solid white;
+        border-radius: 10px;
+        background-color: rgba(255, 255, 255, 0.1);
+        color: white;
+      }
+
+      h1 {
+        font-size: 48px;
+      }
+
+      .button {
+        margin: 40px;
+        padding: 15px 30px;
+        border: 2px solid white;
+        color: white;
+        font-size: 20px;
+        border-radius: 10px;
+        background: transparent;
+        cursor: pointer;
+        transition: background 0.3s, color 0.3s;
+      }
+
+      .button:hover {
+        background: white;
+        color: black;
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <a class="flicker-a" href="https://dev-walbarello.netlify.app/" target="_blank">
+      <h1><span>B</span>e<span>m</span><span> V</span>in<span>d</span>o</h1>
+    </a>
+
+    <button class="button" onclick="history.back()">← Voltar</button>
+
+    <div class="text-container" id="text-content">
+      <!-- O conteúdo do texto será carregado aqui -->
+    </div>
+
+    <a class="flicker-a other" href="https://qoto.org/@wepiphany" target="_blank">
+      <h1><span>@</span>w<span>a</span>l<span>b</span>a<span>r</span>e<span>l</span>l<span>o</span></h1>
+    </a>
+
+    <div class="fade top"></div>
+    <div class="fade bottom"></div>
+
+    <script type="text/javascript">
+      const textContainer = document.getElementById("text-content");
+      const base = window.location.origin;
+      const filePath = base + '/content/texts/luz.txt';  // Caminho para o arquivo de texto
+
+      // Função para ler o conteúdo do arquivo de texto
+      async function loadText() {
+        try {
+          const response = await fetch(filePath);
+          const text = await response.text(); // Lê o conteúdo do arquivo
+          textContainer.innerHTML = `<pre>${text}</pre>`; // Exibe o texto no container
+        } catch (error) {
+          textContainer.innerHTML = "Erro ao carregar o texto.";
+          console.error("Erro ao carregar o arquivo:", error);
+        }
+      }
+
+      loadText(); // Carrega o conteúdo assim que a página for carregada
+    </script>
+  </body>
+</html>

@@ -4,6 +4,5 @@ type: "texts"
 layout: "list"
 ---
 
-Bem-vindo à seção de textos! Aqui estão algumas reflexões.
+{{ readFile "static/texts/luz.txt" | markdownify }}
 
----

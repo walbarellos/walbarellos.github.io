@@ -7,4 +7,4 @@ tags:
   - Engenharia Reversa
 ---
 
-Clique aqui para jogar 👉 [Guntanks](/gbwa/index.html)
+Clique aqui para jogar 👉 [GBWA](/gbwa/index.html)

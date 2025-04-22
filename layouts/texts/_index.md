@@ -1,1 +1,4 @@
-
+---
+title: "Textos"
+type: "texts"
+---

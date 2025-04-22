@@ -48,21 +48,18 @@ Esse ensinamento mostra que o tribunal central (Sanhedrin) atua como extensão d
 
 **📜 Rambam (Maimônides) – Mishné Torá, Hilchot Mamrim 1:1-4:**
 1.  ***A Origem da Autoridade:***
-    ```
-    מצות עשה לשמוע לבית דין הגדול ולקבל את דבריהם
-    ```
-    ```
-    Mitsvat asseh lishmoa leBeit Din haGadol ulekabel et divreihem.
-    ```
+      
+   > מצות עשה לשמוע לבית דין הגדול ולקבל את דבריהם
+    > Mitsvat asseh lishmoa leBeit Din haGadol ulekabel et divreihem.
+
+    
    > “É um mandamento positivo ouvir o Beit Din Gadol e aceitar suas palavras.”
 
 2.  ***O Perigo da Cismatização***
-    ```
-    הפורש מדבריהם הרי זה מין
-    ```
-    ```
-    Haporeish midivrehem harei zeh min.
-    ```
+    
+   > הפורש מדבריהם הרי זה מין
+  > Haporeish midivrehem harei zeh min.
+    
   > “Aquele que se separa de suas decisões é um herege (min).”
 
 3.  ***Obediência Mesmo em Erro***

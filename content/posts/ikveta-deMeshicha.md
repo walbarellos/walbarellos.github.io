@@ -1,15 +1,15 @@
 ---
-title: עִקְּבוֹת הַמָּשִׁיחַ e os sinais.
+title: ⚖️ עִקְּבוֹת הַמָּשִׁיחַ e os sinais.
 date: 2024-08-01 # Data de publicação
 description: Uma análise aprofundada do conceito de "Ikveta deMeshicha" (os calcanhares do Messias) e seus sinais na tradição judaica.
 tags:
   - Judaísmo
-  - Fim dos Tempos
+  - Cristianismo
   - Profecias
   - Messias
   - Ikveta deMeshicha
-  - Talmud
-  - Midrash
+  - Torá
+  - Halachá
   - Cabalá
 ---
 

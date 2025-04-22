@@ -1,5 +1,5 @@
 ---
-title: "Explorando as Entranhas do Go: Manipulando Código com ASTs como um Compilador Ninja"
+title: "🧬 Explorando as Entranhas do Go: Manipulando Código com ASTs como um Compilador Ninja"
 date: 2025-04-18
 tags: ["Go", "Golang", "AST", "Compiladores", "Parser", "go/ast"]
 description: "Aprenda como usar os pacotes internos da linguagem Go para analisar, interpretar e navegar por código-fonte Go usando árvores de sintaxe abstrata."

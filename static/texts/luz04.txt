@@ -1,0 +1,1277 @@
+Ohr Ne'erav
+ Introduction
+The Popularization of Kabbalah 
+In the late summer of 1587, Moses Cordovero’s treatise Or Ne’erav (“The Pleasant Light”) was published in Venice.
+
+ It was a book with several aims.
+
+ First of all, it was written as a justification for the study of Kabbalah.
+
+ As well, it contained detailed instructions for beginners on how to commence their Kabbalistic studies.
+
+ Finally, it constituted an epitome of Cordovero’s great systematic theology of Kabbalah entitled Pardes Rimmonim (“The Pomegranate Orchard”), which as yet remained in manuscript.
+
+ Taken as a whole, Or Ne’erav was clearly meant to serve as an elementary text for beginners in Kabbalah.
+
+ It was also obviously intended as a means toward the popularization of a Judaic world-view which, at least at its inception, had been conceived as an esoteric interpretation of Torah, not meant for the ordinary person.
+
+ 
+Historians of Judaism have long seen the sixteenth century as a pivotal period in the development of Kabbalah.
+
+ The position maintained by Gershom Scholem, that prior to the sixteenth century Kabbalah belonged to relatively small groups of masters and their disciples, who had little desire to propagate their ideas among the masses, has recently been challenged.
+
+ However, Scholem’s emphasis on the centrality for Kabbalah of the sixteenth century, “with its programme of bringing its doctrines home to the community,” retains its essential validity whether or not one also agrees that this program had as its ultimate purpose “preparing [the community] for the coming of the messiah.
+
+” In particular, Scholem’s point that the ethical (musar) literature of Judaism prior to the sixteenth century shows little trace of Kabbalistic influence, whereas from the sixteenth century onward such works openly reflect the ethos of Kabbalah, is well taken.
+
+ The reservations expressed by Moshe Idel on important parts of Scholem’s presentation of sixteenth-century Kabbalah have left this point unchallenged.
+
+ 
+Despite this recognition, the details of the change that was brought about in the position of Kabbalah in the sixteenth century among the broad masses of Jews have been relatively ignored by scholarship.
+
+ This is at least in part because the concentration of most scholars of Kabbalah on what might be called the academic aspects of Kabbalistic thought has led to a situation in which the popularization of Kabbalah in the sixteenth century has been relatively ignored.
+
+ This book, which offers an annotated English translation of the treatise Or Ne’erav, seeks to shed light on the process by which the Kabbalah was to become the possession of every literate Jew.
+
+ 
+Kabbalah 
+The Hebrew term kabbalah refers to a body of knowledge “received” through a chain of transmission believed by rabbinic Jews to extend all the way back to the divine revelation at Sinai.
+
+ Rabbinic Judaism, the dominant interpretation of Judaism in the medieval and early modern era, assumed as an essential belief that this body of knowledge, called torah (“teaching”), encompassed two divisions—one written, the other oral.
+
+ The written Torah consisted of the Pentateuch, while the oral Torah contained an authoritative interpretation of the laws and the narrative in the written Torah.
+
+ Rabbinic Jews further believed that the oral Torah, which had been transmitted in unwritten form from master to disciple for well over a millennium, had begun to be reduced to writing in the form of the Mishnah, which was edited by Rabbi Judah the Patriarch in the second century C.
+
+E.
+
+ The process was continued by the editing of other collections of rabbinic traditions, including the Tosefta, the Gemara in its Palestinian and Babylonian recensions, and numerous collections of midrashim.
+
+ 
+The fact that these collections of traditions, designed to be transmitted orally, had been reduced to writing was of concern to rabbinic Jews.
+
+ Their major conclusion was that the oral traditions had been written down in response to extraordinary circumstances endangering the survival of the oral Torah in its original form of transmission.
+
+ Maimonides, in the introduction to his code of Judaic law, the Mishneh Torah, states the issue clearly: 
+Why did our teacher [Rabbi Judah] the Patriarch [write down the Mishnah] and not leave matters as they were? [It was] because he observed that the number of disciples was diminishing, fresh calamities were continually occurring, the wicked kingdom [of Rome] was extending its domain and increasing in power, and Israelites were wandering and emigrating to distant countries.
+
+ Therefore he composed a work to serve as a handbook for all, the contents of which could be rapidly studied and not be forgotten.
+
+ 
+In other words, the writing down of the oral Torah was a response to a perceived threat to the “natural” transmission of the Torah.
+
+ The writing of other rabbinic collections was seen in a similar light.
+
+ 
+It should not be thought, however, that the process of writing down the oral Torah meant that the oral Torah had ceased to exist.
+
+ Indeed for most Jews there remained within the realm of Torah room for aspects of the Torah which had not been “published.
+
+” These continued to be the exclusive province of oral transmission, or, if written, were written in such a way as to be virtually unintelligible and hence in need of oral reinforcement and explanation.
+
+ Thus the Mishnah, in tractate Ḥagigah, refers to several aspects of Torah, including the sexual taboos (‘arayot), the Account of Creation, and the Account of the Chariot, which were not to be expounded publicly.
+
+ The Torah, in other words, still held back certain secrets for oral transmission from master to disciple.
+
+ 
+The notion that the Torah still had secrets to reveal became an extremely useful concept when, in the medieval period, Judaism— as well as Islam and Christianity—came into serious intellectual contact with the heritage of the science and philosophy of the ancient Greco-Roman world.
+
+ For Jews, one of the major shifts which ensued from this contact was the necessity of dealing with the numerous passages in the Hebrew Bible and rabbinic literature which presented God in anthropomorphic terms.
+
+ By the twelfth and thirteenth centuries, the idea that the anthropomorphic passages in the Bible might be understood literally, while still sincerely believed by many Jews, had become severely problematic for Maimonides and others who took seriously the philosophical proofs for the incorporeality of God.
+
+ Thus Maimonides equated with atheists, polytheists, and idolaters those who believed in one God but held that God possessed a body and an image.
+
+ 
+In order to deal with the implications of the seeming contradictions between the literal sense of the Bible and the findings of science, Maimonides and other medieval Jewish rationalists were compelled to assert that the Torah spoke “in human language” concerning the deity and, therefore, that the words of the Torah, insofar as they indicated things which were “scientifically” impossible—such as attributing human bodily parts or emotions to God—were not to be taken literally but, rather, interpreted metaphorically.
+
+ 
+The need to maintain a nonliteral interpretation of the Torah was widely felt among medieval Jewish intellectuals.
+
+ However, the rationalist interpretations of Maimonides and others were not as widely accepted.
+
+ In the first place, rationalistic philosophy was a discipline which was demonstrably non-Jewish in origin.
+
+ Despite attempts to give it a Judaic pedigree, the knowledge that philosophy was a foreign importation doubtless tended to lessen its acceptance.
+
+ Secondly, and far more importantly, philosophy was hard pressed to explain the difference between the remote God of the philosophers, who had no interest in things that were not eternal, such as human beings, and the Biblical God, who played an active role in humankind’s affairs and most particularly in those of His people, Israel.
+
+ Furthermore, Jewish philosophers often found it hard to explain satisfactorily the details of the legislation in the Torah.
+
+ Maimonides’ historical explanations of such things as the prohibition of mingling linen and woolen threads (sha’atnez) may have satisfied some, but doubtless left others wondering whether such formulations did not tend to relativize the Torah’s commandments and potentially threaten the continued observance of Torah law.
+
+ 
+In contrast with this, Kabbalah offered its adherents a means whereby the Torah in its entirety could be satisfactorily explained in a nonliteralist manner.
+
+ The details of the commandments no less than their general principles could be understood by referring to Kabbalistic doctrines.
+
+ Moreover, care was taken to present the ideas of Kabbalah in such a way as to ensure that they would appear to be entirely intrinsic to the rabbinic tradition.
+
+ Thus the first major Kabbalistic work, Sefer ha-Bahir, as well as Kabbalah’s major thirteenth-century exposition, the Zohar, presented themselves as Midrashic expositions of the Torah—in other words, as works in a classical genre.
+
+ 
+Kabbalah, which first emerged into the light of day in twelfth-century Provence, and which received its classical statement in the Zohar, in thirteenth-century Spain, understood God’s relationship with the created universe in the following way.
+
+ 
+God, in His most fundamental reality, is unknown to man and, in principle, unknowable.
+
+ The only thing known about God in this fundamental reality is His existence.
+
+ Kabbalists called the God of this fundamental reality Eyn Sof, meaning “without limit,” or even ‘Ayin (“nothingness”), signifying that from the perspective of mankind, there was “nothing” that one could know about Him.
+
+ 
+Eyn Sof initiated a process which the Kabbalists called Aẓilut (“emanation”), which eventuated in a system of ten sefirot.
+
+ The sefirot, taken as a whole, represented God as experienced by human beings.
+
+ The following is a somewhat simplified depiction of the process.
+
+ The first sefirah to be emanated, called Keter (“crown”), marked the transition point between Eyn Sof and the sefirotic system.
+
+ The next two sefirot, Ḥokhmah (“wisdom”) and Binah (“understanding”), represented a male and a female principle, respectively.
+
+ Ḥokhmah and Binah, in union, produced the seven other sefirot, Gedulah (“greatness”) or Raḥamim (“mercy”), Gevurah (“might”), Tiferet (“glory”), Neẓaḥ (“triumph”), Hod (“splendor”), Yesod (“foundation”), and Malkhut (“kingdom”).
+
+ The three upper sefirot, Keter, Ḥokhmah, and Binah, were considered relatively less accessible to the human mind than the lower seven, which were taken to represent the sometimes diametrically opposed qualities attributed to God in the Hebrew Bible and the rabbinic literature.
+
+ Thus God the Merciful was seen as represented by the sefirah Gedulah.
+
+ God’s attribute of stern justice was embodied in the sefirah Gevurah.
+
+ Tiferet was the synthesis between mercy and justice.
+
+ 
+Though the Kabbalists asserted that all of the sefirot were interrelated and, indeed, that all were One, nonetheless they tended to concentrate their attention on the relationship between two sefirot in particular: Tiferet and Malkhut.
+
+ Tiferet was seen as the central sefirah and a male principle.
+
+ Ideally, it was to enter into union with Malkhut, a female principle which marked the point of transition between the realm of the sefirot and the created universe.
+
+ Through the union of Tiferet and Malkhut flowed the divine energy which created and sustained the universe.
+
+ When the Tiferet-Malkhut union was consummated, the flow of divine energy was unabated.
+
+ When the union was interrupted, however, the flow of divine energy ceased sustaining the universe and, instead, served to strengthen the forces of cosmic evil, referred to as the “Other Side” (Sitra A“ra), and conceived as arrayed in a counter-sefirotic structure.
+
+ 
+Where Kabbalists found themselves divided was on the question of whether the sefirot, taken as a whole, constituted an “instrument” employed by God for His revelation to His creatures or whether, in fact, the sefirotic realm was God.
+
+ 
+Within this divine economy, human beings, and especially the Jews, were not mere passive observers.
+
+ Kabbalists held that Jews, through their performance of the commandments of the Torah and through their prayers, could influence the sefirotic realm.
+
+ Prayer and Torah observance, undertaken with the correct intention, would align the sefirot correctly and help accomplish the union of Tiferet and Malkhut.
+
+ Sin, on the other hand, served to disrupt the harmony of the sefirot, sunder the sefirotic union, and render aid and comfort to the evil forces of the Other Side.
+
+ 
+The responsibility of the individual Jew for the well-being of the cosmos was coupled with a belief that events and actions in the human sphere indicated corresponding processes in the sefirotic realm.
+
+ Thus each earthly action had its sefirotic counterpart.
+
+ For the Kabbalist, this meant that literally everything was to be related to the divine and was to be understood in a sense beyond its surface meaning.
+
+ 
+For its adherents, Kabbalah was clearly a tool of great power and sophistication with which to understand the universe.
+
+ It was just as clearly the ultimate secret of the Torah.
+
+ This being so, it was by no means clear whether this secret doctrine was to be publicized to wider circles or not.
+
+ 
+Those who wished to teach Kabbalistic doctrines, and, in particular, those who desired to reach a mass audience, were faced with a seemingly unsolvable problem.
+
+ They were fully convinced that their discipline was none other than Ma’aseh Merkavah, the esoteric lore referred to in the Mishnah.
+
+ Thus they were seemingly bound by the Mishnah’s prohibition against expounding this material “before even one student.
+
+” 
+In this spirit, one of the first major Kabbalistic masters in twelfth-century Provence, Isaac the Blind, went on record in a letter to Spain against the indiscriminate spread of Kabbalah through public exposition and the composition of Kabbalistic treatises that might fall into the “wrong” hands.
+
+ His remarks were addressed to circles of students of Kabbalah in Spain who were composing Kabbalistic treatises and even, like Naḥmanides, incorporating Kabbalistic indications in a commentary on the Torah meant for the general public.
+
+ 
+Those Kabbalists, from the thirteenth through the fifteenth century, who did engage in the writing of Kabbalistic works, generally did so in full consciousness of the fact that they were addressing audiences whose members could not all be trusted with the secrets of the Torah which they were purveying.
+
+ For this reason they often sought to conceal as well as reveal, in order to make sure that oral direction would still be needed in addition to the written treatises.
+
+ Thus Abraham ben Eliezer Halevi, a Kabbalist of the generation of the Spanish Expulsion, asserted in one of his works that Kabbalistic authors invariably omitted certain elements from their writings in order to maintain the need for the Kabbalah to be transmitted orally.
+
+ Given this approach, one can easily appreciate the extent to which those desiring to popularize Kabbalah had to overcome an ingrained opposition to its widespread dissemination even on the part of Kabbalists, let alone opponents of the discipline.
+
+ This fact, in addition to the painstaking effort, mentioned earlier, to present the Kabbalah as wholly intrinsic to the Judaic tradition, went a long way toward reducing the expressed opposition to Kabbalah to relatively minor proportions.
+
+ There were, indeed, Jews who objected vigorously to Kabbalah, for instance on the grounds that the tenfold character of the sefirot could not be reconciled with God’s absolute unity.
+
+ Apparently, however, these objections were relatively few, perhaps consonant with the limited distribution of Kabbalah within Jewry.
+
+ 
+It is thus reasonably clear that the process whereby Kabbalah came to the attention of the Jewish public in its first centuries was slow, halting, and somewhat ambivalent.
+
+ 
+This situation began to change in the sixteenth century.
+
+ In the aftermath of the expulsion from the Iberian peninsula in the 1490s, an upheaval which had the same sort of resonance for Jews of that generation as the Holocaust has for ours, Kabbalah began going public in a big way.
+
+ Kabbalistic works like the Zohar began to be printed, amid a major controversy regarding the propriety of printing them.
+
+ 
+More importantly, systematic treatises on Kabbalah began to appear.
+
+ One of these comprehensive guides to Kabbalah was written by the aforementioned Abraham ben Eliezer Halevi.
+
+ Entitled Massoret ha-Ḥokhmah (“Tradition of Wisdom”), it was a defense of the discipline of Kabbalah against its detractors, a condemnation of opposing Kabbalistic schools, and a praise of the benefits deriving from the study of Kabbalah.
+
+ However, the exposition of Kabbalistic doctrine in this work is brief and sketchy in the extreme.
+
+ Similar to Halevi’s work in scope, but somewhat more well known, because printed, is Judah Ḥayyat’s introduction to his commentary on Ma’arekhet ha-Elohut (“The System of Divinity”).
+
+ On a much grander scale is the work of another contemporary, Meir ibn Gabbai, whose exposition of Kabbalah was entitled ‘Avodat ha-Kodesh (“The Holy Service”).
+
+ Scholem characterized it as “perhaps the finest account of Kabbalistic speculation before the resurgence of the Kabbalah in Safed.
+
+” 
+Safed 
+Most importantly, broad sections of the Jewish public began assimilating the Kabbalistic ethos into their own lives.
+
+ Nowhere was this process more apparent than in the town of Safed, in the Galilee.
+
+ After the Ottoman conquest of the Land of Israel in 1517, Safed attracted a large number of Jewish immigrants, largely from among the Spanish and Portuguese exiles and their children.
+
+ These people settled in the Land of Israel partly because they sought to be in the place where they expected an imminent messianic redemption and partly because it was part of the burgeoning Ottoman Empire, to which many Jews were attracted at this time.
+
+ 
+In Safed, many attempts were made to prepare for the expected redemption.
+
+ Among them were controversial projects like the attempt, in the 1530s, to reintroduce an authentic rabbinic ordination, as well as a mass movement for repentance and for observance of the commandments of the Torah which, so our sources inform us, attracted thousands of followers.
+
+ 
+Kabbalah was an integral part of the Safed ethos, and the town became a center for the study and dissemination of Kabbalah without parallel in history.
+
+ The number of Kabbalists who were concentrated in Safed was relatively sizable.
+
+ But beyond their actual numbers, they were able to decisively influence the community at large in unprecedented ways.
+
+ Several liturgical innovations, such as the preliminary service on the eve of the Sabbath (kabbalat shabbat) and the midnight penitential service (tikkun ḥaẓẓot) emanated from these circles and were accepted by Jews throughout the world.
+
+ 
+The influence of the Kabbalists and their teachings on the life of the ordinary Jew did not happen accidentally.
+
+ The Kabbalists had made a decision to involve the community at large in their discipline.
+
+ A good part of their motivation for doing so stemmed, doubtless, from the assumption that they were living in the age immediately preceding the messianic redemption.
+
+ Of this age, the Ra’aya Mehemna had said: “Israel will come to taste of the tree of life which is this book of Zohar.
+
+ With it they will go out of the Exile with [divine] mercy.
+
+” 
+A clear implication of this assumption was that now, as never before, there was an obligation to make public the secrets of Kabbalah which had heretofore remained hidden.
+
+ The most prominent of the Safed Kabbalists to feel this way was Moses Cordovero.
+
+ Or Ne’erav is one of the major means by which he expressed this imperative.
+
+ 
+Moses Cordovero 
+Cordovero was born in the year 1522 and settled in Safed as a young man.
+
+ His teacher of rabbinics was none other than R.
+
+ Joseph Karo, author of the standard systematization of Halakhah, the Shulḥan Arukh.
+
+ At the age of twenty Cordovero began his Kabbalistic studies under Solomon ha-Levi Alkabetz, whose sister he subsequently married.
+
+ He studied, taught, and wrote in Safed until his death in 1570, at the age of forty-eight.
+
+ 
+There is a sense in which Cordovero was following the same path in Kabbalah that his master, Karo, had followed in Halakhah.
+
+ Both were systematizers.
+
+ Cordovero sought to do nothing less than synthesize a systematic Kabbalistic theology from the exegetical teachings of the Zohar just as Karo had attempted to create a clear methodology for the determination of Jewish law out of the myriad works and opinions of his predecessors.
+
+ 
+Cordovero had worked out this systematic theology by the age of twenty-seven in a work he entitled Pardes Rimmonim (“The Pomegranate Garden”).
+
+ It eclipsed all previous efforts to systematize Kabbalah.
+
+ In this work, he set forth a comprehensive Kabbalistic account of God, man, and creation that was to become a standard account of the field.
+
+ If Cordovero has been called the greatest theoretician of Kabbalah, it is mostly due to the Pardes Rimmonim.
+
+ Indeed, given that the bulk of Cordovero’s writings remained in manuscript for centuries after his death, his vast reputation largely depends on this work.
+
+ Pardes Rimmonim was not, however, entirely easy of access.
+
+ It was designed for those who already had a fairly strong background in Kabbalah and its texts.
+
+ Indeed Cordovero recognized that Kabbalistic novices who read Pardes Rimmonim would be likely to do themselves more harm than good.
+
+ It was thus inadequate as a tool with which to attract new adherents to his Kabbalistic ideology and to refute the counterclaims of opponents of Kabbalah and of rival schools of Kabbalistic interpretation.
+
+ 
+What, then, of these others? What of those who were interested in the subject but had never approached it and would be lost in its complexities? What of those who, having heard of the subject, were hesitant, not knowing whether they could or should engage in its study? The messianic imperative, which affected Cordovero no less than other Jews of his generation, indicated that Kabbalah had to be popularized if its knowledge was to spread among the people in order to hasten the Messiah’s coming.
+
+ For this reason, among others, Cordovero determined to embody the Kabbalah’s teachings in a form accessible to readers who were not specialists in Kabbalistic studies.
+
+ 
+One such venture was an ethical treatise which he titled Tomer Devorah (“The Palm Tree of Deborah”).
+
+ In it, Cordovero successfully integrated the genre of moral and ethical exhortation, which was fairly widely accepted, with Kabbalistic teachings concerning the sefirot.
+
+ Thus the exhortation to internalize the qualities of God, such as mercy and lovingkindness, was imbued with the tenfold division of the sefirot such that each sefirah encompassed a moral and ethical principle which Jews were exhorted to make a part of their lives.
+
+ This work, which was the first of its kind, was followed by numerous others in the sixteenth, seventeenth, and eighteenth centuries.
+
+ 
+Or Ne’erav 
+The other major attempt by Cordovero to popularize his Kabbalistic teaching was the treatise translated here, Or Ne’erav.
+
+ Because it contains no introduction by the author, we are unable to say with any certainty when it was written or why.
+
+ From its contents, however, we can readily discern that Cordovero utilized his immense intellectual and pedagogical talents to create a work with a dual purpose.
+
+ As his son, Gedaliah, who brought the book to press, indicates in his introduction, he abridged the material which was argued in extenso in Pardes Rimmonim.
+
+ To this abridgement he added, at the beginning of the treatise, “additional chapters … to [cause others to] understand and to teach the usefulness of this discipline and the necessity for learning it.
+
+” Thus, on the one hand, Or Ne’erav served as an argument for the legitimacy of Kabbalah and its study.
+
+ On the other hand, it presented an epitome of Pardes Rimmonim suitable for people just beginning their Kabbalistic studies.
+
+ 
+We will have something to say regarding this latter aspect of Or Ne’erav later on.
+
+ At present, however, we are interested precisely in the “additional chapters” which come at the beginning.
+
+ They give us an important insight into the way in which a major Kabbalistic scholar envisaged the study of Kabbalah by beginners at the very time when Kabbalah was emerging to compete openly for a place in the Jewish curriculum.
+
+ 
+With regard to the first purpose of the treatise, that of establishing Kabbalah’s legitimacy as an intellectual discipline, it might be said that Cordovero basically continued the genre of “defenses” of true Kabbalah against its detractors and opponents both within and without the Kabbalist camp.
+
+ His treatment of his sources is unmistakably Cordoveran in its thoroughness and meticulousness but is nonetheless not terribly original.
+
+ Indeed, it might even be said that some of the groups Cordovero argued against, such as those who entirely denied that the Torah could be interpreted esoterically, did not constitute a formal school of thought in his day and were included only in order to fill the spectrum of logical possibilities of opposition to his enterprise.
+
+ What is new in Or Ne’erav is Cordovero’s detailed vision of the ideal Kabbalistic education.
+
+ 
+For Cordovero, the ideal student should have attained the age of twenty before commencing his study of Kabbalah.
+
+ In stating this, he placed himself in conscious opposition to the view that Kabbalistic studies should be limited to those who had achieved the age of “understanding”—forty.
+
+ Though Cordovero does not mention it in this context, he asserts in the introduction to Pardes Rimmonim that his own education in Kabbalah began at the age of twenty.
+
+ Thus, in a self-reference, he could emphatically state: “Many have acted in accordance with our opinion and succeeded.
+
+” 
+Cordovero’s own experience with the study of Kabbalah is likely to have inspired him to demand of the potential student that he “first strip from himself the shell of gross pride which prevents him from attaining the truth.
+
+ He should [then] direct his heart to heaven [to pray] that he not fail.
+
+” In the introduction to Pardes Rimmonim, Cordovero claimed to have undergone a similar conversion experience at the age of twenty, in which he renounced worldly vanities and turned to Kabbalah.
+
+ As he said of himself, at the age of twenty “My Creator aroused me as one who is aroused from sleep, and I said to my soul, ‘Until when will you cause the misbehaving daughter to disappear?’” 
+The student, having attained the requisite age and deportment, should also have undergone a rigorous preparatory course in the classic exoteric Jewish texts.
+
+ Influenced here as elsewhere by Maimonides, Cordovero asserted that the ideal curriculum ought to be divided into three divisions: Scripture, Mishnah, and Talmud.
+
+ Mishnah was defined as the entire range of rabbinic law, while Talmud was meant to refer to pardes (esoteric studies).
+
+ Thus Cordovero stated: 
+He [the prospective student] must be accustomed to engaging in profound pilpul [dialectical reasoning] so that he might be accustomed and able to strip [relevant] matters from parables….
+
+ He must apply himself to fill his belly with [the study of] the laws of the Gemara and the explanation of the commandments on the literal level in the work of Rabbi Moses ben Maimon, the Yad….
+
+ He should also guide himself in the study of Scripture—whether [it be] much or little….
+
+ [Then] he will not fail.
+
+ 
+Of course, mastery of these preparatory subjects should not become so complete as to inordinately delay the study of Kabbalah.
+
+ As Cordovero stated: 
+There are those who imagine that before pursuing [Kabbalah], they must first master the science of astronomy.
+
+ They have other notions which keep them from following the straight path.
+
+ They sanctimoniously give themselves the excuse that their bellies are not yet full of the bread and meat of the Gemara.
+
+ For these poor people, their entire lives will not be sufficient to learn even a bit of [Gemara], let alone to fill their bellies so that they could partake of this science [of Kabbalah] and be sated.
+
+ Thus the poor people go to their eternal rest bereft of wisdom.
+
+ 
+Beyond proper preparatory study, would-be students of Kabbalah must also possess a strong desire to study the subject for its own sake in order to enter into its mysteries, to know their Master and to achieve a wondrous level in the true acquisition of knowledge of the Torah.
+
+ To pray before their Master and to unify, through His commandments, the Holy One, blessed be He, and His Shekhinah.
+
+ 
+By way of contrast, those who desire to study Kabbalah merely as one discipline among many, and for whom acquiring “a bit of this science is the same … as [acquiring] a smattering of medicine, astronomy, logic, mathematics, and the other sciences,” were characterized as sinners.
+
+ 
+So much for the student of Kabbalah; what must one expect of the teacher of this subject? Cordovero asserted that a student who truly desires to study Kabbalah should take as a teacher someone who has fulfilled the requisite standards for a Kabbalist.
+
+ Thus, a teacher of Kabbalah must be a person with an adequate background in the exoteric texts, who has mastered Kabbalah for its own sake and not as one discipline among many.
+
+ To study with a teacher who does not fulfill these conditions will lead the student to error and might eventually result in his losing his faith.
+
+ 
+However, what is one to do if one is unable to find a suitable teacher? Does the lack of a qualified teacher mean that one may not begin the study of Kabbalah at all? Cordovero’s answer to this problem is self-study.
+
+ Doing it by yourself, though it may lead you to error, is preferable to refraining from any attempt to study Kabbalah.
+
+ In the end, Cordovero asserted, even the erroneous study of Kabbalah has its divine reward.
+
+ In an era in which teachers of Kabbalah were few and manuscripts of Kabbalistic texts were scattered, it is not unlikely that Cordovero’s accommodating attitude toward self-study reflected the contemporary situation.
+
+ 
+Just as Cordovero was exacting with regard to the choice of an instructor, preferring self-study to instruction by an inadequate teacher, so was he exacting with regard to the texts the student should study.
+
+ Living in an era in which several more or less systematic accounts of Kabbalah were available, Cordovero advised the beginning student to avoid all of them.
+
+ The authors of these Kabbalistic works, he said, had “compose[ed] their books in riddles and metaphors so that their message is encumbered by much [extraneous] matter.
+
+ We ourselves would not do this, God forbid.
+
+ It is improper to place a blemish upon sanctified things.
+
+” 
+Rather than rely upon such books, Cordovero urged students to concentrate mainly on the Zoharic literature and such sanctified works as Sefer Yeẓirah (“Book of Creation”) and Sefer ha-Bahir (“Book of Clear Light”).
+
+ 
+[The student] should stick to these books lovingly.
+
+ He will succeed in [mastering] this science on condition that he delve deeply into them and [devote to them] exceptional study.
+
+ He will then find explanations for most of what is to be found in the books of the latter commentators, which he need not consult.
+
+ It is not our intention to declare these [latter works] unfit, God forbid, but rather to indicate to the student the path which is short, though it seems to be long.
+
+ 
+In pursuing the study of these texts, some times are better for learning than others.
+
+ 
+It is certainly easy for a student to study throughout the day.
+
+ However, the optimum time for gaining profound wisdom is the long night, from midnight on, or on the Sabbath day, which is [itself] a factor.
+
+ This [also applies to] the eve of the Sabbath, commencing at noontime and on holidays, particularly on Aẓeret [Shavuot].
+
+ I have tried this many times and found it to be a marvelously successful day.
+
+ Also, there is great success [in studying] on Sukkot in the sukkah.
+
+ These times [1 have] mentioned I have tried.
+
+ I am speaking from experience.
+
+ 
+In addition to studying the optimum texts at the optimum times, the student was to approach his studies in the following way: 
+First of all, [the student] should review the texts many times, making notes in order to remember his studies fluently.
+
+ He should not delve too deeply at first.
+
+ Secondly, he should study the material with great concentration according to his ability….
+
+ At times [the amount of time given to] the two forms of study should be increased and sometimes lessened, all according to the need of the hour and the [degree of] peace of mind….
+
+ Though it may seem to the student that he does not understand [the texts], he should nevertheless not cease studying, for his Master will faithfully cause him to discover esoteric wisdom….
+
+ I have experienced this innumerable times….
+
+ Should any subject in this science seem doubtful for [the student], he should wait.
+
+ For in the course of time the matter will be revealed to him.
+
+ The essential reward [for the study] of this science is [derived from] waiting for [the revelation of] the mysteries which will be revealed to him in the course of time.
+
+ 
+As previously noted, Moses Cordovero’s son, Gedaliah, considered all the material we have dealt with so far as merely prefatory to the essential part of Or Ne’erav, which is the epitome of Pardes Rimmonim.
+
+ The section of the work containing the epitome is entitled “On the Necessary Preparations for Beginners in This Science.
+
+” We noted earlier that Cordovero, in criticizing the authors of other Kabbalistic treatises, stated that his work would differ from theirs.
+
+ He was presumably saying, though not in so many words, that Pardes Rimmonim was an adequate text for Kabbalistic studies and that Or Ne’erav was a proper way for beginners to be introduced to the material it contained.
+
+ 
+It has been observed that Cordovero’s ethical work, Tomer Devorah, pioneered a genre in which Kabbalistic ideas and motifs began suffusing and controlling moral and ethical discourse.
+
+ It has not been sufficiently noted, however, that Or Ne’erav begins another trend: the publication of abridgements and epitomes of Kabbalistic works.
+
+ In the seventeenth century, two further abridgements of Pardes Rimmonim appeared.
+
+ In addition, Reshit Ḥokhmah (“Beginning of Wisdom”) by Moses Cordovero’s disciple, Elijah De Vidas, who saw his work as a sort of primer leading to the study of Pardes Rimmonim, was issued in abridged form.
+
+ Other Kabbalistic works, such as Isaiah Hurwitz’s Shnei Luḥot ha-Berit (“The Two Tablets of the Covenant”) also generated abridgements.
+
+ 
+In any account of the attempt to popularize the study of Kabbalah, Moses Cordovero and his Or Ne’erav deserve a prominent place.
+
+ However, this is not because the work attained a continuing degree of popularity.
+
+ It was never completely forgotten amid the welter of books offering an entree to the study of Kabbalah and was reprinted several times.
+
+ Nonetheless, due partly, perhaps, to its admittedly unfinished character, and partly to the relative eclipse of Cordoveran Kabbalah by the writings of Isaac Luria and his disciples, it never became the important conduit to the study of Kabbalah that it was intended to be.
+
+ It remains, however, a precious document for historians of Kabbalah and of Jewish education, for it enables us to gain an insight into what a major authority on Kabbalah thought about Kabbalistic education in an era in which that education—like Kabbalah itself— was undergoing tremendous expansion and change.
+
+ 
+On the Translation 
+This translation of Or Ne’erav was prepared on the basis of the first edition (Venice, 1587), the pagination of which is indicated in the text with brackets.
+
+ The introductory material that prefaced the first edition will be found in the appendices.
+
+ The text was compared with later editions, particularly that edited by Rabbi Yehuda Zvi Brandwein (Tel-Aviv, 1965), whose notes were often helpful.
+
+ 
+Care was taken to render the Hebrew and Aramaic text into a readable English.
+
+ In order to facilitate this goal, words and phrases not contained in the original, which were considered necessary aids to comprehension, were added in brackets.
+
+ Quotations from Scripture are printed in italics.
+
+ In many cases Cordovero did not quote complete phrases or verses; when the omission is at the beginning or end of a quotation this is self-evident, when it occurs in the middle an ellipsis (…) is utilized to indicate that something is missing.
+
+ No part of Cordovero’s text was omitted from the translation.
+
+ 
+ PART I, Subject
+בהרחקת הנזק העולה על דעת המתרחקים מחכמה זו:  
+On the Rectification of the Harm Incurred on Account of the Opinions of Those Who Stay Aloof from This Science 
+ PART I, Chapter 1
+ראינו המתרחקים מחכמה זו, מתחלקים לשלשה חלקים, החלק הראשון, הם אותם שיתרחקו ממנה לאמרם כי אין הכרח להאמין בנעלם התורה לסבות רבות, אם לחשבם הדברים בפשוטן ובנעלם אין להם חפץ, כי מי יכריחם להאמין בעשר ספירות ושאר חלקים אשר לחכמה זו.
+
+  
+Those who shun this science [of Kabbalah] can be divided into three classes.
+
+ The first [class comprises] those who shun it because they think that there is no need to believe [in the existence] of an esoteric meaning of Torah.
+
+ There are a number of reasons [for their opinion].
+
+ Some believe that the words [of the Torah] must be understood literally.
+
+ Hence they have no desire [to comprehend] the esoteric.
+
+ Who, indeed, can force them to believe in the ten sefirot and the other aspects of this science? 
+ואין רצונם להאמין אלא באחדות הנפלא.
+
+ וכאשר יגיעם קצת מחכמה זו, ומה גם בשמעם אין סוף וצורת התורה, יפערו פיהם לבלי חק בדופי המשכילים, וכמעט יהיו בעיניהם ככופרים.
+
+ ויש אשר ישים נפשו בכפו, ויתכסה בשלמה זו וישלים פחיתות נפשו בסברה זו בלי שיאמינהו בלבו אמונה שלימה, ויש שתתקיים אמונה זו בלבו באמת ובלבב שלם: והנה, בהרחקת בעלי סברות אלו כמעט אסור משום הלעיטהו (ב״ק סט.
+
+), אבל ראוי לחוש על כבוד תורתינו להקהות שיניו ולבטל דעתו.
+
+  
+Furthermore, they have no desire to transcend their belief in [God’s] wondrous unity.
+
+ When some aspect of this discipline comes before them, whether it concerns Eyn Sof or the form of the Torah, they begin to denounce the enlightened [Kabbalists], who appear to them as little short of heretics.
+
+ Some of them take up this argument—to the deficiency of their souls—without believing it entirely.
+
+ Others sincerely believe it to be true.
+
+ To argue against such people is nearly forbidden because of the embitterment [it causes].
+
+ Nonetheless the honor of the Torah must be upheld and this opinion must be refuted.
+
+ 
+אין ספק שעל אלו וכיוצא בהם אמר שלמה המלך ע״ה (משלי יח, ב), "לא יחפץ כסיל בתבונה כי אם בהתגלות לבו".
+
+ ירצה, כי מי שימשך אחר התאוות ומעוט ההשכלה בתורה וסודותיה יקרא כסיל, מפני היותו נמשך אחר הכסילות והפתיות ושכרון עולם השפל הנופל.
+
+ ויאמר כי הכסיל הזה לא יחפוץ בתבונה, פירוש, בדברים הנעלמים והם סתומים בתוך הדבר הנגלה, כי זה גדר התבונה כמאמרם ז״ל (חגיגה יד.
+
+ סנהדרין צג) מבין דבר מתוך דבר.
+
+  
+Without doubt it is concerning these men and their like that King Solomon, peace upon him, said, The fool does not desire understanding, but only to air his thoughts (Prov.18:2).
+
+ It is apparent that one who follows his desires and spurns enlightenment in the mysteries of the Torah can be called a fool, since he continues his folly and his intoxication with this lowly world.
+
+  [The verse] states, The fool does not desire understanding—these are the esoteric subjects hidden within the exoteric matter.
+
+ This definition of understanding is the one which [the sages], their memory be a blessing, [used when they] said, “He who understands one thing from another.
+
+” 
+והנה הכסיל לא יחפוץ בדברים הנעלמים הצריכים תבונה לדלותם, כאומרו (משלי כ, ה) ואיש תבונה ידלנה, "כי אם בהתגלות לבו", פירוש, בדברים הנגלים שהם לבוש אל הנעלמים, והם הנראים לכאורה פשוטן של דברים.
+
+ והם לכאורה נגלים אל הלב, ולא אל לבות המשכילים, אלא אל לבות הכסילים שכמותו, וזהו שאמר, בהתגלות לבו, פירוש גלוי דעתו הקצר: 
+The fool, then, has no desire [to comprehend] the hidden things which require understanding to discover.
+
+ Thus [Solomon] said, A man of understanding can draw them out (Prov.20:5).
+
+ [The fool] only [desires] to air his thoughts [with regard to] the revealed matters which serve as a garment [concealing] the esoteric aspects and which appear to constitute the plain meaning of the subject.
+
+ These matters are indeed revealed to the heart, but they are not [revealed] to the hearts of the enlightened—only to the hearts of fools like him.
+
+ This is the meaning of to air his thoughts: It refers to his limited mental capacity.
+
+ 
+ועל אלו וכיוצא בהם אמר הרשב״י ע״ה בתקונים תקונא מ״ג וזה לשונו,  
+Of these men and their like, Rabbi Simeon bar Yoḥai, peace upon him, said in the Tikkunim [no.
+
+ 43]: 
+"בראשית  
+In the beginning (Gen.1:1).
+
+ 
+תמן את״ר יב״ש ודא איהו ונהר יחרב ויבש.
+
+  
+There it is dry, and here the river dries up and is parched (Job14:11).
+
+ 
+בההוא זמנא דאיהו יבש ואיהי יבשה, בנין צווחין לתתא ביחודא ואומרים שמע ישראל,  
+At that time when he is dry and she is dry, sons cry out below in unification and say, Hear, O Israel (Deut.
+
+ 6:4).
+
+ 
+ואין קול ואין עונה,  
+And there is no voice in response (I Kings 18:26).
+
+ 
+הדא הוא דכתיב אז יקראנני ולא אענה.
+
+  
+Thus it is written, Then they will call to Me, and I will not answer (Prov.
+
+ 1:28).
+
+ 
+והכי מאן דגרים דאסתלק קבלה וחכמתא מאורייתא דבעל פה ומאורייתא דבכתב, וגרים דלא ישתדלון בהון ואמר דלא אית אלא פשט באורייתא ובתלמודא,  
+This concerns one who removes Kabbalah and wisdom from the oral Torah and the written Torah, who causes that they should not attempt [to acquire] them, and who asserts that there is nothing beyond the plain meaning of the Torah and the Talmud.
+
+ 
+בודאי כאילו הוא יסלק נביעו מההוא נהר ומההוא גן.
+
+  
+Certainly it is as if he removed the flow from that river and that garden.
+
+ 
+ווי ליה,  
+Woe to him.
+
+ 
+טב ליה דלא אברי בעלמא, ולא יוליף ההיא אורייתא דבכתב וההיא אורייתא דבעל פה, דאתחשב ליה כאילו חזר עלמא לתהו ובהו, וגרים עניות לעלמא, ואורך גלותא".
+
+ עכ״ל: 
+It were better for him had he never been created in the world, and had he never taught the written Torah and oral Torah, for it is considered as if he had returned the world to formlessness and void (Gen.
+
+ 1:2) and bequeathed poverty and length of exile to the world.
+
+ 
+ומה שיש לי לדקדק במאמר זה הוא: 
+There are several points to be made with regard to this passage.
+
+ 
+א) דפתח בההוא יבש, וסליק בההיא יבשה: 
+1.
+
+ The passage begins with he is dry and continues with she is dry.
+
+ 
+ב) אמר, בנין צווחין וכו׳‎, מה ענין זה הנה, ומה הכוונה בו, ודאי דהכי הוא דכד לא אתיא לעילא ברכאן ושפע אינם נשפעים למטה, ואין זה חדוש, ומה הכוונה בו: 
+2.
+
+ Sons cry out.
+
+ Why does this belong here, and what does it mean? It is certainly true that when blessings do not rise on high, there is no flow of emanation to influence the lower [world], but this is nothing new.
+
+ What is it doing here? 
+ג) אמר, צווחין לתתא ביחודא, אמאי נקט הכא יחודא דשמע ישראל, דלכאורה אינה שאלת ברכה ושפע, לימא צלותא שהם קריאת הברכות: 
+3.
+
+ “They cry out below in unification.
+
+” Why was the unification of Hear, O Israel singled out, for it would seem  that [such a statement] requests neither blessing nor emanation? Let them, rather, recite a prayer consisting of blessings.
+
+ 
+ד) אמר, בנין צווחין לתתא וכו׳‎, אי בנין אנון וצדיקים הם אמאי אין קול ואין עונה זה אין ראוי, ולא הוה ליה למימר בנין אלא צווחין לתתא לבד, והם אותם שגרמו הסלוק והיובש: 
+4.
+
+ Sons cry out below.
+
+ Which “sons” are these? If they are righteous, then why is there no answer? [Such an absence of response] would not be worthy of them.
+
+ It would have been better to say “they” cry out below rather than “sons” [to indicate] that these are the ones who have caused the “removal” and the “dryness.
+
+” 
+ה) אמרו, והכי מאן דגרים דאסתלק, משמע שאין ענשו אלא אז יקראנני, ולא נפיק הכי אלא דגרים וכו׳‎: 
+5.
+
+ “This concerns one who removes.
+
+” The implication is that his punishment is nothing other than Then they will call to Me [and I will not answer], whereas [that punishment] does not stem from [this] but rather [from the sin of the one] “who causes [that they should not attempt to acquire them].
+
+” 
+ו) אמרו, מאן דגרים דאסתלק קבלה וחכמתא, הם כפל לשון: 
+6.
+
+ “Who removes Kabbalah and wisdom.
+
+” This is redundant.
+
+ 
+ז) אמרו, דגרים דלא ישתדלון וגו׳‎ ואמר וכו׳‎, מה ענין כפל זה ואריכותו, וכי אם יאמין כך יספיק או לא יספיק, ואם לא יאמין אם יאמר או לא יאמר מאי איכפת לן, הענין הזה ודאי אומר דרשני: 
+7.
+
+ “Who causes that they should not attempt.
+
+” Why this lengthy repetition? If he believes this, then either it does or does not suffice.
+
+ If he does not believe this, either he will assert it or not.
+
+ What is the difference? This matter surely cries out for investigation.
+
+ 
+ח) אמרו, כאלו הוה אסתלק וכו׳‎, למה הענין הזה גורם כן אחר שכוונתו לשמים כפי מה שנראה לו מפשוטן של דברים אם לא יזכה יותר, מה התלות יש לו אל הסתלקות השפע, ומה יחוסו שם: 
+8.
+
+ “It is as if he removed.
+
+” Why does the text read this way, since [the man’s] intention is praiseworthy and in accordance with what appears to him to be the plain meaning of the text? Even if he is not to be praised, how is he responsible for the removal of the flow? 
+ט) אמר, ארבעה דברים שגורם, מה יחוסם ומהיכא נפקא ליה, והם, תהו – אחד, בהו – שנים, והעניות – שלש, ואורך הגלות – ארבע: 
+9.
+
+ The passage enumerates four things that [this man] causes.
+
+ They are formlessness and void, poverty and length of exile.
+
+ How are they connected, and how do they emanate from him? 
+י) אמר, "כאלו" משמע דלאו הוי הכי ממש, אם כן מה ענינו.
+
+ ואגב אורחין גם כן יקשה, כל מקום שימצא כן בדברי רבותינו ז״ל אומרים (עיין שבת פח.
+
+), "כאלו חזר עולם תהו ובהו", מה הנרצה בו: 
+10.
+
+ The passage does not seem to be presenting a real incident.
+
+ If so, what is its purpose? Also, while we are on the subject, we may ask this question of each passage in the words of our sages where they state “It is as if the world had returned to formlessness and void.
+
+” What is the purpose [of this phrase]? 
+ואמנם הכוונה בזה הוא, כי מלת בראשית תצטרף אר״ת יב״ש, ואין ספק היות מלת ארת לשון נהר, כענין אריתא דדלאי שפירשו רבותינו ז״ל (ב״ק נ), וירצה נהר יבש.
+
+ ולהיות שבפסוק לא נזכר אלא אחד, דהיינו הסתלקות השפע מהנהר לבד, לא מן הבריכה, לזה אמר, "ודא איהו ונהר יחרב ויבש", ירצה, כי הכתוב גלה כי אחר שאין שפע בנהר גם אינו בים, דכתיב (איוב יד, יא), "אזלו מים מני ים ונהר יחרב ויבש", וטעם שהלך השפע מהמלכות, משום דההוא נהר יחרב ויבש, ויובשו של נהר גרים יובש הים, ואם כן אחר שנאמר בכתוב יובש הנהר ממילא משתמע יובש הים, דהא בהא תליא כנודע, שאין מים בים אלא מהנהר: 
+Certainly the intention of [the passage] is that the letters of the word in the beginning (br’syt) should be rearranged to make the words ‘rt ybs (“dry river”).
+
+ There is no doubt that the word ‘rt means “river,” similar to the word ‘ryt’, which signifies “irrigation ditch,” and which our sages have taken to mean a dry river.
+
+ Since the verse mentions only one removal of the overflow—from the “river” and not from the “pool”—[the passage] states, “Here the river dries up and is parched.
+
+” The verse indicates that since there is no flow in the “river,” there is also none in the “sea.
+
+” Thus it is written, The waters of the sea fail, and the river dries up and is parched.
+
+ The reason  that the flow of emanation left Malkhut is because that “‘river’ dries up and is parched.
+
+” The dryness of the “river” causes the drying up of the “sea.
+
+” Thus once Scripture indicates the dryness of the “river,” the dryness of the “sea” is understood as a matter of course, for the two are interconnected, since it is known that there is no water in the “sea” except from the “river.
+
+” 
+ובההוא זמנא וכו׳‎, הכוונה לבאר סיפיה דקרא, דקאמר ברא אלהים וכו׳‎.
+
+ ואמר, בההוא זמנא דאיהו יבש ואיהי יבשה, פירוש, אחר שכבר השפיע השפע המופקד אתה, ואין שפע נשפע לה דהא נהר נמי יחרב ויבש, והיינו דאיהו יבש ואיהי יבשה,  
+At that time.
+
+ The intention is to explain the end of the verse [In the beginning] God created [heaven and earth] (Gen.
+
+ 1:1).
+
+ The passage states, “At that time when he is dry and she is dry.
+
+” This indicates that after the emanation which had been deposited with it has been expended and no [further] emanation reaches it, the “river” will also be dry and parched.
+
+ Thus “he is dry and she is dry.
+
+” 
+ונודע היות נהר סוד וא״ו ומשך וא״ו, ונודע שהתפארת שהוא הוא״ו השפע מסתלק ממנו ולא כל כך, ולכן לא שייך ביה יובש ממש אלא חורב, שיש בו לחות קצת אבל לא מים, וביסוד שהוא למטה שם שייך יובש, וזהו שאמר, ונהר יחרב – מצד התפארת, ויבש – מצד היסוד: 
+It is known that “river” signifies the mystery and continuity of vav.
+
+ It is also known that [in this manner] emanation is removed from [the sefirah] Tiferet, which is [identified with] vav, though [it is] not completely [removed].
+
+ Thus [Tiferet] does not experience an absolute dryness but rather one in which there still remains some moisture, though no water.
+
+ In [the sefirah] Yesod, which is below [Tiferet], there may be [absolute] dryness.
+
+ That is why [the passage] states the river dries up—from the perspective of Tiferet—and is parched—from the perspective of Yesod.
+
+ 
+ואפשר, שעל יובש שלשתם אמר, בראשית ברא אלהים, ומלת אלהים זו יהיה הכונה במלכות, וכן פירש הרשב״י ע״ה פעמים רבות.
+
+ והשתא אדכר בקרא יובש היסוד והתפארת והמלכות.
+
+ ואר״ת יב״ש היינו יסוד,  
+Possibly [the verse] In the beginning God created refers to the dryness of all three [sefirot], with the word God [‘Elohim] signifying Malkhut.
+
+ Rabbi Simeon bar Yoḥai, peace upon him, often stated this.
+
+ Now the dryness of Tiferet, Yesod, and Malkhut is mentioned in the verse, with “dry river” referring to Yesod.
+
+ 
+או ירצה תאר יבש, והיינו ויהי יוסף יפה תאר, ויפה מראה "ברא" היינו הת״ת, שהוא ברא עלאה, וכדפירש הרשב״י פעמים רבות.
+
+ "אלהים" מלכות.
+
+ ואז בהיות היובש הזה, "את השמים ואת הארץ" דהיינו היחוד, צווחין יחודא ואין קול ואין עונה כאשר נבאר בס״ד, והיינו והארץ דהיינו נהר וים יחרב ויבש, וזהו "היתה תהו ובהו" כאשר נבאר: 
+Alternatively it is possible that [the word br’syt can be rearranged] as t’r ybs (“dry form”) as in [the verse] Joseph was well formed [t’r] and handsome (Gen.
+
+ 39:6).
+
+ Created [in the verse would thus] refer to Tiferet, which “created” on high.
+
+ And, as Rabbi Simeon bar Yoḥai explained many times, ‘Elohim signifies Malkhut.
+
+ Therefore heaven and earth, experiencing this dryness, together cry out the unification [of the Shema] and there is no voice in response, as we will explain with God’s help.
+
+ Thus [returning to the verse] and the earth, which refers to the river and the sea will be dry and parched, was formless and void, as we will explain.
+
+ 
+או ירצה "ברא אלהים" פירוש צדיקייא, דאינון בנין.
+
+ ברא אלהים, בני שכינתא נשמתין קדישין, צווחין לתתא, את השמים ואת הארץ, דהיינו יחודא, ולית דמשגח ח״ו, ולזה ניחא מלת בנין צווחין לתתא.
+
+  
+Alternatively, God [‘Elohim] created signifies the righteous, for they are the sons which God created, the sons of the Shekhinah.
+
+ These holy souls cry out below.
+
+ Heaven and earth refers to the unification [of the Shema Yisrael]—and is there no one listening? God forbid! In this way it is easy [to comprehend] the phrase “sons cry out below.
+
+” 
+ועם כל זה לא קשיא, כי חוטא אחד יאבד טובה הרבה.
+
+ והנה דקדק באמרו "שמע ישראל" דהיינו ת״ת ומלכות את השמים ואת הארץ, והיינו ייחודא ממש, והכוונה, כי אפילו יבאו ליחד שלכאורה הוא תיקון הפרוד, עם כל זה אי אפשר לתקן, כל שכן בתפילה.
+
+ וזהו שדקדק באמרו, את השמים ואת הארץ דהיינו יחודא, ועם כל זה ואין קול דהיינו קב״ה, ואין עונה דהיינו שכינתיה.
+
+ וזהו שאמר, "והארץ היתה תהו ובהו", והארץ – קב״ה ושכינתיה, היתה – תהו ובהו, דהיינו יחרב ויבש.
+
+ ומפני שזה דוחק גדול לומר כי אפילו שיבואו לתקן וליחד לא יתקנו, הכריח הענין מן הכתוב באמרו אז יקראנני וכו׳‎ , משמע שממש קראן שמע ישראל, דקראן להו לגבייהו ולא אענה ח״ו.
+
+  
+If  [you were to say] that all this is no problem, seeing that one sinner can destroy much good, nonetheless [the passage] carefully stated Hear, O Israel, referring to Tiferet and Malkhut.
+
+ Heaven and earth indicates an actual unification.
+
+ Thus the passage would mean that even if they came to perform a unification, [an action] which seemingly rectifies the [sefirotic] separation, this [rectification] is nonetheless impossible to accomplish, particularly through prayer.
+
+ This is why heaven and earth was specifically mentioned, for it signifies unification.
+
+ Despite this there is no voice, referring to the Holy One, blessed be He, and no answer, referring to His Shekhinah.
+
+ This is why [Scripture] states, The earth was formless and void.
+
+ The earth—the Holy One, blessed be He, and His Shekhinah—was formless and void, or, in other words, dry and parched.
+
+ Since it might seem farfetched to say that they would not succeed if they come to effect a reparation and unification, he proved the matter from the verse, Then they will call upon Me [and I will not answer].
+
+ This indicates that they actually recited Hear, O Israel, calling upon them, [Tiferet and Malkhut, to unify,] and [the result was that] I will not answer—God forbid.
+
+ 
+ומשום דההוא קרא לאו גבי הכי כתיב, ועוד דאפילו תימא קרא קשיא אמאי לא אענה אחר שכבר הם מיחדים הפרוד, לזה באר עונם היותו למעלה, ואין להם תקנה בזה.
+
+ וזהו שאמר, "והכי מאן דגרים דאסתלק" וכו׳‎ דהיינו קרא דאז יקראנני,  
+The verse is not [ostensibly] written concerning this.
+
+ Moreover, it is possible to say that [this interpretation of] the verse presents a difficulty, for why would God not answer after the rectification of the separation? Therefore the verse [must be] interpreted [to mean] that their sin affects the upper spheres and thus they have no means to rectify it.
+
+ This is why [the passage] states “This concerns one who removes [Kabbalah and wisdom],” which relates to the verse Then they will call upon Me [and I will not answer].
+
+ 
+דלעיל מניה כתיב (משלי א, כ) חכמות בחוץ וכו׳‎, דהיינו סודות הנעלמים בתורתינו הקדושה.
+
+ והיא אומרת, "עד מתי פתים תאהבו פתי", ירצה, אתם נמשכים אחר הפשט, ואתם מפתים את עצמכם בפתיות, ותאהבון פתי זה חלק שהם מאמינים בתורה שאין בה אלא פשט.
+
+ "ולצים לצון" וכו׳‎ זה כגון מנשה וכו׳‎ שהיה דורש וכו׳‎ (סנהדרין צט).
+
+  
+The preceding verse states, Wisdom [cries out] in the streets (Prov.
+
+ 1:20).
+
+ This verse refers to the recondite secrets of our holy Torah.
+
+ [Wisdom] states, How long will you simple ones love simplicity? (Prov.
+
+ 1:22).
+
+ In other words, you who follow after the simple meaning deceive yourselves with your love of simplicity—the part of the Torah you do believe in—which contains nothing beyond the simple meaning.
+
+ And scoffers [be eager] to scoff.
+
+ This has reference to [King] Manasseh [son of Hezekiah], who would expound [difficult haggadot and say, “Did Moses have only to write The sister of Lotan was Timna (Gen.
+
+ 36:22)]?” 
+ומי גרם זה, רודפן אחר פשוטן של דברים ולא יביטו אל נסתרם.
+
+ והיינו "וכסילים ישנאו דעת" דהיינו ידיעת הנעלמות, ובתריה מאי כתיב "תשובו לתוכחתי הנה אביעה לכם רוחי", פירוש, הנשמה המתלבשת בתוך הפשט, אביעה לכם רוחי, אודיעה דברי אתכם בנסתר שיש בי, ותפרעו וכו׳‎ אז יקראנני וכו׳‎, וזה שאמר, והכי למאן דגרים דאסתלק קבלה וחכמתא וכו׳‎, הכוונה כי התורה שבכתב היא הת״ת ותורה שבעל פה היא המלכות, והיינו סוד ו״ה, ונסתרות בתוכם י״ה, דכתיב (דברים כט, כח), "הנסתרות לה׳‎ אלהינו" שם סוד י״ה, "וה-נגלות לנו ולבנינו עד עולם".
+
+  
+Who has caused these people to chase after the simple meaning [of Scripture] and ignore the esoteric portions? It is you dullards [who] hate knowledge (Prov.
+
+ 1:23), meaning the knowledge of hidden things.
+
+ What is written [in the verse] after that? You are indifferent to my rebuke, I will now speak my mind to you.
+
+ This means that the soul which is enwrapped in the simple meaning [is now addressed]: I will now speak my mind to you and let  you know my thoughts concerning the secrets which I possess.
+
+ And you spurned [my counsel](Prov: 1:25) … Then they will call upon me [but I will not answer (Prov.
+
+ 1:28).
+
+ This is why [the passage] states, “This concerns one who removes Kabbalah and wisdom.
+
+ [Kabbalah] means the written Torah, [which symbolizes] Tiferet, and [wisdom] refers to the oral Torah, which is Malkhut.
+
+ This is the mystery of the vav heh in which the yod heh is concealed, as it is written, The hidden things are for the Lord our God.
+
+ There the secret of God is revealed—to us and our children forever (Deut.
+
+ 29:28).
+
+ 
+ולכן המכחיש בסודות התורה ובנסתר שלה גורם להסתלק חכמה כמשמעה דהיינו יו״ד, וקבלה דהיינו ה״א, מהתפארת והמלכות דהיינו ו״ה, דהיינו תורה שבעל פה ואורייתא דבכתב: ומשום דקשיא ליה, וכי מפני שיאמין העני לפי ראות עיניו בזה יחטא עונש כזה, הסתלק י״ה מו״ה חס ושלום.
+
+ לזה אמר, דלא עסקינן אלא במי שדורש כן לרבים, ועושה מעשה על פי הוראתו.
+
+ וזהו שאמר, דגרים דלא ישתדלון בהון ואמר דלא אית אלא פשט באורייתא דהיינו תורה שבכתב, ובגמרא דהיינו תורה שבעל פה, האיש שעשה זאת ודאי דגרים יובש למעלה, כאלו היה עושה עבירה בידים ממש, זה שאמר, כאלו הוה אסתלק נביעו מההוא נהר דהיינו וא״ו, ומההוא גן דהיינו ה״א, שהם תורה שבכתב ותורה שבעל פה,  
+Thus one who denies the mysteries of the Torah and its esoteric lore causes the “removal of wisdom,” yod, “and Kabbalah,” heh, from Tiferet and Malkhut, vav and heh, referring to the written and oral Torah.
+
+ Since it is difficult for one [to understand] how the poor man, who can only believe what his eyes see, could sin [so grievously] as to be punished by having the yod heh removed from the vav heh [in the divine Name], [the passage] states that we are dealing only with one who teaches this publicly and acts according to his teaching.
+
+ This is the reason that [the passage] states “[He] who causes that they should not attempt [to acquire] them and who asserts that there is nothing beyond the plain meaning of the Torah”—the written Torah—“and Talmud”—the oral Torah.
+
+ The man who has done this has caused a “dryness” above as surely as if he had sinned with his very hands.
+
+ This is why [the passage] states, “It is as if he removed the flow from that river,” i.
+
+e.
+
+, vav, “and that garden,” i.
+
+e.
+
+, heh, which constitute the written and oral Torahs.
+
+ 
+ווי ליה טב ליה דלא אברי, אחר שפוגם למעלה: ולא יוליף וכו׳‎, כי מה שלומד התורה שבכתב ותורה שבעל פה הוא אוחז בת״ת ובמלכות, ומסלק מהם סוד י״ה, הרי ממש בעסק תורתו מפסיד ומפריד, והתורה אליו עבירה.
+
+ ובלי ספק עליו נאמר, (תהלים נ, טז) ולרשע אמר אלהים וגו׳‎: דאתחשיב ליה וכו׳‎, הענין כי יש תהו ובהו טוב, ותהו ובהו בקליפה.
+
+ תהו היינו חכמה, שהוא דבר תוהא מקום תמיהה.
+
+ בהו, דבר המלביש את התהו, דהיינו הבינה.
+
+ והנה, על ידי שתים אלו בטול התהו והבהו שהם הקליפות, ולכן כל מי שמסלק שתי מדות אלו ומשליט אלו החיצונות, זה ודאי כאלו חזר עלמא לתהו ובהו, כי העולם שבו משכן תהו ובהו דקוב״ה זה מסלקן ומשליט החיצונות, הרי העולם מתלבש בקליפה שהיא התהו והבהו הקודם.
+
+ וזה שאמר, "והארץ היתה תהו ובהו" כי אין שפע התהו ובהו העליון, כדפירשתי.
+
+  
+“Woe to him.
+
+ It were better for him had he never been created,” since he has caused harm on high, “and had never taught,” for through his “study” of the written and oral Torah he takes Tiferet and Malkhut and removes from them the mystery of yod and heh.
+
+ Thus in his very Torah study he causes loss and division, so that the study becomes a sin.
+
+ It is doubtless concerning him that [the verse] states, And to the wicked God says (Ps.
+
+ 50:16), for it is considered as if he [had returned the world to formlessness and void].
+
+ In truth there exists formlessness and void [on the side of] good and formlessness and void of the kelipah.
+
+ “Formlessness” (tohu) signifies [the sefirah] Ḥokhmah, which is a place of astonishment (toheh).
+
+ “Void” (bohu) is that which clothes the formlessness.
+
+ It signifies [the sefirah] Binah.
+
+ By means of these [two sefirot] the formlessness and void of the kelipah are nullified.
+
+  Thus everyone who removes these two [sefirotic] qualities and causes the “outer ones” to prevail can surely [be considered] as if [he had caused] the world to return to formlessness and void.
+
+ He removes the world which is the dwelling place of the formlessness and void of the Holy One, blessed be He, and causes the “outer ones” to rule.
+
+ Thus the world is clothed in the kelipah, which constitutes the primordial formlessness and void.
+
+ This is why [Scripture] states, And the earth was formless and void, for there was no emanation from the supernal formlessness and void, as I have explained.
+
+ 
+הנה פגם זה הוא בסוד י״ה, דהיינו חכמה וקבלה שהוא מסלק.
+
+ "וגרים עניות" היינו במקום העושר הנשפע מהתפארת, שהוא סוד הנהר הנזכר לעילא, "ואורך גלות" היינו סוד אזלו מים מני ים.
+
+ "ושכינתא אזלא בגלותא", והענין כמו שפירש רבי שמעון בן יוחאי ע״ה במקום אחר, כי סוד והארץ היתה תהו ובהו היינו אחר שנחרב הבית הראשון ושני, ויאמר אלהים יהי אור זהו סוד הגאולה העתידה, ופירשתי עניינו בספר אור יקר בחלק א׳‎ בשער א׳‎,  
+This defect, therefore, is the mystery of yod heh, which refers to wisdom and Kabbalah.
+
+ This he removes, causing “poverty” in place of the “riches” emanating from Tiferet, which is the mystery of the river mentioned previously.
+
+ “Length of exile” is the mystery of the “waters” left the “sea” [signifying that] the Shekhinah left for exile.
+
+ This was explained by Rabbi Simeon bar Yoḥai, peace upon him, in another place.
+
+ [He stated] that the mystery of the earth was formless and void [refers to the period] after the destruction of the First and Second Temples.
+
+ And God said, “Let there be light” (Gen.
+
+ 1:3)—this [refers] to the mystery of the future redemption.
+
+ I dealt with this matter in my book, Or Yakar.
+
+ 
+ובזה נתבאר המאמר הזה.
+
+ ונמצינו למדין בעון בעלי סברא זו, ראשונה הסתלקות השפע והחכמה והבינה מהתפארת והמלכות.
+
+ שנית, כאלו חזר עלמא לתהו ובהו.
+
+ שלישית, גורם עניות.
+
+ רביעית, אורך גלות, וכדפירשתי עניינם: 
+With this the passage has been explained and we have uncovered the sin of those who hold this opinion.
+
+ First of all, [the sin] involves the removal of emanation and [the separation of] Ḥokhmah and Binah from Tiferet and Malkhut.
+
+ Secondly, it is as if the world had returned to formlessness and void.
+
+ Thirdly, it causes “poverty”.
+
+ Fourthly, [it causes] “length of exile,” as I have explained.
+
+ 
+ PART I, Chapter 2
+ועוד בזה בענין זה  
+More on This Matter 
+בפרשת בהעלותך זה לשונו,  
+In [the Zohar], section Be-ha’alotekha [III, 152a], it states: 
+"רבי שמעון אמר 
+Rabbi Simeon said; 
+ ווי ליה לההוא בר נש דאמר דהא אורייתא אתא לאחזאה ספורין בעלמא ומלין דהדיוטא דאי הכי אפילו בזמנא דא אנן יכלין למעבד אורייתא במלין דהדיוטן ובשבחא יתיר מכלהו.
+
+  
+Woe to that son of man who says that this Torah has come to present an ordinary story and ordinary words.
+
+ For if this were so, even in this time we would be able to make a Torah of ordinary words; [one] better than any of them.
+
+ 
+אי לאחזאה מלה דעלמא, אפילו אינון קפסירי דעלמא אית בינייהו מלין עלאין יתיר, אי הכי נזיל אבתרייהו ונעביד מינייהו אורייתא, 
+If [the Torah] comes merely to present ordinary words, then there are even greater words among the nobles of the world.
+
+ If so, let us seek [those words] and make a Torah of them.
+
+ 
+ אלא כל מילין דאורייתא כהאי גוונא.
+
+ 
+However, all the words of the Torah are [sublime].
+
+ 
+ תא חזי  
+Come and see: 
+עלמא עלאה ועלמא תתאה בחד מתקלא אתתקלו, ישראל לתתא מלאכי עילאי לעילא, מלאכי עילאי כתיב בהו עושה מלאכיו רוחות.
+
+  
+The upper world and the lower world are evenly balanced: Israel below and the high angels  above.
+
+ Of the lofty angels it is written, He makes His angels as winds (Ps.
+
+ 104:4).
+
+ This [refers to their state] in the high place.
+
+ 
+בשעתא דנחתין לתתא מתלבשין בלבושא דהאי עלמא,  
+When they come down to earth [the angels] clothe themselves in the garments of this world.
+
+ 
+ואי לאו מתלבשי בלבושי כגוונא דהאי עלמא, לא יכלין למיקם בהאי עלמא, ולא סביל לון עלמא.
+
+ ‎ 
+Had they not clothed themselves in garments after the fashion of this world, they would not have been able to exist in this world, and the world would not suffer them [to exist].
+
+ 
+ואי במלאכי כך אורייתא די ברא להון וברא עלמין כלהו וכלהו קיימין בגינה, ‎ 
+If this is so with regard to the angels, then [how much more so] with regard to the Torah, which created them and all the worlds, and everything exists for its sake.
+
+ 
+כיון דנחתת להאי עלמא אי לאו דמתלבשא היא בלבושא דהאי עלמא, לא יכיל עלמא למסבל.
+
+  
+When [the Torah] did come down into the world, were it not clothed in the garments of this world, the world would not have been able to suffer it.
+
+ 
+וע״ד האי ספורא דאורייתא לבושא דאורייתא איהו,  
+Therefore the story of the Torah constitutes its garment.
+
+ 
+ מאן דחשיב דהוא לבושא דאורייתא איהו ממש ולא מלה אחרא תפח רוחיה, ולא יהא ליה חולקא בעלמא דאתי, 
+He who thinks that the garment is actually the Torah and and not something else, let his spirit deflate and let him have no portion in the world-to-come.
+
+ 
+ בגינו כך אמר דוד, גל עיני ואביטה נפלאות מתורתך מה דתחות לבושא דא דאורייתא: 
+It was in this connection that David said,  (Ps.
+
+ 119:18), [meaning] that which is under the garment is really Torah.
+
+ 
+Open my eye that I may behold wondrous things out of your Torahתא חזי,  
+Come and see: 
+אית לבושא דאתחזי לכלא,  
+A garment is visible to all.
+
+ 
+ואינון טפשין כד חזו לבר נש דאתחזי לון שפירא, לא מסתכלן יתיר,  
+Those fools, when they see a man in a garment that appears good to them, seek no farther.
+
+ 
+חשיבו דההוא לבושא גופא, 
+They think that the garment is the actual thing.
+
+ 
+חשיבותא דגוף נשמתא.
+
+  
+[However,] the essence of the body is the soul.
+
+ 
+כהאי גוונא אורייתא, אית לה גופא,  
+Just so, the Torah has a body.
+
+ 
+ומלין דאורייתא דא אקרון גופי תורה,  
+The commandments of the Torah are called the “body” of the Torah.
+
+ 
+האי גופא מתלבשא בלבושא דאינון ספורין דהאי עלמא,  
+This body is clothed in a garment made up of the stories of this world.
+
+ 
+טפשי דעלמא לא מסתכלין אלא בההוא לבושא דאיהו ספור דאורייתא וכו׳‎.
+
+ אינון דידעין יתיר, לא מסתכלי בלבושא אלא בגופא דאיהו תחות האי לבושא.
+
+  
+The fools of the world look on nothing save the garment, which is the story of the Torah [and nothing more.
+
+ They do not look at that which is under the garment].
+
+ 
+חכימין דאינון עבדוי דמלכא עלאה, אנון דקיימו בטורא דסיני, לא מסתכלין אלא בנשמתא,  
+The wise, who worship the Most High King, those who stood at Mount Sinai, look only at the soul, which is the most essential thing of all.
+
+ 
+דאיהו עקרא דכלא אורייתא ממש,  
+It is the true Torah.
+
+ 
+ולעלמא דאתי זמינין לאסתכלא בנשמתא דאורייתא: 
+In the world-to-come, they will look at the soul of the soul of the Torah.
+
+ 
+תא חזי, 
+Come and see.
+
+ 
+ הכא נמי לעילא  
+Thus it is above: 
+אית לבושא וגופא ונשמתא ונשמתא לנשמתא.
+
+  
+There is garment and body and soul and soul of souls.
+
+ 
+שמיא וחיליהון אנון לבושא,  
+The heavens and their host are the garment.
+
+ 
+כנסת ישראל דא גופא דמקבלא לנשמתא דאיהו תפארת ישראל, ועל דא איהו גופא לנשמתא נשמתא דאמרן, דא ת״ת ישראל דאיהי אורייתא ממש,  
+The congregation of Israel is the body which receives the soul,  which is the glory [Tiferet] of Israel, which is the very Torah.
+
+ 
+ונשמתא לנשמתא דא איהו עתיקא קדישא,  
+The soul of the soul is the ancient Holy One.
+
+ 
+וכלא אחיד דא בדא.
+
+  
+All are connected one to the other.
+
+ 
+ויי לאינון חייבא דעלמא, דאמרין דהא אורייתא לא איהו אלא ספור בעלמא, 
+Woe to those sinners of the world who say that this Torah is nothing but an ordinary story.
+
+ 
+ואנון מסתכלין בלבושא דא ולא יתיר  
+They look at the garment and no farther.
+
+ 
+זכאין אנון צדיקייא דאנון מסתכלין באורייתא כדקא יאות.
+
+  
+Happy are the righteous who regard the Torah properly.
+
+ 
+חמרא לא יתיב אלא בקנקן,  
+Wine cannot stay except in a jar.
+
+ 
+כך אורייתא לא יתיב אלא בלבושא דא,  
+So Torah cannot abide except in this garment.
+
+ 
+בגיני כך אורייתא לא באעי לאסתכלא אלא במה דאית תחות לבושא,  
+Because of this one must seek to look at [the Torah] only only through what exists under the garment.
+
+ 
+ועל דא כל אלין מילין וכל אילין ספורין לבושא אנון", עכ״ל: 
+Thus all those words and stories are garments.
+
+ 
+והנה במאמר הזה הוסיף לנו לקח בבטול דעת הכת הזאת וכיוצא בהם, השוללים הנסתר מתורתנו הקדושה.
+
+ ונפקא לן מיניה בעקר כי עוד על הסוד הזה הנסתר יש פנימי לפנימי, וזה נעלם עתה מעיני היודעים, ונזכה אליו בעולם הזה כל ישראל לעתיד.
+
+  
+In this passage, [the Zohar] has instructed us concerning the refutation of the opinion of this group and those like them who denigrate the esoteric portion of our holy Torah.
+
+ Essentially, we learn from [the passage] that over and above the secret inherent in the matter there is an even more hidden level of mystery which is presently unknown even to those who know [Kabbalah].
+
+ Nonetheless we and all Israel will be privileged [to behold] this [mystery] in the future world.
+
+ 
+ועתה אחי הודיעני מי שלא הסתכל בנשמתא איך יסתכל לעתיד בנשמתא דנשמתא, וימצא גרוע לעתיד.
+
+ ואל תשיבני ממי שלא זכה אליה, כי יש חלוק גדול בין מי שהכחישה למי שאינו מכחישה אלא שלא ראה מאור מימיו, ויש על שניהם תוספת מי שנתעסק בה.
+
+  
+Now, brethren, explain to me how a person who has never beheld the soul [of the Torah in this world] will, in the future, gaze upon the soul of the soul? Such a person will be found wanting in the future [world].
+
+ Do not reply that some are unworthy [to behold] her, for there is a great difference between one who denies her and one who does not deny her and yet has never beheld [her] light.
+
+ Superior to both of them is the one who has pursued her.
+
+ 
+וה׳‎ הוא אלהים חיים ומלך עולם, דן את הדין ומזכה את הזכאי ומחייב את החייב, ונותן לאיש כדרכו, ואין לנו להכחיש דברי חז״ל במדרש משלי, ששואלים לאדם צפית במרכבה, צפית בשעור קומה שלו וכו׳‎, והעתק לשונו הנה יכבד עלינו הענין.
+
+ ועוד באר הענין הזה הרשב״י ע״ה בזהר בפרשה הנ״ל דף קמ״ט ע״ש: 
+The Lord, the living God and eternal King, sits in judgment to clear the innocent and declare the culprit guilty.
+
+  (Jer.17:10).
+
+ The words of our sages, their memory be a blessing, cannot be denied.
+
+ [They stated] in Midrash Mishlei: “They ask a man [on the Day of Judgment], ‘Have you gazed upon the ? Have you beheld my ” Copying this [entire] passage would be too cumbersome.
+
+ Rabbi Simeon bar Yoḥai, peace upon him, also dealt with this matter in the Zohar, same section, page 149.
+
+ Read it there.
+
+ 
+He apportions to man according to his waysMerkavahShi’ur Koma?Loading.

@@ -101,4 +101,10 @@ O Cristianismo surge com uma proposta de "nova aliança", não reconhecida pela 
 
 O Cristianismo, como tentativa de continuidade ou substituição da Torá, é inválido de acordo com a própria Torá. A autoridade legal reside exclusivamente nos *cohanim* e juízes estabelecidos em Jerusalém. Qualquer doutrina que tente redefinir as leis da Torá sem esse processo é considerada heresia e rebelião contra o mandamento divino. Ou nos dias hoje, apropriação/usurpação de uma herança cultural. Uma tática de assimilação política e social para todos os povos.
 
-**Fonte:** Sefaria Export – Edição “Sulam Edition, Jerusalem 1945” e Halachá clássica judaica.
+## 📚 Fontes
+* **Bíblia Hebraica (Tanakh):** Livro de Devarim / Deuteronômio, Capítulo 17, Versículos 8-11.
+* **Talmud Bavli:** Tratado Sanhedrin 88b.
+* **Maimônides (Rambam):** Mishné Torá, Hilchot Mamrim (Leis sobre os Rebeldes), Capítulos 1:1-4.
+* **Sifrei Devarim:** Coletânea de Midrashim sobre o livro de Deuteronômio.
+* **Sefaria Export – Edição “Sulam Edition, Jerusalem 1945”.**
+* Conhecimento geral da Halachá (Lei Judaica) e história do surgimento do Cristianismo.

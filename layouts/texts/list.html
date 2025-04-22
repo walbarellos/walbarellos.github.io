@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <title>Reflexões</title>
     <style>
-      /* Mantém o estilo que você já fez */
+      /* Estilo como você fez antes */
     </style>
   </head>
 
@@ -17,8 +17,15 @@
     <button class="button" onclick="history.back()">← Voltar</button>
 
     <div class="text-container">
-      <!-- Aqui Hugo irá renderizar o conteúdo do arquivo de texto -->
-      {{ .Content }}
+      <!-- Lista os arquivos dentro de content/texts -->
+      {{ range .Site.RegularPages }}
+        {{ if eq .Section "texts" }}
+          <div class="text-item">
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <p>{{ .Summary }}</p>
+          </div>
+        {{ end }}
+      {{ end }}
     </div>
 
     <a class="flicker-a other" href="https://qoto.org/@wepiphany" target="_blank">

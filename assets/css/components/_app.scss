@@ -11,16 +11,22 @@
 .app-header-avatar {
   width: 15rem;
   height: 15rem;
-  border-radius: 100%;
+  border-radius: 50%;
   border: 0.5rem solid $primary-color;
-  animation: neonBoxPulse 2s infinite, glitch 0.5s infinite alternate;
-  transition: box-shadow 0.3s ease-in-out, transform 0.2s ease-in-out;
+  animation: neonPulse 2.5s ease-in-out infinite, glitch 1s infinite alternate;
+  transition: box-shadow 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 0 1.5rem rgba($primary-color, 0.6), 0 0 2rem rgba($primary-color, 0.4);
 }
 
 .app-header-avatar:hover {
-  box-shadow: 0 0 2rem $primary-color, 0 0 1rem $primary-color, 0 0 1rem $primary-color;
-  transform: scale(1.1);
+  transform: scale(1.08);
+  box-shadow:
+    0 0 2.5rem rgba($primary-color, 0.8),
+    0 0 1.5rem rgba($primary-color, 0.6),
+    0 0 3rem rgba($primary-color, 0.5),
+    inset 0 0 0.5rem rgba($primary-color, 0.3);
 }
+
 
 .app-container {
   padding: 2.5rem;

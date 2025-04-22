@@ -46,9 +46,8 @@ O versículo 11 ordena:
 
 Esse ensinamento mostra que o tribunal central (Sanhedrin) atua como extensão da vontade divina em questões legais, e rejeitá-lo é equivalente a rejeitar a autoridade do Eterno.
 
-**📜 Rambam – Mishné Torá, Hilchot Mamrim 1:1-4:**
-
-1.  **A Origem da Autoridade:**
+**📜 Rambam (Maimônides) – Mishné Torá, Hilchot Mamrim 1:1-4:**
+1.  ***A Origem da Autoridade:***
     ```
     מצות עשה לשמוע לבית דין הגדול ולקבל את דבריהם
     ```
@@ -57,7 +56,7 @@ Esse ensinamento mostra que o tribunal central (Sanhedrin) atua como extensão d
     ```
    > “É um mandamento positivo ouvir o Beit Din Gadol e aceitar suas palavras.”
 
-2.  **O Perigo da Cismatização:**
+2.  ***O Perigo da Cismatização***
     ```
     הפורש מדבריהם הרי זה מין
     ```
@@ -66,9 +65,19 @@ Esse ensinamento mostra que o tribunal central (Sanhedrin) atua como extensão d
     ```
   > “Aquele que se separa de suas decisões é um herege (min).”
 
-3.  **Obediência Mesmo em Erro:**
+3.  ***Obediência Mesmo em Erro***
    > “Mesmo que te digam que a direita é esquerda, e a esquerda é direita, tu ouvirás.” (Sifrei, Devarim 17:11)
    > A base da Halachá não está na lógica individual, mas na unidade de transmissão e autoridade – um valor fundamental preservado no sistema jurídico rabínico e que qualquer ruptura invalida.
+   > “Mesmo que pareça ao indivíduo que os juízes estão em erro, é proibido agir contra suas palavras — pois a Torá nos ordenou seguir a autoridade dos nossos dias, e não a nossa própria razão.”
+
+Essa afirmação tem peso crucial contra qualquer movimento que pretenda reinterpretar ou substituir a revelação de forma independente — como ocorreu no surgimento do Cristianismo, que rejeitou o Sanhedrin, o Templo e o sistema sacerdotal instituído pela Torá.
+
+**🧩 Aplicação Haláchica:**
+Não é permitido elaborar novas alianças, doutrinas ou sistemas religiosos fora do domínio do Beit Din HaGadol.
+
+A substituição de mandamentos, ou a abolição de mitsvot sob pretexto de "nova revelação", é um crime espiritual, pois viola o princípio de "**lo tasur**" (**não se desviarás**).
+
+O Rambam estabelece que mesmo um profeta que contradiga a Torá ou o Sanhedrin é considerado **naví sheker** (**falso profeta**) (**cf. Devarim 13**).
 
 **👉 Conclusão Haláchica:**
 > A criação de qualquer sistema doutrinário ou espiritual fora da autoridade do Beit Din Gadol e dos *cohanim* é, à luz de Devarim 17 e da Halachá codificada, uma forma de rebelião e heresia.
@@ -76,13 +85,17 @@ Esse ensinamento mostra que o tribunal central (Sanhedrin) atua como extensão d
 ## ❌ 4. A Ilegitimidade da Apropriação Romana
 
 **O Cristianismo e a Usurpação**
-O Cristianismo surge com uma proposta de "nova aliança", não reconhecida pela Torá.
-Não houve consulta ao Sanhedrin ou aos *cohanim* — o que invalida qualquer alteração de doutrina ou lei.
-O Novo Testamento não tem nenhuma base no processo jurídico da Torá (Devarim 17).
 
-**Violação do Mandamento**
-A doutrina cristã desvia-se “para a direita e para a esquerda” — algo explicitamente proibido.
-Não possui linhagem levítica nem respaldo da liderança legal judaica da época.
+O Cristianismo surge com uma proposta de "nova aliança", não reconhecida pela Torá. 
+
+| Mandamento da Torá                     | Prática Cristã                                          | Violação | Argumentação Adicional                                                                                                                               |
+| :------------------------------------- | :------------------------------------------------------ | :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Consultar os levitas e o Sanhedrin      | Rejeição da Halachá, substituição por apóstolos romanos | ❌       | Substituição da autoridade rabínica por figuras com influência romana.                                                                                |
+| Julgamento no lugar escolhido (Jerusalém) | Centralização em Roma, depois Constantinopla            | ❌       | Desvio do centro religioso e legal estabelecido na Torá.                                                                                             |
+| Não desviar nem para a direita nem esquerda | Substituição da Torá por Novo Testamento                 | ❌       | Adoção de um novo conjunto de escrituras e leis, alterando fundamentalmente a fé.                                                                   |
+| Crença em um Messias sofredor e divino   | Aceitação de um "Messias" crucificado e com atributos divinos | ❌       | Contradiz as profecias bíblicas de um Messias terreno, vitorioso e que trará a redenção completa de Israel.                                        |
+| Cumprimento das profecias messiânicas   | Alegação de cumprimento de profecias                     | ❌       | Inúmeras profecias sobre a vinda do Messias (paz universal, reconstrução do Templo, reunião dos exilados) não se concretizaram no período do Novo Testamento. |
+| Unidade e singularidade de D'us         | Introdução da Trindade                                  | ❌       | Desvia do princípio fundamental do monoteísmo judaico, conforme expresso no Shemá ("Ouve, ó Israel, o Senhor é nosso D'us, o Senhor é Um").       |
 
 ## 🧱 5. Conclusão
 

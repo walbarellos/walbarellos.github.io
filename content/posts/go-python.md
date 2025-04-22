@@ -1,4 +1,3 @@
-
 ---
 title: "🧵 Programação Assíncrona e Metaprogramação em Python vs Ruby"
 date: 2025-04-18

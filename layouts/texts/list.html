@@ -1,39 +1,28 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8" />
-    <title>Reflexões</title>
-    <style>
-      /* Estilo como você fez antes */
-    </style>
-  </head>
+{{ define "main" }}
+  <article>
+    <!-- Exibe o título da seção, se houver -->
+    {{ with .Title -}}<h1>{{- . -}}</h1>{{- end }}
+    
+    <!-- Exibe o conteúdo de descrição da seção -->
+    {{ with .Content -}}<div class="section-description">{{- . -}}</div>{{- end }}
 
-  <body>
-
-    <a class="flicker-a" href="https://dev-walbarello.netlify.app/" target="_blank">
-      <h1><span>B</span>e<span>m</span><span> V</span>in<span>d</span>o</h1>
-    </a>
-
-    <button class="button" onclick="history.back()">← Voltar</button>
-
-    <div class="text-container">
-      <!-- Lista os arquivos dentro de content/texts -->
-      {{ range .Site.RegularPages }}
-        {{ if eq .Section "texts" }}
-          <div class="text-item">
-            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-            <p>{{ .Summary }}</p>
-          </div>
-        {{ end }}
+    <!-- Lista as páginas dentro da seção 'texts' -->
+    <ul class="posts-list">
+      {{ range .Pages }}
+        <li class="posts-list-item">
+          <a class="posts-list-item-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <span class="posts-list-item-description">
+            {{ partial "icon.html" (dict "ctx" $ "name" "calendar") }}
+            {{ .PublishDate.Format "Jan 2, 2006" }}
+            <span class="posts-list-item-separator">-</span>
+            {{ partial "icon.html" (dict "ctx" $ "name" "clock") }}
+            {{ .ReadingTime }} min read
+          </span>
+        </li>
       {{ end }}
-    </div>
+    </ul>
 
-    <a class="flicker-a other" href="https://qoto.org/@wepiphany" target="_blank">
-      <h1><span>@</span>w<span>a</span>l<span>b</span>a<span>r</span>e<span>l</span>l<span>o</span></h1>
-    </a>
-
-    <div class="fade top"></div>
-    <div class="fade bottom"></div>
-
-  </body>
-</html>
+    <!-- Adiciona a navegação de páginas -->
+    {{ partial "pagination.html" . }}
+  </article>
+{{ end }}

@@ -1,5 +1,5 @@
 ---
-title: Explorando o Desenvolvimento de Jogos em Go
+title: 🎮 Explorando o Desenvolvimento de Jogos em Go
 date: 2024-08-01 # Data de publicação
 description: Uma visão geral das principais bibliotecas e frameworks Go para criação de jogos.
 tags:

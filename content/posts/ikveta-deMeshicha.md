@@ -87,7 +87,12 @@ Essa visão corresponde à **Cabala do Zohar**, onde o ser humano é uma ponte e
 | Derash  | Cada mitsvá cria um defensor espiritual   | Corpo como trono, mitsvot moldam anjos          |
 | Sod     | Tzelem como estrutura energética/angelical| A alma como microcosmo místico                  |
 
-
+| Nível | Chave                                     | Interpretação no Zohar                     |
+| :---- | :---------------------------------------- | :------------------------------------------ |
+| Peshat | Forma do homem criada à imagem de Deus    | Deus criou o homem com um “Tzelem”          |
+| Remez  | Dois anjos: Metatron (bem) e Samael (mal) | Alusão às duas inclinações humanas          |
+| Derash | Cada mitsvá cria um defensor espiritual   | Corpo como trono, mitsvot moldam anjos      |
+| Sod    | Tzelem como estrutura energética/angelical| A alma como microcosmo místico              |
 
 
 ## Sinais Precedentes à Vinda do Mashiach - Análise Detalhada de Fontes Judaicas

@@ -1,6 +1,6 @@
 
 ---
-title: Programação Assíncrona e Metaprogramação em Python vs Ruby
+title: 🧵 Programação Assíncrona e Metaprogramação em Python vs Ruby
 date: 2025-04-18
 description: Comparativo prático entre recursos de programação assíncrona e metaprogramação em Python e Ruby, com exemplos reais.
 tags:

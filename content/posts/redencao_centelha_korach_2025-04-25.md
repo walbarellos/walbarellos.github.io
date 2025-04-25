@@ -11,31 +11,65 @@ tags:
   - Judaísmo
 ---
 
-## **1. Korach está vivo? — A Tradição Mística**
+## **1. ✡️ Korach está vivo? — A Tradição Mística**
 
-**Na Parashat Korach (Números 16), Korach (Corá)**, que se rebelou contra Moshe e Aharon, é tragado pela terra junto com seus seguidores. Isso parece um fim definitivo.
+Na **Parashat Korach** (Bamidbar / Números 16), Korach (Corá), que liderou uma rebelião contra Moshe e Aharon, é tragado vivo pela terra junto com seus seguidores. Isso parece um fim definitivo.
 
-Mas veja o que diz o próprio Tehilim 84 (v.1):
+Mas veja o que diz o **Tehilim 84:1**:
 
-> "Para o maestro do coro, sobre a Gitit, dos filhos de Korach, um cântico."  
+> “Para o maestro do coro, sobre a Gitit, dos filhos de Korach, um cântico.”  
 > לַמְנַצֵּ֥חַ עַל־הַגִּתִּ֗ית לִבְנֵי־קֹ֫רַח מִזְמ֥וֹר  
 > **Lamnatzeach al ha-Gittit, livnei Korach mizmor**
 
-## **2. Sobreviventes e Arrependimento**
+Como pode Korach ser lembrado como autor espiritual de cânticos se foi tragado vivo?
 
-💡 **Surpresa:** os filhos de Korach sobreviveram. Segundo o **Midrash Bamidbar Rabbah 18:20** e o **Talmud (Sanhedrin 110a)**, os filhos de Korach se arrependeram no último momento, e um lugar elevado foi preparado para eles no Sheol, onde continuam louvando a D’us.
+O **Zohar (III:176b)** oferece uma resposta profunda: a **alma de Korach não se extinguiu** — foi "suspensa" entre mundos. Sua centelha (nitzotz) permanece, aguardando Tikun (retificação), e brilha por meio dos cânticos de seus descendentes.
 
-## **3. O Midrash e o “Lugar onde está Korach”**
+---
 
-O **Midrash Tanchuma** diz que os filhos de Korach estão em um estado de suspensão espiritual — vivos, num certo sentido — entoando cânticos eternos de Teshuvá (retorno).
+## **2. ✡️ Sobreviventes e Arrependimento**
 
-👉 Quando seu rabino diz que "Korach está vivo", pode estar se referindo a essa realidade mística: **uma “chama viva” de Korach** em arrependimento e transformação, especialmente por meio de seus descendentes.
+💡 **Surpresa:** segundo o **Midrash Bamidbar Rabbah 18:20**, os **filhos de Korach se arrependeram** no último momento, ainda durante a rebelião, e por isso **não foram tragados pela terra**.
+
+> “Nifradah b'libam teshuvá – Arrependimento nasceu em seus corações.”  
+> נִפְרְדָה בְּלִבָּם תְּשׁוּבָה  
+> **Nifredah b’libam teshuvá**
+
+O **Talmud (Sanhedrin 110a)** reforça isso:
+
+> “Um lugar foi preparado para eles dentro do Sheol — um lugar elevado — e de lá eles continuam a louvar ao Santo, Bendito Seja.”
+
+Essa ideia é revolucionária: mesmo dentro do Sheol, um espaço de elevação pode existir para aqueles que sinceramente fazem **teshuvá**.
+
+---
+
+## **3. ✡️ O Midrash e o ‘Lugar onde está Korach’**
+
+O **Midrash Tanchuma (Korach 5)** nos ensina que **Korach e seus seguidores não foram totalmente aniquilados**, mas estão num **estado suspenso** — entre céu e terra, entre queda e elevação.
+
+> “Ad hayom hazeh — Até hoje, eles estão gritando: ‘Moshe é verdadeiro e sua Torá é verdadeira, e nós somos os mentirosos.’”  
+> עַד הַיּוֹם הַזֶּה – מֹשֶׁה אֱמֶת וְתוֹרָתוֹ אֱמֶת וַאֲנַחְנוּ בַּדָּאִים  
+> **Ad hayom hazeh – Moshe emet veTorato emet, va'anachnu bada’im**
+
+👉 Então, quando um mestre diz que **“Korach está vivo”**, isso pode se referir a essa **realidade mística**: sua alma não está extinta, mas **em processo de purificação eterna**, cantando a verdade da qual se afastou.
+
+---
 
 ## **4. 🕯️ Kabbalah: “Encontrar Korach no lugar certo”**
 
-Na visão cabalística, cada alma tem uma centelha que pode ser reparada (**Tikun**). O **Zohar** e os ensinamentos do **Ari”zal** mencionam que algumas almas caídas permanecem em estados intermediários, acessíveis por práticas espirituais.
+Segundo a **Kabbalah**, especialmente o **Ari”zal** em *Sha’ar HaGilgulim* (Introdução 22), **Korach reencarna** em outras figuras da Torá — sempre confrontando o desafio da **liderança espiritual mal orientada**.
 
-Assim, "ir até onde Korach está" pode significar **acessar sua essência transformada** — não para repetir sua rebelião, mas para redimir sua energia de liderança e expressão, quando canalizada corretamente.
+O **Zohar (Parashat Korach, III:176a-b)** explica que **a energia de Korach** não é má por essência — é uma **força bruta de expressão, liderança e conexão com o espiritual**, que **precisa ser canalizada corretamente**.
+
+🔁 **Tikun (retificação)** significa pegar a energia que causou a queda e redirecioná-la ao serviço divino.
+
+> “Mi-sitra de-din atah Korach – Korach veio do lado do julgamento, e desejava elevar o fogo.”  
+> מִסִּטְרָא דְּדִין אֲתָא קֹרַח – וְבָעֵי לְמֵעַל נוּרָא  
+> **Mi-sitra de-din ata Korach – uva’ei lema’al nura**
+
+Assim, **“ir até onde Korach está”** pode significar **acessar essa centelha de liderança rebelde em nós mesmos** — e redimi-la. A mística judaica nos convida a não fugir de nossos impulsos, mas sim **educá-los e elevá-los**.
+
+---
 
 ## **5. 🎶 Conexão direta com Tehilim 84**
 

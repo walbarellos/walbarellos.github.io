@@ -1,5 +1,15 @@
-
-# 🔥 A Redenção da Centelha de Korach – גאולת ניצוץ קרח
+---
+title: 🔥 A Redenção da Centelha de Korach – גאולת ניצוץ קרח
+date: 2025-04-25
+description: Um estudo cabalístico sobre a persistência espiritual de Korach, seus descendentes, e o poder da teshuvá na tradição judaica mística. Com base no Salmo 84, Midrash, Talmud, Zohar e Ari”zal.
+tags:
+  - Kabbalah
+  - Korach
+  - Tikun
+  - Profecias
+  - Tehilim
+  - Judaísmo
+---
 
 ## **1. Korach está vivo? — A Tradição Mística**
 

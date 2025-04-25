@@ -7,10 +7,9 @@ tags:
   - Cristianismo
   - Profecias
   - Messias
-  - Ikveta deMeshicha
   - Torá
   - Halachá
-  - Cabalá
+  - Kabbalah
 ---
 
 

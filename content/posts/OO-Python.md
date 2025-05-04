@@ -8,9 +8,6 @@ draft: false
 ---
 
 
-# 🚗 Veículos Orientado a Objetos (Python OOP)
-
-
 Vamos aplicar os pilares da **Orientação a Objetos**.
 
 ---
@@ -144,6 +141,6 @@ simular_veiculo(mustang)
 | `class`                | Moldes dos veículos            | Estrutura base                |
 | Herança                | CarroGasolina herda de Veiculo | Reuso de comportamento        |
 | Interface              | `Aceleravel`, `Dirigivel`      | Ações que certos carros fazem |
-| Injeção de dependência | Plug baterias e tanques        | Flexibilidade e testes        |
+| Injc dep               | Plug baterias e tanques        | Flexibilidade e testes        |
 | Mixin                  | `Imprimivel`                   | Funcionalidade plugável       |
 

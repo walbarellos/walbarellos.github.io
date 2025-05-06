@@ -59,6 +59,8 @@ Após rodar o script, será solicitado para que você cole a URL do vídeo do Yo
 
 📂 Saídas do Programa
 
+![illu](https://github.com/user-attachments/assets/a9624582-7b23-40ab-b899-ddc0172a8a2f)
+
 🎨 Personalização
 
 Palavras-chave para destacar: Você pode adicionar ou remover palavras-chave no código (na lista palavras_chave) para destacar mais termos relevantes.

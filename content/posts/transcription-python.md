@@ -37,8 +37,12 @@ Para instalar as dependências, execute:
 
 Se estiver usando um ambiente virtual (venv), ative-o e execute:
 
+
 ```
-pip install youtube-transcript-api
+
+➜ python3 -m venv venv # Crie o Ambiente
+➜ source venv/bin/activate # Ative o ambiente
+➜ pip install youtube-transcript-api (Instale dentro do ambiente para evitar conflitos com o Sistema)
 
 ```
 Execute o script:

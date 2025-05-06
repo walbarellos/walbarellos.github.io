@@ -91,3 +91,7 @@ Alterar número de frases exibidas: O script exibe as primeiras 10 frases no ter
     Resumo automático das transcrições.
 
     Integração com sistemas de recomendação para vídeos baseados em palavras-chave.
+
+
+🐙 Link:
+            Para ver o código deste e de outros projetos, confira o [repositório no GitHub](https://github.com/walbarellos/Youtube-Transcript).

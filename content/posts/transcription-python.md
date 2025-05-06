@@ -1,5 +1,5 @@
 ---
-title: "Transcrição de Vídeos em Python"
+title: "🐍 Transcrição de Vídeos em Python"
 date: 2025-05-06
 tags: ["Python", "data-extraction", "Transcrição","Script"]
 description: "Projeto Inspirado no preço cobrado para se transcrever um vídeo. Link e Comandos no post.."
@@ -8,6 +8,11 @@ draft: false
 ---
 
 📖 Leia-me - Transcrição do YouTube com destaque e exportação
+
+```
+(Agradecimento especial pro site que me cobrou 40 reais para transcrever um vídeo de 20 minutos. Eis aqui o Software gratuito e replicado graças ao ChatGPT)
+```
+
 📝 Objetivo
 
 Este script Python captura as legendas de um vídeo do YouTube usando a API de transcrição automática, agrupa as legendas em frases mais legíveis, destaca palavras-chave com cores no terminal e exporta a transcrição para um arquivo .txt formatado.

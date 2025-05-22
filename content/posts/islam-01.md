@@ -1,15 +1,16 @@
 ---
-title: 🐍 Maomé: Profeta? Reformador? Usurpador?
+title: "Maomé: Profeta? Reformador? Usurpador?"
 date: 2025-05-22
 tags:
   - Islam
   - Torah
   - Muhammed
   - Judaísmo
-description: Será que você conhece o Profeta Maomé como imagina?
+description: "Será que você conhece o Profeta Maomé como imagina?"
 weight: 1
 draft: false
 ---
+
 
 # 📚 A Crítica Judaica ao Islã: Uma Análise à Luz da Torá e da História
 

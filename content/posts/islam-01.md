@@ -1,5 +1,5 @@
 ---
-title: "Maomé: Profeta? Reformador? Usurpador?"
+title: "☪︎ Maomé: Profeta? Reformador? Usurpador?"
 date: 2025-05-22
 tags:
   - Islam

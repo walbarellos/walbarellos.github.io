@@ -1,6 +1,6 @@
 ---
 title: "🐍 Maomé: Profeta? Reformador? Usurpador?"
-date: 2025-05-06
+date: 2025-05-22
 tags: ["Muhammed", "Islam", "Torah","Judaísmo"]
 description: "Será que você conhece o Profeta Maomé como imagina?"
 weight: 1

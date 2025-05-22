@@ -32,19 +32,19 @@ Desde os primeiros anos em Medina (622–624 d.C.), Maomé tentou alinhar o Isl�
 
 ✡️ Elementos Judaicos Absorvidos pelo Islã Inicial
 
-    Adoção do jejum no Dia de Ashura, em imitação ao Yom Kippur
+>    Adoção do jejum no Dia de Ashura, em imitação ao Yom Kippur
     Segundo Sahih Bukhari 2004, Maomé teria encontrado os judeus de Medina jejuando no 10º dia do mês (Yom Kippur) e decidiu jejuar também, ordenando o mesmo a seus seguidores antes da revelação do jejum do Ramadã.
 
-    Qibla voltada inicialmente para Jerusalém
+>    Qibla voltada inicialmente para Jerusalém
     Por cerca de 16 a 18 meses após a Hégira, Maomé orientou seus seguidores a rezarem voltados para Jerusalém (como os judeus), até mudar a direção para Meca — decisão que coincidentemente ocorreu após atritos com as tribos judaicas de Medina (Surata 2:144).
 
-    Imitação parcial do kashrut (leis alimentares judaicas)
+>    Imitação parcial do kashrut (leis alimentares judaicas)
     O Alcorão proíbe carne de porco, sangue e animais mortos (Surata 2:173), refletindo regras similares às do kashrut. No entanto, ao contrário da Torá, essas leis não têm o mesmo rigor ritual nem a santidade do mandamento divino dado a Israel.
 
-    Adoção da brit milá (circuncisão)
+>    Adoção da brit milá (circuncisão)
     Embora não conste explicitamente no Alcorão, a prática da circuncisão foi introduzida por Maomé como tradição (sunnah), associando-se à aliança de Avraham, em clara tentativa de legitimar-se como herdeiro da tradição hebraica.
 
-    Reivindicação do legado profético de Avraham, Moshe e os Nevi’im
+>    Reivindicação do legado profético de Avraham, Moshe e os Nevi’im
     Maomé apresenta-se como o “selo dos profetas” (Surata 33:40), alegando continuidade com os profetas do Tanach, ainda que contradiga muitas de suas mensagens. Essa apropriação narrativa visava consolidar sua figura como autoridade final sobre uma revelação “única”, universal e superior.
 
 Isso gerou conflitos com os rabinos locais, que rejeitavam a alegação profética de Maomé. Sua resposta foi de hostilidade crescente, culminando em perseguições e massacres de tribos judaicas.

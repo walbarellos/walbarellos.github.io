@@ -6,7 +6,6 @@ tags:
   - Torah
   - Muhammed
   - Judaísmo
----
 description: Será que você conhece o Profeta Maomé como imagina?
 weight: 1
 draft: false

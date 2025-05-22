@@ -14,7 +14,7 @@ draft: false
 
 # 📚 A Crítica Judaica ao Islã: Uma Análise à Luz da Torá e da História
 
-## 🧭 Seção 1 – Introdução
+### 🧭 1. Introdução
 
 O Islã se apresenta como a religião que “completa” as revelações anteriores, assumindo ser herdeiro legítimo do Judaísmo e do Cristianismo. No entanto, à luz da Torá e da tradição rabínica, essa alegação levanta sérias objeções teológicas, históricas e morais. Esta série de reflexões nasce de um ex-muçulmano que retornou à raiz original: a aliança eterna entre o povo de Israel e HaShem.
 

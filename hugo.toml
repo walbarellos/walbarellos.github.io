@@ -20,7 +20,9 @@ theme = "hugo-theme-m10c"
 
 [params]
   author = "O:R ✡"
-  description = "Shiviti HaShem Lenegdi Tamid – Sempre coloco o Eterno diante de mim."
+  description = "Shiviti HaShem Lenegdi Tamid
+שִׁוִּיתִי יְהוָה לְנֶגְדִּי תָמִיד
+Sempre coloco o Eterno diante de mim."
   avatar = "images/avatar1.png"  # coloque essa imagem na pasta `static/images/avatar.png`
   menu_item_separator = " | "
 

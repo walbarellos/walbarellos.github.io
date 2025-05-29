@@ -21,11 +21,11 @@ theme = "hugo-theme-m10c"
 [params] 
   author = "O:R ✡"
   description = """
-  \u200FShiviti HaShem Lenegdi Tamid
+  ➡️ Shiviti HaShem Lenegdi Tamid
   
-  \u200Fשִׁוִּיתִי יְהוָה לְנֶגְדִּי תָמִיד
+  ✡️ שִׁוִּיתִי יְהוָה לְנֶגְדִּי תָמִיד
   
-  \u200ESempre coloco o Eterno diante de mim.
+  🌎 Sempre coloco o Eterno diante de mim.
   """
   avatar = "images/avatar1.png"
   menu_item_separator = " | "

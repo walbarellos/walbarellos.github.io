@@ -9,9 +9,7 @@ draft: false
 
 📖 Leia-me - Transcrição do YouTube com destaque e exportação
 
-> ```
 (Agradecimento especial pro site que me cobrou 40 reais para transcrever um vídeo de 20 minutos. Eis aqui o Software gratuito e replicado graças ao ChatGPT)
-> ```
 
 📝 Objetivo
 
@@ -21,40 +19,37 @@ Este script Python captura as legendas de um vídeo do YouTube usando a API de t
 
 Antes de rodar o programa, você precisará de:
 
-    Python 3.x instalado. 
+>    Python 3.x instalado. 
 
 (Certifique-se de ter a versão mais recente do Python instalada no seu sistema).
 
 Dependências do projeto:
 
-        youtube-transcript-api
-
+ >       youtube-transcript-api
+        
 (para acessar as transcrições dos vídeos do YouTube)
 
 
 Para instalar as dependências, execute:
 
-> ```
-    pip install youtube-transcript-api
 
-> ```
+ >   pip install youtube-transcript-api
+
+
 🧑‍💻 Comandos para rodar o programa
 
 Se estiver usando um ambiente virtual (venv), ative-o e execute:
 
 
-> ```
-
 ➜ python3 -m venv venv # Crie o Ambiente
 ➜ source venv/bin/activate # Ative o ambiente
 ➜ pip install youtube-transcript-api (Instale dentro do ambiente para evitar conflitos com o Sistema)
 
-> ```
 Execute o script:
 
 Após instalar as dependências, basta rodar o script com o seguinte comando no terminal:
 
-python transcript.py
+> python transcript.py
 
 Forneça a URL do vídeo do YouTube:
 
@@ -84,11 +79,11 @@ Alterar número de frases exibidas: O script exibe as primeiras 10 frases no ter
 
 💡 Possíveis Melhorias Futuras
 
->
+
 >    Suporte para múltiplos idiomas.
 >    Resumo automático das transcrições.
 >    Integração com sistemas de recomendação para vídeos baseados em palavras-chave.
->
+
 
 🐙 Link:
             Para ver o código deste e de outros projetos, confira o [repositório no GitHub](https://github.com/walbarellos/Youtube-Transcript).

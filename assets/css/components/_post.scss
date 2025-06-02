@@ -28,17 +28,43 @@
   }
 
   blockquote {
-    border-left: 0.4em solid rgba($primary-color, .8);
-    margin: 1em 0em;
-    padding: .5em 1em;
-    background: $darkest-color;
+    position: relative;
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 14px;
+    padding: 1.5em;
+    margin: 2em 0;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2);
+    color: #fff;
+    font-size: 1rem;
+    line-height: 1.5;
+    overflow-x: auto;
 
-    p {
-      margin: .5em 0;
+    &::before {
+      content: "";
+      position: absolute;
+      top: 16px;
+      left: 16px;
+      width: 70px;
+      height: 14px;
+      border-radius: 10px;
+      background:
+        radial-gradient(circle at 10px 7px, #ff5f56 6px, transparent 7px),
+        radial-gradient(circle at 34px 7px, #ffbd2e 6px, transparent 7px),
+        radial-gradient(circle at 58px 7px, #27c93f 6px, transparent 7px);
+      pointer-events: none;
     }
-  }
 
-  img {
-    max-width: 100%;
+    pre {
+      margin: 0;
+      font-family: 'SF Mono', Consolas, monospace;
+      white-space: pre-wrap;
+      word-break: break-word;
+      background: transparent;
+      padding: 0;
+      font-size: 1rem;
+    }
   }
 }

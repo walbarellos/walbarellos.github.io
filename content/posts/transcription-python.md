@@ -22,13 +22,13 @@ Este script Python captura as legendas de um vídeo do YouTube usando a API de t
 Antes de rodar o programa, você precisará de:
 
     Python 3.x instalado. 
-    
+
 (Certifique-se de ter a versão mais recente do Python instalada no seu sistema).
 
 Dependências do projeto:
 
         youtube-transcript-api
-        
+
 (para acessar as transcrições dos vídeos do YouTube)
 
 
@@ -92,3 +92,5 @@ Alterar número de frases exibidas: O script exibe as primeiras 10 frases no ter
 
 🐙 Link:
             Para ver o código deste e de outros projetos, confira o [repositório no GitHub](https://github.com/walbarellos/Youtube-Transcript).
+
+https://dev-walbarello.netlify.app/posts/transcription-python/

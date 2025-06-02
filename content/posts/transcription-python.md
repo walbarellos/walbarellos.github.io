@@ -9,9 +9,9 @@ draft: false
 
 📖 Leia-me - Transcrição do YouTube com destaque e exportação
 
-```
+> ```
 (Agradecimento especial pro site que me cobrou 40 reais para transcrever um vídeo de 20 minutos. Eis aqui o Software gratuito e replicado graças ao ChatGPT)
-```
+> ```
 
 📝 Objetivo
 
@@ -34,22 +34,22 @@ Dependências do projeto:
 
 Para instalar as dependências, execute:
 
-```
+> ```
     pip install youtube-transcript-api
 
-```
+> ```
 🧑‍💻 Comandos para rodar o programa
 
 Se estiver usando um ambiente virtual (venv), ative-o e execute:
 
 
-```
+> ```
 
 ➜ python3 -m venv venv # Crie o Ambiente
 ➜ source venv/bin/activate # Ative o ambiente
 ➜ pip install youtube-transcript-api (Instale dentro do ambiente para evitar conflitos com o Sistema)
 
-```
+> ```
 Execute o script:
 
 Após instalar as dependências, basta rodar o script com o seguinte comando no terminal:
@@ -60,7 +60,7 @@ Forneça a URL do vídeo do YouTube:
 
 Após rodar o script, será solicitado para que você cole a URL do vídeo do YouTube, algo como:
 
-    Cole a URL do vídeo do YouTube: https://www.youtube.com/watch?v=example
+  >  Cole a URL do vídeo do YouTube: https://www.youtube.com/watch?v=example
 
 📂 Saídas do Programa
 
@@ -74,24 +74,21 @@ palavras_chave = ["Tutorial", "Teste", "Maça","Tumbleweed"]
 
 Alterar número de frases exibidas: O script exibe as primeiras 10 frases no terminal. Se quiser aumentar ou diminuir esse número, modifique a linha no código:
 
-    print_frases_coloridas(frases[:10], palavras_chave)
+   > print_frases_coloridas(frases[:10], palavras_chave)
 
 ⚠ Limitações
 
-    O script depende das legendas automáticas do YouTube, o que significa que a qualidade da transcrição pode variar.
-
-    O script não realiza correções automáticas nas transcrições (como remoção de palavras erradas ou não capturadas).
-
-    Caso o vídeo não tenha legendas, o programa exibirá uma mensagem de erro.
+    > O script depende das legendas automáticas do YouTube, o que significa que a qualidade da transcrição pode variar.
+    > O script não realiza correções automáticas nas transcrições (como remoção de palavras erradas ou não capturadas).
+    > Caso o vídeo não tenha legendas, o programa exibirá uma mensagem de erro.
 
 💡 Possíveis Melhorias Futuras
 
-    Suporte para múltiplos idiomas.
-
-    Resumo automático das transcrições.
-
-    Integração com sistemas de recomendação para vídeos baseados em palavras-chave.
-
+>
+>    Suporte para múltiplos idiomas.
+>    Resumo automático das transcrições.
+>    Integração com sistemas de recomendação para vídeos baseados em palavras-chave.
+>
 
 🐙 Link:
             Para ver o código deste e de outros projetos, confira o [repositório no GitHub](https://github.com/walbarellos/Youtube-Transcript).

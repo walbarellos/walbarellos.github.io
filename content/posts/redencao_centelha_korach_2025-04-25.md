@@ -32,11 +32,10 @@ O **Zohar (III:176b)** oferece uma resposta profunda: a **alma de Korach não se
 
 💡 **Surpresa:** segundo o **Midrash Bamidbar Rabbah 18:20**, os **filhos de Korach se arrependeram** no último momento, ainda durante a rebelião, e por isso **não foram tragados pela terra**.
 
-<blockquote class="torah">  
+  
 > “Nifradah b'libam teshuvá – Arrependimento nasceu em seus corações.”  
 > נִפְרְדָה בְּלִבָּם תְּשׁוּבָה  
 > **Nifredah b’libam teshuvá**
-</blockquote>
 
 O **Talmud (Sanhedrin 110a)** reforça isso:
 

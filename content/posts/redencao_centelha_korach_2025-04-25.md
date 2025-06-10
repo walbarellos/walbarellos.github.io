@@ -15,10 +15,12 @@ tags:
 
 Na **Parashat Korach** (Bamidbar / Números 16), Korach (Corá), que liderou uma rebelião contra Moshe e Aharon, é tragado vivo pela terra junto com seus seguidores. Isso parece um fim definitivo.
 
-> blockquote.torah  
+<blockquote class="torah">  
+
 > “Para o maestro do coro, sobre a Gitit, dos filhos de Korach, um cântico.”  
 > לַמְנַצֵּ֥חַ עַל־הַגִּתִּ֗ית לִבְנֵי־קֹ֫רַח מִזְמ֥וֹר  
 > **Lamnatzeach al ha-Gittit, livnei Korach mizmor**
+</blockquote>
 
 Como pode Korach ser lembrado como autor espiritual de cânticos se foi tragado vivo?
 
@@ -30,15 +32,19 @@ O **Zohar (III:176b)** oferece uma resposta profunda: a **alma de Korach não se
 
 💡 **Surpresa:** segundo o **Midrash Bamidbar Rabbah 18:20**, os **filhos de Korach se arrependeram** no último momento, ainda durante a rebelião, e por isso **não foram tragados pela terra**.
 
-> blockquote.torah  
+<blockquote class="torah">  
 > “Nifradah b'libam teshuvá – Arrependimento nasceu em seus corações.”  
 > נִפְרְדָה בְּלִבָּם תְּשׁוּבָה  
 > **Nifredah b’libam teshuvá**
+</blockquote>
 
 O **Talmud (Sanhedrin 110a)** reforça isso:
 
-> blockquote.torah  
+<blockquote class="torah">  
 > “Um lugar foi preparado para eles dentro do Sheol — um lugar elevado — e de lá eles continuam a louvar ao Santo, Bendito Seja.”
+</blockquote>
+
+---
 
 Essa ideia é revolucionária: mesmo dentro do Sheol, um espaço de elevação pode existir para aqueles que sinceramente fazem **teshuvá**.
 
@@ -48,31 +54,31 @@ Essa ideia é revolucionária: mesmo dentro do Sheol, um espaço de elevação p
 
 O **Midrash Tanchuma (Korach 5)** nos ensina que **Korach e seus seguidores não foram totalmente aniquilados**, mas estão num **estado suspenso** — entre céu e terra, entre queda e elevação.
 
-> blockquote.torah  
+<blockquote class="torah">  
 > “Ad hayom hazeh — Até hoje, eles estão gritando: ‘Moshe é verdadeiro e sua Torá é verdadeira, e nós somos os mentirosos.’”  
 > עַד הַיּוֹם הַזֶּה – מֹשֶׁה אֱמֶת וְתוֹרָתוֹ אֱמֶת וַאֲנַחְנוּ בַּדָּאִים  
 > **Ad hayom hazeh – Moshe emet veTorato emet, va'anachnu bada’im**
-
+</blockquote>
 ---
 
 ## **4. 🕯️ Kabbalah: “Encontrar Korach no lugar certo”**
 
 Segundo a **Kabbalah**, especialmente o **Ari”zal** em *Sha’ar HaGilgulim* (Introdução 22), **Korach reencarna** em outras figuras da Torá — sempre confrontando o desafio da **liderança espiritual mal orientada**.
 
-> blockquote.torah  
+<blockquote class="torah">  
 > “Mi-sitra de-din atah Korach – Korach veio do lado do julgamento, e desejava elevar o fogo.”  
 > מִסִּטְרָא דְּדִין אֲתָא קֹרַח – וְבָעֵי לְמֵעַל נוּרָא  
 > **Mi-sitra de-din ata Korach – uva’ei lema’al nura**
-
+</blockquote>
 ---
 
 ## **5. 🎶 Conexão direta com Tehilim 84**
 
-> blockquote.torah  
+<blockquote class="torah">  
 > "Os que passam pelo vale do pranto o tornam numa fonte..."  
 > עֹֽבְרֵי בְעֵמֶק הַבָּכָא מַעְיָן יְשִׁית֑וּהוּ  
 > **Ovrei ve-Emek ha-Bachá, ma'ayan yeshituhu**
-
+</blockquote>
 ---
 
 ## **6. ✡️ O que fazer com isso?**
@@ -83,28 +89,29 @@ Segundo a **Kabbalah**, especialmente o **Ari”zal** em *Sha’ar HaGilgulim* (
 - Zohar Parashat Korach (III:176)
 - Sha’ar HaGilgulim do Arizal
 
-> blockquote.torah  
+<blockquote class="torah">  
 > "Como a corça anseia pelas correntes das águas, assim minha alma anseia por Ti, ó D’us."  
 > כְּאַיָּל תַּעֲרֹג עַל־אֲפִיקֵי־מָיִם כֵּן נַפְשִׁי תַּעֲרֹג אֵלֶיךָ אֱלֹהִים  
 > **Ke’ayal ta’arog al afikei mayim, ken nafshi ta’arog eilecha Elohim**
-
+</blockquote>
 ---
 
 ## **7. 📜 Psalm 98:8 e o Cântico das Montanhas**
 
-> blockquote.torah  
+<blockquote class="torah">  
 > "Let the rivers clap their hands; let the mountains sing together for joy before the Lord..."  
 > יִּֽרְנְנוּ־יָ֥חַד הָֽרִים  
 > **Yirnenu yachad ha-harim**
-
+</blockquote>
 ---
 
 ## **8. 🔥 Korach e sua Herança Transformada**
 
-> blockquote.torah  
+<blockquote class="torah">  
 > "Mas os filhos de Korach não morreram." — Bamidbar / Números 26:11  
 > וּבְנֵי קֹרַח לֹא מֵתוּ  
 > **U-vnei Korach lo metu**
+</blockquote>
 
 ---
 
@@ -118,11 +125,11 @@ Segundo a **Kabbalah**, especialmente o **Ari”zal** em *Sha’ar HaGilgulim* (
 
 ## **10. ✨ O Tikun de Korach em Nós**
 
-> blockquote.torah  
+<blockquote class="torah">  
 > “Minha alma anseia, até desfalece, pelos átrios de Hashem…” — *Tehilim* 84:3  
 > נִכְסְפָה וְגַם־כָּלְתָה נַפְשִׁי לְחַצְרוֹת ה׳  
 > *Nichsefá ve-gam kaltá nafshi le-chatzrot Hashem*
-
+</blockquote>
 ---
 ### 📖 **Fontes e Ensinamentos Judaicos:**
 

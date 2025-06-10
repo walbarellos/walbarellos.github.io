@@ -33,22 +33,32 @@ $lightest-color: #f5f5f5;
     padding: 1em 1em;
   }
 
-  blockquote {
-    position: relative;
-    background: rgba(255, 255, 255, 0.15);
-    border-radius: 14px;
-    padding: 3em 1.5em 1.5em 5em;
-    margin: 2em 0;
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2);
-    color: #fff;
-    font-size: 1rem;
-    line-height: 1.5;
-    overflow-x: auto;
-  }
+blockquote {
+  position: relative;
+  padding: 1.2em 1.5em;
+  border-radius: 10px;
+  margin: 1.5em 0;
+  font-size: 1.05em;
+  line-height: 1.6;
+  font-family: 'Segoe UI', sans-serif;
+}
 
+/* Selo flutuante: הֲלָכָה */
+blockquote::before {
+  content: "הֲלָכָה";
+  position: absolute;
+  top: -0.8em;
+  left: 0.75em;
+  font-family: 'Noto Serif Hebrew', 'David Libre', serif;
+  font-size: 0.85em;
+  color: #00ff88;
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.65);
+  padding: 0.2em 0.6em;
+  border-radius: 6px;
+  box-shadow: 0 0 4px #00ff88aa;
+  line-height: 1;
+}
   // ❌ Estilo macOS (3 bolinhas) desativado
   // blockquote:not(.shteekah)::before {
   //   content: "";
@@ -64,24 +74,6 @@ $lightest-color: #f5f5f5;
   //     radial-gradient(circle at 58px 7px, #27c93f 6px, transparent 7px);
   //   pointer-events: none;
   // }
-
-  // ✅ Estilo de citação hebraica (ex-Torah), agora chamado "shteekah"
-  blockquote.shteekah::before {
-    content: "שְׁתִיקָה";
-    font-family: 'David Libre', 'Noto Serif Hebrew', serif;
-    font-size: 1.1em;
-    color: $gold-color;
-    font-weight: bold;
-    text-shadow: 0 0 8px rgba(255, 215, 0, 0.8), 0 0 2px rgba(255, 255, 255, 0.9);
-    background: $hebrew-bg;
-    padding: 0.2em 0.6em;
-    border-radius: 8px;
-    top: 10px;
-    left: 16px;
-    position: absolute;
-    width: auto;
-    height: auto;
-  }
 
   // ❌ Estilo Halachá desativado
   // blockquote.halachah::before {
@@ -99,4 +91,3 @@ $lightest-color: #f5f5f5;
   //   width: auto;
   //   height: auto;
   // }
-}

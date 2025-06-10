@@ -17,9 +17,9 @@ Na **Parashat Korach** (Bamidbar / Números 16), Korach (Corá), que liderou uma
 
 <blockquote class="torah">  
 
-> “Para o maestro do coro, sobre a Gitit, dos filhos de Korach, um cântico.”  
-> לַמְנַצֵּ֥חַ עַל־הַגִּתִּ֗ית לִבְנֵי־קֹ֫רַח מִזְמ֥וֹר  
-> **Lamnatzeach al ha-Gittit, livnei Korach mizmor**
+ “Para o maestro do coro, sobre a Gitit, dos filhos de Korach, um cântico.”  
+   לַמְנַצֵּ֥חַ עַל־הַגִּתִּ֗ית לִבְנֵי־קֹ֫רַח מִזְמ֥וֹר  
+ **Lamnatzeach al ha-Gittit, livnei Korach mizmor**
 </blockquote>
 
 Como pode Korach ser lembrado como autor espiritual de cânticos se foi tragado vivo?

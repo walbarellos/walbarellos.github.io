@@ -48,8 +48,8 @@ blockquote {
   line-height: 1.5;
   overflow-x: auto;
 }
-
-blockquote::before {
+/* Bolinhas do Mac só para blockquotes SEM classe especial */
+blockquote:not(.torah):not(.halachah)::before {
   content: "";
   position: absolute;
   top: 16px;
@@ -63,6 +63,7 @@ blockquote::before {
     radial-gradient(circle at 58px 7px, #27c93f 6px, transparent 7px);
   pointer-events: none;
 }
+
 
 blockquote.torah::before {
   content: "תּוֹרָה";

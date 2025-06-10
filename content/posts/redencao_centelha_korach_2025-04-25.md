@@ -15,8 +15,7 @@ tags:
 
 Na **Parashat Korach** (Bamidbar / Números 16), Korach (Corá), que liderou uma rebelião contra Moshe e Aharon, é tragado vivo pela terra junto com seus seguidores. Isso parece um fim definitivo.
 
-Mas veja o que diz o **Tehilim 84:1**:
-
+> blockquote.torah  
 > “Para o maestro do coro, sobre a Gitit, dos filhos de Korach, um cântico.”  
 > לַמְנַצֵּ֥חַ עַל־הַגִּתִּ֗ית לִבְנֵי־קֹ֫רַח מִזְמ֥וֹר  
 > **Lamnatzeach al ha-Gittit, livnei Korach mizmor**
@@ -31,12 +30,14 @@ O **Zohar (III:176b)** oferece uma resposta profunda: a **alma de Korach não se
 
 💡 **Surpresa:** segundo o **Midrash Bamidbar Rabbah 18:20**, os **filhos de Korach se arrependeram** no último momento, ainda durante a rebelião, e por isso **não foram tragados pela terra**.
 
+> blockquote.torah  
 > “Nifradah b'libam teshuvá – Arrependimento nasceu em seus corações.”  
 > נִפְרְדָה בְּלִבָּם תְּשׁוּבָה  
 > **Nifredah b’libam teshuvá**
 
 O **Talmud (Sanhedrin 110a)** reforça isso:
 
+> blockquote.torah  
 > “Um lugar foi preparado para eles dentro do Sheol — um lugar elevado — e de lá eles continuam a louvar ao Santo, Bendito Seja.”
 
 Essa ideia é revolucionária: mesmo dentro do Sheol, um espaço de elevação pode existir para aqueles que sinceramente fazem **teshuvá**.
@@ -47,11 +48,10 @@ Essa ideia é revolucionária: mesmo dentro do Sheol, um espaço de elevação p
 
 O **Midrash Tanchuma (Korach 5)** nos ensina que **Korach e seus seguidores não foram totalmente aniquilados**, mas estão num **estado suspenso** — entre céu e terra, entre queda e elevação.
 
+> blockquote.torah  
 > “Ad hayom hazeh — Até hoje, eles estão gritando: ‘Moshe é verdadeiro e sua Torá é verdadeira, e nós somos os mentirosos.’”  
 > עַד הַיּוֹם הַזֶּה – מֹשֶׁה אֱמֶת וְתוֹרָתוֹ אֱמֶת וַאֲנַחְנוּ בַּדָּאִים  
 > **Ad hayom hazeh – Moshe emet veTorato emet, va'anachnu bada’im**
-
-👉 Então, quando um mestre diz que **“Korach está vivo”**, isso pode se referir a essa **realidade mística**: sua alma não está extinta, mas **em processo de purificação eterna**, cantando a verdade da qual se afastou.
 
 ---
 
@@ -59,120 +59,69 @@ O **Midrash Tanchuma (Korach 5)** nos ensina que **Korach e seus seguidores não
 
 Segundo a **Kabbalah**, especialmente o **Ari”zal** em *Sha’ar HaGilgulim* (Introdução 22), **Korach reencarna** em outras figuras da Torá — sempre confrontando o desafio da **liderança espiritual mal orientada**.
 
-O **Zohar (Parashat Korach, III:176a-b)** explica que **a energia de Korach** não é má por essência — é uma **força bruta de expressão, liderança e conexão com o espiritual**, que **precisa ser canalizada corretamente**.
-
-🔁 **Tikun (retificação)** significa pegar a energia que causou a queda e redirecioná-la ao serviço divino.
-
+> blockquote.torah  
 > “Mi-sitra de-din atah Korach – Korach veio do lado do julgamento, e desejava elevar o fogo.”  
 > מִסִּטְרָא דְּדִין אֲתָא קֹרַח – וְבָעֵי לְמֵעַל נוּרָא  
 > **Mi-sitra de-din ata Korach – uva’ei lema’al nura**
-
-Assim, **“ir até onde Korach está”** pode significar **acessar essa centelha de liderança rebelde em nós mesmos** — e redimi-la. A mística judaica nos convida a não fugir de nossos impulsos, mas sim **educá-los e elevá-los**.
 
 ---
 
 ## **5. 🎶 Conexão direta com Tehilim 84**
 
+> blockquote.torah  
 > "Os que passam pelo vale do pranto o tornam numa fonte..."  
 > עֹֽבְרֵי בְעֵמֶק הַבָּכָא מַעְיָן יְשִׁית֑וּהוּ  
 > **Ovrei ve-Emek ha-Bachá, ma'ayan yeshituhu**
 
-🔮 Isso é Tikun: **transformar um lugar de queda em fonte de bênção**. Talvez o seu rabino esteja te desafiando a ver Korach **não só como símbolo da queda, mas da redenção**.
+---
 
 ## **6. ✡️ O que fazer com isso?**
 
-A história de Korach e seus descendentes não é apenas uma lembrança do passado — é um convite para uma jornada de **retificação espiritual**. A tradição mística nos mostra que mesmo as almas mais caídas podem se elevar quando há **teshuvá genuína**, e isso se aplica também a nós.
+### 🔍 Estudo sugerido:
 
-### **🔍 1. Estude com foco nos filhos de Korach:**
+- Tehilim 42, 44–49, 84–88 (salmos dos filhos de Korach)
+- Zohar Parashat Korach (III:176)
+- Sha’ar HaGilgulim do Arizal
 
-- **Tehilim (Salmos) 42, 44-49, 84-85, 87-88** são atribuídos aos **Bnei Korach (filhos de Korach)**.
-- Eles representam o Tikun da rebelião: **transformação da discórdia em louvor**, da arrogância em devoção.
-- Repare como seus salmos falam de **sede por D'us**, exílio, clamor e esperança — expressões de alguém que conhece a queda e busca a elevação.
-
+> blockquote.torah  
 > "Como a corça anseia pelas correntes das águas, assim minha alma anseia por Ti, ó D’us."  
 > כְּאַיָּל תַּעֲרֹג עַל־אֲפִיקֵי־מָיִם כֵּן נַפְשִׁי תַּעֲרֹג אֵלֶיךָ אֱלֹהִים  
-> **Ke’ayal ta’arog al afikei mayim, ken nafshi ta’arog eilecha Elohim** (Tehilim 42:2)
-
-### **📖 2. Pesquise no Zohar sobre rebelião espiritual e Tikun:**
-
-- O **Zohar** vê a rebelião de Korach não apenas como disputa política, mas como **distorção da luz espiritual** — um mau uso de sua força de liderança.
-- O Tikun de Korach está em **canalizar essa força para o serviço divino (Avodat Hashem)**.
-- Explore no Zohar as porções de **Parashat Korach (Zohar, Vol. 3)**, especialmente onde ele fala do "fogo estranho" e da “aspiração pela honra”.
-- O Zohar nos convida a **reconhecer nossas próprias faíscas de Korach** — e redimi-las.
-
-### **📚 3. Leia sobre Gilgulim no *Sha’ar HaGilgulim* do Arizal:**
-
-- Segundo o Arizal, **Korach reencarnou em outros personagens bíblicos** que também enfrentaram desafios de orgulho, disputa e liderança mal direcionada.
-- Cada alma pode passar por **múltiplos ciclos (Gilgulim)** até completar sua missão e reparar suas falhas.
-- O *Sha’ar HaGilgulim* ensina que, ao estudarmos sobre estas almas e suas correções, **participamos da elevação delas**.
-- **Estudar com intenção (kavaná)** pode servir como ponte entre mundos — **você pode estar ajudando na elevação da centelha de Korach!**
+> **Ke’ayal ta’arog al afikei mayim, ken nafshi ta’arog eilecha Elohim**
 
 ---
 
-🔁 **Resumo da Prática Espiritual:**
-
-- Estudo = Conexão com os filhos de Korach e seus salmos
-- Kabbalah = Entendimento profundo do Tikun e da energia da rebelião transformada
-- Gilgulim = Compreensão de que o passado espiritual continua em nós — e pode ser redimido
-
-🕊️ Ao engajar-se com essas fontes, você não apenas aprende — **você participa da Redenção (Gueulá) das centelhas sagradas**.
-
-
-
 ## **7. 📜 Psalm 98:8 e o Cântico das Montanhas**
 
+> blockquote.torah  
 > "Let the rivers clap their hands; let the mountains sing together for joy before the Lord..."  
 > יִּֽרְנְנוּ־יָ֥חַד הָֽרִים  
 > **Yirnenu yachad ha-harim**
 
-### **🔮 Entendimento Cabalístico:**
-
-1. **Toda a Criação Tem Alma (נפש):** Segundo o *Sefer HaBahir* e o *Zohar*, até montanhas e rios têm níveis de alma e cantam — não com voz, mas com ressonância espiritual.
-
-2. **Montanhas = Gevurah (Força Divina):**
-   - Representam julgamento e rigidez. Quando "cantam", isso simboliza a **doçura do julgamento (המתקת הדינים)**.  
-   - **Hamtakat ha-dinim**
-
-3. **Mashiach e Harmonia Universal:**
-   - O *Zohar* (Vol II, 91b) ensina que, na era Messiânica, **até o juízo será transformado em louvor**.
-
-4. **Avodah (Trabalho Espiritual):**
-   - O *Baal Shem Tov* ensina que **nossas orações sinceras podem despertar o cântico oculto da criação.**
-   - Montanhas internas — como orgulho ou trauma — **também podem cantar** quando canalizadas corretamente.
+---
 
 ## **8. 🔥 Korach e sua Herança Transformada**
 
-Korach desafiou a liderança de Moshe e Aharon. A terra o tragou. Mas veja:
-
+> blockquote.torah  
 > "Mas os filhos de Korach não morreram." — Bamidbar / Números 26:11  
 > וּבְנֵי קֹרַח לֹא מֵתוּ  
 > **U-vnei Korach lo metu**
 
-Isso sugere que sua linhagem não só sobreviveu, mas **elevou-se**. Seus descendentes compuseram salmos e serviram no Templo. Uma verdadeira **retificação (Tikun)** do legado de rebelião.
+---
 
 ## **9. 🌌 Korach: Presença Permanente?**
 
-Na Kabbalah:
+- Suspensão espiritual entre mundos
+- Potencial de Tikun
+- Acesso por prática espiritual
 
-- **Suspensão Espiritual:** A alma de Korach permanece consciente em outro plano.
-- **Potencial de Tikun:** Sua presença sugere a possibilidade de redenção contínua.
-- **Acesso por Prática Espiritual:** Meditação, estudo e oração podem conectar-nos à sua centelha redimida.
+---
 
-## ✨ 10. O Tikun de Korach em Nós
+## **10. ✨ O Tikun de Korach em Nós**
 
-O *Tikun* (תיקון) de Korach não é apenas um conceito místico — é um chamado à **transformação interior**, onde os traços que um dia causaram queda podem se tornar portais de ascensão.
-
-### 🧠 **Engajar-se com sua herança é:**
-
-- Confrontar as **rebeliões silenciosas** que travamos contra nossa essência.
-- Substituir o **orgulho endurecido** por uma **humildade vibrante**.
-- Direcionar a **energia da liderança ferida** para o **serviço divino (*Avodah*)**.
-
+> blockquote.torah  
 > “Minha alma anseia, até desfalece, pelos átrios de Hashem…” — *Tehilim* 84:3  
 > נִכְסְפָה וְגַם־כָּלְתָה נַפְשִׁי לְחַצְרוֹת ה׳  
 > *Nichsefá ve-gam kaltá nafshi le-chatzrot Hashem*
-
-Assim como os **filhos de Korach**, que transformaram a dor em poesia sagrada, também nós podemos **redimir as forças interiores que um dia desafiaram a luz**. Com *teshuvá*, estudo e *avodah*, o eco da rebelião se converte em cântico — e a queda se torna degrau.
 
 ---
 ### 📖 **Fontes e Ensinamentos Judaicos:**

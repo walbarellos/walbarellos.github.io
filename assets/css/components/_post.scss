@@ -34,9 +34,19 @@ $lightest-color: #f5f5f5;
   }
 
 blockquote {
-  position: relative;
-  overflow-x: auto;
-  // seu estilo existente...
+    position: relative;
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 14px;
+    padding: 1.5em;
+    margin: 2em 0;
+    backdrop-filter: blur(12px);Add commentMore actions
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2);
+    color: #fff;
+    font-size: 1rem;
+    line-height: 1.5;
+    overflow-x: auto;
 
   &::before {
     content: "שְׁתִיקָה";

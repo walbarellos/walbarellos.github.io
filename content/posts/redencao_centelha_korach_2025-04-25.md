@@ -19,10 +19,9 @@ tags:
 💡 **Surpresa:** segundo o **Midrash Bamidbar Rabbah 18:20**, os **filhos de Korach se arrependeram** no último momento, ainda durante a rebelião, e por isso **não foram tragados pela terra**.
 
 <blockquote>  
-  
-> “Nifradah b'libam teshuvá – Arrependimento nasceu em seus corações.”  
-> נִפְרְדָה בְּלִבָּם תְּשׁוּבָה  
-> **Nifredah b’libam teshuvá**
+“Nifradah b'libam teshuvá – Arrependimento nasceu em seus corações.”  
+  נִפְרְדָה בְּלִבָּם תְּשׁוּבָה  
+**Nifredah b’libam teshuvá**
 
 O **Talmud (Sanhedrin 110a)** reforça isso:
 </blockquote>
@@ -42,29 +41,27 @@ Essa ideia é revolucionária: mesmo dentro do Sheol, um espaço de elevação p
 O **Midrash Tanchuma (Korach 5)** nos ensina que **Korach e seus seguidores não foram totalmente aniquilados**, mas estão num **estado suspenso** — entre céu e terra, entre queda e elevação.
 
 <blockquote> 
-  “Ad hayom hazeh — Até hoje, eles estão gritando: ‘Moshe é verdadeiro e sua Torá é verdadeira, e nós somos os mentirosos.’”  
-> עַד הַיּוֹם הַזֶּה – מֹשֶׁה אֱמֶת וְתוֹרָתוֹ אֱמֶת וַאֲנַחְנוּ בַּדָּאִים  
-> **Ad hayom hazeh – Moshe emet veTorato emet, va'anachnu bada’im**
+“Ad hayom hazeh — Até hoje, eles estão gritando: ‘Moshe é verdadeiro e sua Torá é verdadeira, e nós somos os mentirosos.’”  
+  עַד הַיּוֹם הַזֶּה – מֹשֶׁה אֱמֶת וְתוֹרָתוֹ אֱמֶת וַאֲנַחְנוּ בַּדָּאִים
+**Ad hayom hazeh – Moshe emet veTorato emet, va'anachnu bada’im**
 </blockquote>
----
 
 ## **4. 🕯️ Kabbalah: “Encontrar Korach no lugar certo”**
 
 Segundo a **Kabbalah**, especialmente o **Ari”zal** em *Sha’ar HaGilgulim* (Introdução 22), **Korach reencarna** em outras figuras da Torá — sempre confrontando o desafio da **liderança espiritual mal orientada**.
 
 <blockquote>  
-  “Mi-sitra de-din atah Korach – Korach veio do lado do julgamento, e desejava elevar o fogo.”  
-> מִסִּטְרָא דְּדִין אֲתָא קֹרַח – וְבָעֵי לְמֵעַל נוּרָא  
-> **Mi-sitra de-din ata Korach – uva’ei lema’al nura**
+“Mi-sitra de-din atah Korach – Korach veio do lado do julgamento, e desejava elevar o fogo.”
+  מִסִּטְרָא דְּדִין אֲתָא קֹרַח – וְבָעֵי לְמֵעַל נוּרָא  
+**Mi-sitra de-din ata Korach – uva’ei lema’al nura**
 </blockquote>
----
 
 ## **5. 🎶 Conexão direta com Tehilim 84**
 
 <blockquote> 
-  "Os que passam pelo vale do pranto o tornam numa fonte..."  
-> עֹֽבְרֵי בְעֵמֶק הַבָּכָא מַעְיָן יְשִׁית֑וּהוּ  
-> **Ovrei ve-Emek ha-Bachá, ma'ayan yeshituhu**
+"Os que passam pelo vale do pranto o tornam numa fonte..."  
+  עֹֽבְרֵי בְעֵמֶק הַבָּכָא מַעְיָן יְשִׁית֑וּהוּ  
+**Ovrei ve-Emek ha-Bachá, ma'ayan yeshituhu**
 </blockquote>
 ---
 
@@ -77,11 +74,11 @@ Segundo a **Kabbalah**, especialmente o **Ari”zal** em *Sha’ar HaGilgulim* (
 - Sha’ar HaGilgulim do Arizal
 
 <blockquote>   
-  "Como a corça anseia pelas correntes das águas, assim minha alma anseia por Ti, ó D’us."  
-> כְּאַיָּל תַּעֲרֹג עַל־אֲפִיקֵי־מָיִם כֵּן נַפְשִׁי תַּעֲרֹג אֵלֶיךָ אֱלֹהִים  
-> **Ke’ayal ta’arog al afikei mayim, ken nafshi ta’arog eilecha Elohim**
+"Como a corça anseia pelas correntes das águas, assim minha alma anseia por Ti, ó D’us."  
+  כְּאַיָּל תַּעֲרֹג עַל־אֲפִיקֵי־מָיִם כֵּן נַפְשִׁי תַּעֲרֹג אֵלֶיךָ אֱלֹהִים  
+**Ke’ayal ta’arog al afikei mayim, ken nafshi ta’arog eilecha Elohim**
 </blockquote>
----
+
 
 ## **7. 📜 Psalm 98:8 e o Cântico das Montanhas**
 

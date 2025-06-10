@@ -1,3 +1,9 @@
+$primary-color: #4caf50;
+$accent-color: #c0c0c0;
+$gold-color: #ffd700;
+$hebrew-bg: rgba(0, 0, 0, 0.3);
+$lightest-color: #f5f5f5;
+
 .post-title {
   color: $lightest-color;
 }
@@ -23,10 +29,11 @@
   & > pre,
   .highlight > pre,
   .highlight > div {
-    border-left: 0.4em solid rgba($primary-color, .8);
+    border-left: 0.4em solid rgba($primary-color, 0.8);
     padding: 1em 1em;
   }
 
+  // --- Base blockquote ---
   blockquote {
     position: relative;
     background: rgba(255, 255, 255, 0.15);
@@ -65,6 +72,44 @@
       background: transparent;
       padding: 0;
       font-size: 1rem;
+    }
+  }
+
+  // --- Estilo Torá ---
+  blockquote.torah {
+    &::before {
+      content: "תּוֹרָה";
+      font-family: 'David Libre', 'Noto Serif Hebrew', serif;
+      font-size: 1.1em;
+      color: $gold-color;
+      font-weight: bold;
+      text-shadow: 0 0 8px rgba(255, 215, 0, 0.8), 0 0 2px rgba(255, 255, 255, 0.9);
+      position: absolute;
+      top: 10px;
+      left: 16px;
+      background: $hebrew-bg;
+      padding: 0.2em 0.6em;
+      border-radius: 8px;
+      pointer-events: none;
+    }
+  }
+
+  // --- Estilo Halachá ---
+  blockquote.halachah {
+    &::before {
+      content: "הֲלָכָה";
+      font-family: 'David Libre', 'Noto Serif Hebrew', serif;
+      font-size: 1.1em;
+      color: #90ee90; // Verde claro
+      font-weight: bold;
+      text-shadow: 0 0 6px rgba(144, 238, 144, 0.9);
+      position: absolute;
+      top: 10px;
+      left: 16px;
+      background: $hebrew-bg;
+      padding: 0.2em 0.6em;
+      border-radius: 8px;
+      pointer-events: none;
     }
   }
 }

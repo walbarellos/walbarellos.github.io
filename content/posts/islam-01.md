@@ -1,5 +1,5 @@
 ---
-title: "☪︎ Maomé: Profeta? Reformador? Usurpador?"
+title: "☪︎ Maomé: Profeta? Islam?"
 date: 2025-05-22
 tags:
   - Islam
@@ -178,7 +178,7 @@ Os eventos descritos, embora defendidos por muitos estudiosos islâmicos como �
 Esses relatos desafiam diretamente a imagem pacífica que muitos desejam projetar sobre Maomé. Eles não vêm de "fontes inimigas", mas dos textos mais reverenciados do próprio Islã.
 
 
-# ☠️ Seção 4 – Maomé: o degenerado revelado pelas próprias fontes islâmicas
+# ☠️ Seção 4 – Maomé: revelado pelas próprias fontes islâmicas
 
 É crucial que a análise crítica ao Islã utilize as próprias fontes islâmicas, como os **Hadiths Sahih** e as **Siras**, para evidenciar a conduta de Maomé. Ao fazer isso, não se está promovendo ódio, mas apontando o abismo entre o ideal ético da Torá e o comportamento do “profeta” do Islã.
 

@@ -55,56 +55,44 @@ $lightest-color:  #f5f5f5;
   }
 
   /* 2) blocos de citação */
-  blockquote {
-    position: relative;
-    margin: 2em 0;
-    padding: 3.1em 1.6em 1.8em 1.6em;        /* espaço extra para o carimbo hebraico */
-    background: $hebrew-bg;                  /* “vidro fumê” para tema escuro */
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    border: 1px solid rgba($accent-color, 0.25);
-    border-left: 4px solid $primary-color;   /* indicação visual de citação */
-    border-radius: 14px;
-    box-shadow: 0 10px 22px rgba(0, 0, 0, 0.35);
-    color: $lightest-color;
-    font-size: 1rem;
-    line-height: 1.55;
-    overflow-x: auto;
+blockquote {
+  position: relative;
+  background: rgba(0, 0, 0, 0.4); // escuro sutil
+  border-left: 4px solid $primary-color;
+  padding: 2.5em 1.5em 1.5em 1.5em;
+  margin: 2em 0;
+  border-radius: 12px;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.4);
+  color: $lightest-color;
+  font-size: 1rem;
+  line-height: 1.6;
+  overflow-x: auto;
 
-    /* selo hebraico no topo — “שתיקה” (silêncio) */
-    &::before {
-      content: "שְׁתִיקָה";
-      font-family: 'Noto Serif Hebrew', serif;
-      font-weight: 700;
-      font-size: 0.9em;
-      position: absolute;
-      top: -0.55em;
-      left: 0.8em;
-      padding: 0.25em 0.7em;
-      color: $gold-color;
-      background: rgba($primary-color, 0.2);
-      border: 1px solid $gold-color;
-      border-radius: 6px;
-      box-shadow: 0 0 6px rgba($gold-color, 0.7);
-      z-index: 2;
-    }
+  /* Selo hebraico refinado */
+  &::before {
+    content: "שְׁתִיקָה";
+    font-family: 'Noto Serif Hebrew', serif;
+    font-size: 0.85em;
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    left: 1.25em;
+    transform: translateY(-50%);
+    background: rgba(76, 175, 80, 0.12); // leve fundo verde
+    color: $primary-color;
+    padding: 0.4em 0.8em;
+    border-radius: 6px;
+    border: 1px solid $gold-color;
+    box-shadow: 0 0 6px rgba($gold-color, 0.5);
+    z-index: 2;
+  }
 
-    /* “barra” estética tipo janela (opcional) */
-    &::after {
-      content: "";
-      position: absolute;
-      top: 18px;
-      left: 18px;
-      width: 66px;
-      height: 12px;
-      border-radius: 10px;
-      opacity: 0.35;      /* discreto: não rouba atenção */
-      pointer-events: none;
-      z-index: 1;
-    }
+  &::after {
+    display: none; // oculta a “barra de janela” se quiser um estilo mais limpo
   }
 }
-
       /*background:
         radial-gradient(circle at 10px 6px, #ff5f56 5px, transparent 6px),
         radial-gradient(circle at 34px 6px, #ffbd2e 5px, transparent 6px),

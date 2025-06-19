@@ -57,7 +57,7 @@ $lightest-color:  #f5f5f5;
   /* 2) blocos de citação */
 blockquote {
   position: relative;
-  background: rgba(0, 0, 0, 0.4); // escuro sutil
+  background: rgba(0, 0, 0, 0.4); // fundo escuro translúcido
   border-left: 4px solid $primary-color;
   padding: 2.5em 1.5em 1.5em 1.5em;
   margin: 2em 0;
@@ -70,7 +70,6 @@ blockquote {
   line-height: 1.6;
   overflow-x: auto;
 
-  /* Selo hebraico refinado */
   &::before {
     content: "שְׁתִיקָה";
     font-family: 'Noto Serif Hebrew', serif;
@@ -85,12 +84,12 @@ blockquote {
     padding: 0.4em 0.8em;
     border-radius: 6px;
     border: 1px solid $primary-color;
-    box-shadow: 0 0 6px rgba($primary-color;, 0.5);
+    box-shadow: 0 0 6px rgba(76, 175, 80, 0.5);
     z-index: 2;
   }
 
   &::after {
-    display: none; // oculta a “barra de janela” se quiser um estilo mais limpo
+    display: none; // remove o detalhe visual “barra de janela”
   }
 }
       /*background:

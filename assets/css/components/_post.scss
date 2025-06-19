@@ -98,13 +98,15 @@ $lightest-color:  #f5f5f5;
       width: 66px;
       height: 12px;
       border-radius: 10px;
-      background:
-        radial-gradient(circle at 10px 6px, #ff5f56 5px, transparent 6px),
-        radial-gradient(circle at 34px 6px, #ffbd2e 5px, transparent 6px),
-        radial-gradient(circle at 58px 6px, #27c93f 5px, transparent 6px);
       opacity: 0.35;      /* discreto: não rouba atenção */
       pointer-events: none;
       z-index: 1;
     }
   }
 }
+
+      /*background:
+        radial-gradient(circle at 10px 6px, #ff5f56 5px, transparent 6px),
+        radial-gradient(circle at 34px 6px, #ffbd2e 5px, transparent 6px),
+        radial-gradient(circle at 58px 6px, #27c93f 5px, transparent 6px);
+        */

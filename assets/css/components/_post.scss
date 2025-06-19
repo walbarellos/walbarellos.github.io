@@ -1,11 +1,23 @@
-$primary-color: #4caf50;
-$accent-color: #c0c0c0;
-$gold-color: #ffd700;
-$hebrew-bg: rgba(0, 0, 0, 0.3);
-$lightest-color: #f5f5f5;
+/*  ────────────────────────────────────────────────────────────────────
+    _post.scss  ▸  estilos do conteúdo dos posts
+    Paleta usada:
+      $primary-color   → #4caf50   (verde acentuado)
+      $accent-color    → #c0c0c0   (cinza claro)
+      $gold-color      → #ffd700   (dourado)
+      $hebrew-bg       → rgba(0, 0, 0, 0.3)
+      $lightest-color  → #f5f5f5   (quase branco)
+   ──────────────────────────────────────────────────────────────────── */
 
+/* Variáveis (mantidas aqui por conveniência; remova se já existirem num _variables.scss) */
+$primary-color:   #4caf50;
+$accent-color:    #c0c0c0;
+$gold-color:      #ffd700;
+$hebrew-bg:       rgba(0, 0, 0, 0.3);
+$lightest-color:  #f5f5f5;
+
+/* ——— Títulos e metadados ———————————————————————————————— */
 .post-title {
-  color: $lightest-color;
+  color: $lightest-color; /* contraste máximo no tema escuro */
 }
 
 .post-meta > div {
@@ -14,13 +26,18 @@ $lightest-color: #f5f5f5;
   flex-wrap: wrap;
   gap: 0.2em;
   font-size: 0.8em;
+  color: $accent-color;
 
   > .icon {
     margin-right: 0.4em;
+    svg,
+    img { fill: currentColor; }
   }
 }
 
+/* ——— Conteúdo do post ———————————————————————————————— */
 .post-content {
+  /* 1) trechos de código em pre ou highlight */
   & > pre,
   .highlight {
     margin: 1em 0;
@@ -29,55 +46,65 @@ $lightest-color: #f5f5f5;
   & > pre,
   .highlight > pre,
   .highlight > div {
-    border-left: 0.4em solid rgba(76, 175, 80, 0.8); // direto com RGB
-    padding: 1em 1em;
+    border-left: 0.35em solid rgba($primary-color, 0.85);
+    padding: 1em 1.25em;
+    background: rgba(255, 255, 255, 0.05);   /* leve contraste contra o fundo geral */
+    border-radius: 6px;
+    overflow-x: auto;
+    color: $lightest-color;                  /* garante leitura */
   }
 
+  /* 2) blocos de citação */
   blockquote {
     position: relative;
-    background: rgba(255, 255, 255, 0.15);
-    border-radius: 14px;
-    padding: 2.8em 1.5em 1.5em 1.5em;
     margin: 2em 0;
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2);
-    color: #fff;
+    padding: 3.1em 1.6em 1.8em 1.6em;        /* espaço extra para o carimbo hebraico */
+    background: $hebrew-bg;                  /* “vidro fumê” para tema escuro */
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba($accent-color, 0.25);
+    border-left: 4px solid $primary-color;   /* indicação visual de citação */
+    border-radius: 14px;
+    box-shadow: 0 10px 22px rgba(0, 0, 0, 0.35);
+    color: $lightest-color;
     font-size: 1rem;
-    line-height: 1.5;
+    line-height: 1.55;
     overflow-x: auto;
 
+    /* selo hebraico no topo — “שתיקה” (silêncio) */
     &::before {
       content: "שְׁתִיקָה";
       font-family: 'Noto Serif Hebrew', serif;
-      font-size: 0.85em;
-      font-weight: bold;
+      font-weight: 700;
+      font-size: 0.9em;
       position: absolute;
-      top: -0.10em;
-      left: 0.05em;
-      background: rgba(0, 0, 0, 0.65);
-      color: #00ff88;
-      padding: 0.3em 0.6em;
+      top: -0.55em;
+      left: 0.8em;
+      padding: 0.25em 0.7em;
+      color: $gold-color;
+      background: rgba($primary-color, 0.2);
+      border: 1px solid $gold-color;
       border-radius: 6px;
-      box-shadow: 0 0 4px #00ff88aa;
+      box-shadow: 0 0 6px rgba($gold-color, 0.7);
       z-index: 2;
     }
 
+    /* “barra” estética tipo janela (opcional) */
     &::after {
       content: "";
       position: absolute;
-      top: 16px;
-      left: 16px;
-      width: 70px;
-      height: 14px;
+      top: 18px;
+      left: 18px;
+      width: 66px;
+      height: 12px;
       border-radius: 10px;
-//       background:
-//        radial-gradient(circle at 10px 7px, #ff5f56 6px, transparent 7px),
-//        radial-gradient(circle at 34px 7px, #ffbd2e 6px, transparent 7px),
-//        radial-gradient(circle at 58px 7px, #27c93f 6px, transparent 7px);
+      background:
+        radial-gradient(circle at 10px 6px, #ff5f56 5px, transparent 6px),
+        radial-gradient(circle at 34px 6px, #ffbd2e 5px, transparent 6px),
+        radial-gradient(circle at 58px 6px, #27c93f 5px, transparent 6px);
+      opacity: 0.35;      /* discreto: não rouba atenção */
       pointer-events: none;
       z-index: 1;
     }
-  } 
+  }
 }

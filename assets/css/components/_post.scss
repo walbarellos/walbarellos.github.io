@@ -84,8 +84,8 @@ blockquote {
     color: $primary-color;
     padding: 0.4em 0.8em;
     border-radius: 6px;
-    border: 1px solid $gold-color;
-    box-shadow: 0 0 6px rgba($gold-color, 0.5);
+    border: 1px solid $primary-color;
+    box-shadow: 0 0 6px rgba($primary-color;, 0.5);
     z-index: 2;
   }
 

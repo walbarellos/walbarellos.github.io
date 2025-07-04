@@ -70,22 +70,27 @@ A sintaxe é simples e intuitiva. Veja alguns exemplos:
 
     Adicionar type hints a funções e variáveis simples:
     Crie um novo arquivo Python chamado exercicio_modulo1.py. Copie e cole o código abaixo nele:
+   
     ```python
 # exercicio_modulo1.py
-```
+
 # 1. Variáveis com type hints
+
 preco: float = 19.99
 esta_ativo: bool = True
 
 # 2. Função multiplicar com type hints
+
 def multiplicar(num1: float, num2: float) -> float:
     return num1 * num2
 
 # 3. Função formatar_mensagem com type hints
+
 def formatar_mensagem(usuario: str, mensagem: str) -> str:
     return f"{usuario} disse: {mensagem}"
 
 # Testes (opcional, mas bom para ver o funcionamento)
+
 print(f"Preço: {preco}")
 print(f"Ativo: {esta_ativo}")
 print(f"Multiplicação: {multiplicar(5.5, 2.0)}")
@@ -95,9 +100,10 @@ Entender a diferença entre tipagem dinâmica e estática em Python:
 No mesmo arquivo exercicio_modulo1.py:
 
     Erro em tempo de execução (Tipagem Dinâmica): Adicione as seguintes linhas (comentadas) ao seu script.
-    ```python
+
+    
 # Isso vai gerar um erro em tempo de execução se descomentado
-```
+
 # resultado_errado_runtime = multiplicar("cinco", 2.0)
 # print(resultado_errado_runtime)
 
@@ -108,7 +114,7 @@ Verificação estática com mypy:
     Instale o mypy se ainda não tiver: pip install mypy
 
     Adicione o seguinte trecho com erro de tipo no seu script e deixe-o descomentado:
-    ```python
+
 # Exemplo de erro que mypy pegaria ANTES da execução
             outro_resultado_errado: float = multiplicar("texto", 10.0) # Mypy sinalizará um erro aqui
 
@@ -119,7 +125,7 @@ Verificação estática com mypy:
             Observe a saída do mypy. Ele deve indicar um erro na linha onde você passou uma string para a função multiplicar, mesmo sem executar o código. Isso demonstra a detecção precoce de erros!
 
             Comente a linha outro_resultado_errado após o teste para seguir para os próximos módulos sem erros.
-```
+
 # Módulo 2: Tipos Comuns e Coleções
 
 ## 2.1. Tipos Primitivos

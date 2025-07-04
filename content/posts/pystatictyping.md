@@ -25,9 +25,9 @@ Desenvolvedores Python que desejam melhorar a qualidade do código, reduzir erro
 
 Python é conhecido por sua tipagem dinâmica, o que oferece grande flexibilidade. No entanto, em projetos grandes e complexos, essa flexibilidade pode levar a:
 
-    Limitações em projetos grandes e complexos: Dificuldade em rastrear tipos de dados e potenciais erros em tempo de execução.
+Limitações em projetos grandes e complexos: Dificuldade em rastrear tipos de dados e potenciais erros em tempo de execução.
 
-    Detecção precoce de erros: Com a tipagem estática, muitos bugs são identificados antes mesmo do código ser executado, economizando tempo no desenvolvimento.
+Detecção precoce de erros: Com a tipagem estática, muitos bugs são identificados antes mesmo do código ser executado, economizando tempo no desenvolvimento.
 
     Melhoria da legibilidade e documentação do código: Os type hints funcionam como uma forma de documentação explícita sobre os tipos esperados, tornando o código mais fácil de entender por outros desenvolvedores (e por você mesmo no futuro).
 
@@ -49,6 +49,7 @@ Python é conhecido por sua tipagem dinâmica, o que oferece grande flexibilidad
 
 A sintaxe é simples e intuitiva. Veja alguns exemplos:
 
+```python
     Variáveis: nome: str = "João", idade: int = 30
 
     Parâmetros de função: def saudacao(nome: str) -> str:
@@ -56,8 +57,7 @@ A sintaxe é simples e intuitiva. Veja alguns exemplos:
     Retorno de função: def soma(a: int, b: int) -> int:
 
     Variáveis de instância em classes:
-    Python
-
+    ```python
     class Pessoa:
         nome: str
         idade: int
@@ -65,15 +65,14 @@ A sintaxe é simples e intuitiva. Veja alguns exemplos:
         def __init__(self, nome: str, idade: int) -> None:
             self.nome = nome
             self.idade = idade
-
+```
 ## Exercícios do Módulo 1
 
     Adicionar type hints a funções e variáveis simples:
     Crie um novo arquivo Python chamado exercicio_modulo1.py. Copie e cole o código abaixo nele:
-    Python
-
+    ```python
 # exercicio_modulo1.py
-
+```
 # 1. Variáveis com type hints
 preco: float = 19.99
 esta_ativo: bool = True
@@ -96,9 +95,9 @@ Entender a diferença entre tipagem dinâmica e estática em Python:
 No mesmo arquivo exercicio_modulo1.py:
 
     Erro em tempo de execução (Tipagem Dinâmica): Adicione as seguintes linhas (comentadas) ao seu script.
-    Python
-
+    ```python
 # Isso vai gerar um erro em tempo de execução se descomentado
+```
 # resultado_errado_runtime = multiplicar("cinco", 2.0)
 # print(resultado_errado_runtime)
 
@@ -109,9 +108,8 @@ Verificação estática com mypy:
     Instale o mypy se ainda não tiver: pip install mypy
 
     Adicione o seguinte trecho com erro de tipo no seu script e deixe-o descomentado:
-    Python
-
-            # Exemplo de erro que mypy pegaria ANTES da execução
+    ```python
+# Exemplo de erro que mypy pegaria ANTES da execução
             outro_resultado_errado: float = multiplicar("texto", 10.0) # Mypy sinalizará um erro aqui
 
             Salve o arquivo e abra seu terminal na mesma pasta do arquivo.
@@ -121,7 +119,7 @@ Verificação estática com mypy:
             Observe a saída do mypy. Ele deve indicar um erro na linha onde você passou uma string para a função multiplicar, mesmo sem executar o código. Isso demonstra a detecção precoce de erros!
 
             Comente a linha outro_resultado_errado após o teste para seguir para os próximos módulos sem erros.
-
+```
 # Módulo 2: Tipos Comuns e Coleções
 
 ## 2.1. Tipos Primitivos
@@ -131,12 +129,12 @@ Verificação estática com mypy:
     None: Representa a ausência de valor.
 
     Optional[T]: Do módulo typing. Significa que um valor pode ser do tipo T OU None. É equivalente a Union[T, None].
-    Python
-
+    ```python
     from typing import Optional
 
     def obter_nome_meio(nome_completo: str) -> Optional[str]:
-        # Lógica para extrair nome do meio, pode não existir
+```
+# Lógica para extrair nome do meio, pode não existir
         if " " in nome_completo:
             return "Silva" # Exemplo simples
         return None
@@ -152,10 +150,9 @@ Verificação estática com mypy:
 Para tipar coleções, precisamos importá-las do módulo typing.
 
     List[T]: Uma lista onde todos os elementos são do tipo T.
-    Python
-
+    ```python
 from typing import List
-
+```
 numeros: List[int] = [1, 2, 3]
 nomes: List[str] = ["Ana", "Bruno"]
 
@@ -165,37 +162,33 @@ Tuple[T, ...] ou Tuple[T1, T2]:
 
     Tuple[T1, T2]: Uma tupla de tamanho fixo e tipos específicos.
 
-Python
-
+```python
 from typing import Tuple
-
+```
 coordenadas: Tuple[float, float] = (10.5, 20.3)
 qualquer_tupla_de_int: Tuple[int, ...] = (1, 2, 3, 4)
 
 Dict[K, V]: Um dicionário com chaves do tipo K e valores do tipo V.
-Python
-
+```python
 from typing import Dict
-
+```
 idades: Dict[str, int] = {"Alice": 25, "Bob": 30}
 config: Dict[str, List[float]] = {"valores": [1.1, 2.2]}
 
 Set[T]: Um conjunto de elementos do tipo T.
-Python
-
+```python
     from typing import Set
 
     frutas: Set[str] = {"maçã", "banana"}
 
     FrozenSet[T]: Um conjunto imutável de elementos do tipo T.
-
+```
 ## 2.3. Outros Tipos Úteis
 
     Union[T1, T2, ...]: Indica que uma variável pode ser de um tipo ou de outro. No Python 3.10+, o operador | é a sintaxe preferida (str | int).
-    Python
-
+    ```python
 from typing import Union
-
+```
 def imprimir_id(identificador: Union[str, int]) -> None:
     print(f"ID: {identificador}")
 
@@ -209,10 +202,9 @@ imprimir_id_novo("xyz789")
 imprimir_id_novo(1011)
 
 Any: Usado quando o tipo é desconhecido ou pode ser qualquer coisa. Use com moderação, pois anula os benefícios da tipagem estática.
-Python
-
+```python
 from typing import Any
-
+```
 dados_aleatorios: Any = "qualquer coisa"
 dados_aleatorios = 123
 dados_aleatorios = [1, 2, 3]
@@ -220,10 +212,9 @@ dados_aleatorios = [1, 2, 3]
 print(f"Dados aleatórios: {dados_aleatorios}")
 
 Callable[[Arg1, Arg2, ...], ReturnType]: Para tipar funções que são passadas como argumentos.
-Python
-
+```python
 from typing import Callable
-
+```
 def aplicar_operacao(a: int, b: int, operacao: Callable[[int, int], int]) -> int:
     return operacao(a, b)
 
@@ -238,10 +229,9 @@ resultado_soma_lambda = aplicar_operacao(20, 30, lambda x, y: x + y)
 print(f"Resultado da soma (lambda): {resultado_soma_lambda}")
 
 Literal[value1, value2, ...]: Permite especificar que uma variável só pode ter um conjunto fixo de valores.
-Python
-
+```python
 from typing import Literal
-
+```
 def processar_status(status: Literal["pendente", "concluido", "erro"]) -> None:
     print(f"Status processado: {status}")
 
@@ -249,8 +239,7 @@ processar_status("pendente")
 # processar_status("invalido") # mypy sinalizaria um erro aqui
 
 Type[T]: Usado quando você espera que um argumento seja um tipo (uma classe) em vez de uma instância.
-Python
-
+```python
     from typing import Type
 
     class Animal:
@@ -273,14 +262,14 @@ Python
 
     minha_animal_generico = criar_instancia(Animal)
     print(minha_animal_generico.falar())
-
+```
 ## Exercícios do Módulo 2
 
     Usar type hints com diferentes tipos de coleções:
     Crie um novo arquivo chamado exercicio_modulo2.py. Copie e cole o código abaixo nele:
-    Python
-
+    ```python
 # exercicio_modulo2.py
+```
 from typing import List, Dict, Tuple, Set
 
 # Sua implementação aqui
@@ -296,9 +285,9 @@ print(f"Status Flags: {status_flags}")
 
 Implementar funções que aceitem múltiplos tipos usando Union:
 No mesmo script exercicio_modulo2.py, adicione o código abaixo:
-Python
-
+```python
 # Adicione ao exercicio_modulo2.py
+```
 from typing import Union
 
 def imprimir_dado(dado: Union[str, int]) -> None:
@@ -321,9 +310,8 @@ imprimir_dado_novo(456789)
 
 Criar exemplos onde Optional é essencial:
 Ainda no mesmo script exercicio_modulo2.py, adicione o código abaixo:
-Python
-
-    # Adicione ao exercicio_modulo2.py
+```python
+# Adicione ao exercicio_modulo2.py
     from typing import Optional
 
     def buscar_usuario(id: int) -> Optional[str]:
@@ -343,16 +331,15 @@ Python
         print(f"Usuário encontrado: {usuario2}")
     else:
         print("Usuário 2 não encontrado.")
-
+```
 # Módulo 3: Tipagem Avançada e Classes
 
 ## 3.1. Type Aliases
 
 Criar alias para tipos complexos melhora a legibilidade do código, especialmente para estruturas de dados aninhadas.
-Python
-
+```python
 from typing import Dict, List, Union, TypedDict
-
+```
 # Definindo um alias para um dicionário de configuração
 # Pode ser Dict[str, Union[str, int, bool, List[str]]] ou str | int | bool | List[str] no 3.10+
 ConfigDict = Dict[str, Union[str, int, bool, List[str]]]
@@ -392,10 +379,9 @@ print(f"Meus pedidos: {meus_pedidos}")
 Permitem escrever funções e classes que operam sobre vários tipos, mantendo a segurança de tipo.
 
     Usando TypeVar: A maneira tradicional de criar genéricos.
-    Python
 
+```python
 from typing import TypeVar, List
-
 T = TypeVar('T') # 'T' pode ser qualquer tipo
 
 def obter_primeiro_item(data: List[T]) -> T:
@@ -409,30 +395,35 @@ print(f"Primeiro int: {primeiro_int}") # tipo int
 
 primeira_str = obter_primeiro_item(["a", "b", "c"])
 print(f"Primeira str: {primeira_str}") # tipo str
+```
 
 Nova sintaxe de Genéricos (Python 3.12+): Mais concisa.
-Python
 
-    # A partir do Python 3.12
-    # def obter_primeiro_item_novo[T](data: list[T]) -> T: # Note 'list' minúsculo
-    #     """Retorna o primeiro item de uma lista, mantendo o tipo (sintaxe 3.12+)."""
-    #     if not data:
-    #         raise ValueError("A lista não pode estar vazia.")
-    #     return data[0]
+ A partir do Python 3.12
 
-    # if __name__ == '__main__':
-    #     # Apenas execute isso se estiver em Python 3.12+
-    #     # primeiro_int_novo = obter_primeiro_item_novo([10, 20, 30])
-    #     # print(f"Primeiro int (novo): {primeiro_int_novo}")
-    #     pass
+```python
+
+# def obter_primeiro_item_novo[T](data: list[T]) -> T: # Note 'list' minúsculo
+#     """Retorna o primeiro item de uma lista, mantendo o tipo (sintaxe 3.12+)."""
+#     if not data:
+#         raise ValueError("A lista não pode estar vazia.")
+#     return data[0]
+
+# if __name__ == '__main__':
+#     # Apenas execute isso se estiver em Python 3.12+
+#     # primeiro_int_novo = obter_primeiro_item_novo([10, 20, 30])
+#     # print(f"Primeiro int (novo): {primeiro_int_novo}")
+#     pass
+
+```
 
 ## 3.3. Tipagem em Classes
 
 Aplicar type hints em classes é crucial para projetos orientados a objetos.
 
     Atributos de instância e de classe:
-    Python
 
+```python
 class Livro:
     titulo: str
     autor: str
@@ -449,12 +440,12 @@ livro1 = Livro("O Pequeno Príncipe", "Antoine de Saint-Exupéry")
 print(f"Livro: {livro1.titulo}, Autor: {livro1.autor}, Publicado: {livro1.publicado}")
 livro1.marcar_como_publicado()
 print(f"Publicado após marcar: {livro1.publicado}")
+```
 
 Métodos estáticos e de classe:
-Python
 
+```python
 from typing import Type
-
 class Calculadora:
     @staticmethod
     def dobro(x: int) -> int:
@@ -469,12 +460,13 @@ class Calculadora:
 print(f"Dobro de 5: {Calculadora.dobro(5)}")
 calc = Calculadora.criar_calculadora_padrao()
 print(f"Instância de calculadora criada: {calc}")
+```
+
 
 Herança e polimorfismo com type hints:
-Python
 
+```python
 from typing import List
-
 class Animal:
     def emitir_som(self) -> str:
         raise NotImplementedError("Este método deve ser sobrescrito pelas subclasses.")
@@ -496,10 +488,11 @@ meu_gato = Gato()
 
 animais_na_fazenda: List[Animal] = [meu_cachorro, meu_gato]
 ouvir_sons(animais_na_fazenda)
+```
+
 
 Self (PEP 673) para retornos de métodos que retornam a própria instância (Python 3.11+).
-Python
-
+```python
     from typing import Self
 
     class Builder:
@@ -512,18 +505,19 @@ Python
 
         def build(self) -> List[str]:
             return self.data
+```
 
-    # A partir do Python 3.11
+# A partir do Python 3.11
+```python
+
     builder = Builder().add_item("primeiro").add_item("segundo").build()
     print(f"Itens construídos: {builder}")
-
+```
 ## 3.4. Protocolos (Protocols - PEP 544)
 
 Tipagem estrutural (duck typing) com type hints. Definindo interfaces implícitas.
-
+```python
     Protocol e runtime_checkable.
-    Python
-
     from typing import Protocol, runtime_checkable
 
     @runtime_checkable
@@ -549,30 +543,38 @@ Tipagem estrutural (duck typing) com type hints. Definindo interfaces implícita
 
     cumprimentar(p)
     cumprimentar(r)
+```
 
-    # Verificando em tempo de execução se um objeto "implementa" o Protocolo
+# Verificando em tempo de execução se um objeto "implementa" o Protocolo
+```python
     print(f"Pessoa é Saudavel? {isinstance(p, Saudavel)}")
     print(f"Robo é Saudavel? {isinstance(r, Saudavel)}")
+```
 
 ## Exercícios do Módulo 3
 
     Criar type aliases para estruturas de dados complexas:
     Crie um arquivo exercicio_modulo3.py. Copie e cole o código abaixo nele:
-    Python
 
 # exercicio_modulo3.py
+
+```python
 from typing import Dict, List, TypedDict, Union
+```
 
 # Opção 1: Usando TypedDict (preferível para dicionários com chaves fixas)
+
+```python
 class Endereco(TypedDict):
     rua: str
     numero: int
     cidade: str
     cep: str
-
+```
 # Opção 2: Usando TypeAlias com Dict (para dicionários mais flexíveis ou compatibilidade anterior)
-# EnderecoGenerico = Dict[str, Union[str, int]] # Mais genérico, menos específico
+### EnderecoGenerico = Dict[str, Union[str, int]] # Mais genérico, menos específico
 
+```python
 class Pedido(TypedDict):
     id: int
     produto: str
@@ -595,12 +597,15 @@ meus_pedidos: ListaDePedidos = [
 
 print(f"Meu Endereço: {meu_endereco}")
 print(f"Meus Pedidos: {meus_pedidos}")
+```
 
 Desenvolver classes com atributos e métodos tipados:
 No mesmo script exercicio_modulo3.py, adicione o código abaixo:
-Python
 
 # Adicione ao exercicio_modulo3.py
+
+```python
+
 class Carro:
     marca: str
     modelo: str
@@ -625,12 +630,14 @@ meu_carro = Carro("Toyota", "Corolla", 2020, 15000.5)
 print(meu_carro.obter_informacoes())
 meu_carro.dirigir(250.3)
 print(meu_carro.obter_informacoes())
+```python
 
 Implementar funções genéricas usando TypeVar:
 No mesmo script exercicio_modulo3.py, adicione o código abaixo:
-Python
 
 # Adicione ao exercicio_modulo3.py
+
+```python
 from typing import List, TypeVar
 
 Item = TypeVar('Item')
@@ -650,9 +657,8 @@ print(f"Lista de strings original: {lista_str}, invertida: {lista_str_invertida}
 
 Criar um Protocol e testar sua funcionalidade:
 No mesmo script exercicio_modulo3.py, adicione o código abaixo:
-Python
-
-    # Adicione ao exercicio_modulo3.py
+```python
+# Adicione ao exercicio_modulo3.py
     from typing import Protocol, runtime_checkable
 
     @runtime_checkable
@@ -675,11 +681,14 @@ Python
         item.salvar()
 
     meu_produto = Produto("PROD001", "Smartphone X")
+```
 
-    # Verificando se Produto implementa Armazenavel
+# Verificando se Produto implementa Armazenavel
+```python
     print(f"Meu produto é Armazenavel? {isinstance(meu_produto, Armazenavel)}")
 
     processar_item(meu_produto)
+```
 
 # Módulo 4: Ferramentas de Verificação de Tipo
 
@@ -688,28 +697,26 @@ Python
     A ferramenta de verificação de tipo estático mais popular para Python.
 
     Instalação e configuração básica:
-    Bash
 
+    ```bash
 pip install mypy
-
+    ```
 Executando mypy na linha de comando:
-Bash
 
 mypy seu_arquivo.py
 mypy seu_modulo/
 
 Ignorando erros específicos:
-Python
-
+```python
 # mypy: ignore-errors
+```
 # mypy: disable-error-code=attr-defined
 minha_variavel_sem_tipo = 10 # type: ignore
 
 Arquivo de configuração mypy.ini:
 Permite configurar o comportamento do mypy para todo o projeto.
-Ini, TOML
-
-    # mypy.ini
+```toml
+# mypy.ini
     [mypy]
     python_version = 3.9
     warn_return_any = True
@@ -747,9 +754,9 @@ Ini, TOML
         Crie uma nova pasta para este módulo (ex: modulo4_mypy).
 
         Dentro dela, crie um arquivo main.py. Copie e cole o código abaixo nele (com um erro intencional):
-        Python
-
+        ```python
 # main.py
+```
 from typing import List
 
 def saudar_todos(nomes: List[str]) -> None:
@@ -760,9 +767,8 @@ def saudar_todos(nomes: List[str]) -> None:
 saudar_todos(["Alice", 123, "Bob"])
 
 Crie um arquivo mypy.ini na mesma pasta com o seguinte conteúdo:
-Ini, TOML
-
-    # mypy.ini
+```toml
+# mypy.ini
     [mypy]
     python_version = 3.9
     check_untyped_defs = True
@@ -777,16 +783,15 @@ Corrigir erros de tipo detectados pelo mypy:
     Execute mypy main.py novamente para confirmar que não há mais erros.
 
 Copie e cole este código para corrigir o main.py:
-Python
-
-    # main.py (corrigido)
+```python
+# main.py (corrigido)
     from typing import List
 
     def saudar_todos(nomes: List[str]) -> None:
         for nome in nomes:
             print(f"Olá, {nome}!")
-
-    # Correção: todos os elementos da lista devem ser strings
+```
+# Correção: todos os elementos da lista devem ser strings
     saudar_todos(["Alice", "Maria", "Bob"])
 
     Experimentar a integração de type hints com sua IDE:
@@ -830,9 +835,9 @@ Nem todas as bibliotecas de terceiros vêm com type hints nativos.
     Circular imports com type hints: Quando dois módulos se importam mutuamente e um dos imports é para um type hint.
 
         Solução: Use from __future__ import annotations (disponível a partir do Python 3.7) ou use strings para forward references ('MinhaClasse').
-    Python
-
+    ```python
 # Exemplo de como lidar com imports circulares
+```
 # modulo_a.py
 # from __future__ import annotations # Use isso no topo do arquivo se Python <= 3.9
 from typing import TYPE_CHECKING
@@ -859,18 +864,16 @@ Tipos que dependem de si mesmos (Self-referential types): Estruturas de dados re
 
     Solução: Use strings para forward references.
 
-Python
-
+```python
 from typing import Optional
-
+```
 class Node:
     def __init__(self, value: int, next_node: Optional['Node'] = None) -> None:
         self.value = value
         self.next_node = next_node
 
 Overloading de funções com typing.overload: Quando uma função tem diferentes assinaturas dependendo dos tipos de seus argumentos.
-Python
-
+```python
     from typing import overload, Union
 
     @overload
@@ -891,7 +894,8 @@ Python
 
     print(processar_dado("hello"))
     print(processar_dado(10))
-    # print(processar_dado(True)) # Mypy sinalizaria erro
+```
+# print(processar_dado(True)) # Mypy sinalizaria erro
 
 ## 5.4. Novidades e Tendências
 
@@ -911,10 +915,9 @@ Python
     Crie um arquivo exercicio_modulo5.py e refatore o código abaixo adicionando type hints e, se aplicável, type aliases para melhorar a clareza.
 
     Código original (copie e cole no exercicio_modulo5.py):
-    Python
-
+    ```python
 # exercicio_modulo5.py (Antes da refatoração)
-
+```
 def processar_config(config_data):
     if config_data.get('ativo'):
         print("Sistema ativo.")
@@ -930,17 +933,17 @@ print(f"Total de itens na lista: {resultado}")
 Sua tarefa é adicionar as dicas de tipo para config_data, para que mypy possa verificar corretamente. Pense em como criar um TypeAlias ou TypedDict para config_data.
 
 Exemplo de como ficaria após a refatoração (NÃO COPIE AINDA, tente fazer o seu primeiro!):
-Python
-
+```python
 # exercicio_modulo5.py (Após refatoração - Exemplo)
+```
 from typing import List, TypedDict, Union
 
 class AppConfig(TypedDict):
     ativo: bool
     lista: List[str]
     versao: float
-    # Você pode adicionar 'Optional' se uma chave pode não existir
-    # descricao: Optional[str]
+# Você pode adicionar 'Optional' se uma chave pode não existir
+# descricao: Optional[str]
 
 def processar_config(config_data: AppConfig) -> int:
     if config_data.get('ativo'): # .get() ainda é válido, mas mypy conhece o tipo agora
@@ -962,11 +965,11 @@ Criar um stub file para uma biblioteca de exemplo:
 Imagine que você tem uma biblioteca simples sem type hints. Crie três arquivos em uma nova pasta:
 
     minha_lib.py:
-    Python
-
+    ```python
 # minha_lib.py
+```
 def carregar_dados_externos(caminho):
-    # Simula o carregamento de dados de um arquivo
+# Simula o carregamento de dados de um arquivo
     if caminho == "valido":
         return {"chave": "valor", "numero": 123}
     return None
@@ -979,9 +982,9 @@ class Configurador:
         self.settings[key] = value
 
 minha_lib.pyi (o stub file - crie este arquivo manualmente e copie o conteúdo):
-Python
-
+```python
 # minha_lib.pyi
+```
 from typing import Dict, Any, Optional
 
 def carregar_dados_externos(caminho: str) -> Optional[Dict[str, Any]]: ...
@@ -992,9 +995,8 @@ class Configurador:
     def set_setting(self, key: str, value: Any) -> None: ...
 
 app.py:
-Python
-
-        # app.py
+```python
+# app.py
         from minha_lib import carregar_dados_externos, Configurador
         from typing import Dict, Any, Optional
 
@@ -1005,9 +1007,9 @@ Python
         config_app = Configurador()
         config_app.set_setting("ambiente", "producao")
         print(f"Configurações: {config_app.settings}")
-
-        # mypy deve apontar um erro aqui se 'numero' não for uma chave válida para o tipo retornado
-        # print(dados.get('outra_chave', 0) + 5) # mypy deve sinalizar se o retorno é Optional
+```
+# mypy deve apontar um erro aqui se 'numero' não for uma chave válida para o tipo retornado
+# print(dados.get('outra_chave', 0) + 5) # mypy deve sinalizar se o retorno é Optional
 
     Rode mypy app.py na pasta que contém os três arquivos para ver a verificação de tipo funcionando.
 

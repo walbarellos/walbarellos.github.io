@@ -607,6 +607,7 @@ No mesmo script exercicio_modulo3.py, adicione o código abaixo:
 ```python
 
 class Carro:
+
     marca: str
     modelo: str
     ano: int
@@ -725,277 +726,31 @@ Permite configurar o comportamento do mypy para todo o projeto.
     check_untyped_defs = True
     disallow_untyped_defs = False
 
-## 4.2. Integração com IDEs
-
-    PyCharm, VS Code (com extensões como Pylance, Jedi): A maioria das IDEs modernas tem excelente suporte a type hints.
-
-    Autocomplete e realce de erros em tempo real: As IDEs usam os type hints para oferecer sugestões mais inteligentes e para sublinhar erros de tipo enquanto você digita.
-
-## 4.3. Outras Ferramentas (Breve Visão Geral)
-
-    pyright (Microsoft): Outro verificador de tipo estático de alta performance, popular no ecossistema VS Code (usado pelo Pylance).
-
-    pyre-check (Meta): Mais uma opção de verificador de tipo estático, conhecido por sua velocidade em grandes bases de código.
-
-    Linters como flake8 com plugins de type checking: Podem ser configurados para trabalhar em conjunto com mypy ou outros verificadores.
-
-## 4.4. Considerações sobre a Adoção
-
-    Começando pequeno: Adicione type hints a novos códigos e a funções críticas que você já está refatorando. Não precisa tipar tudo de uma vez.
-
-    Refatorando código existente: À medida que você trabalha em partes do código legado, aproveite para adicionar type hints.
-
-    Equilíbrio entre cobertura de tipo e tempo de desenvolvimento: Encontre o balanço certo para o seu projeto. A tipagem estática é uma ferramenta, não um fim em si mesma.
-
-## Exercícios do Módulo 4
-
-    Configurar o mypy em um projeto:
-
-        Crie uma nova pasta para este módulo (ex: modulo4_mypy).
-
-        Dentro dela, crie um arquivo main.py. Copie e cole o código abaixo nele (com um erro intencional):
-        ```python
-# main.py
-```
-from typing import List
-
-def saudar_todos(nomes: List[str]) -> None:
-    for nome in nomes:
-        print(f"Olá, {nome}!")
-
-# Isso é um erro de tipo!
-saudar_todos(["Alice", 123, "Bob"])
-
-Crie um arquivo mypy.ini na mesma pasta com o seguinte conteúdo:
-```toml
-# mypy.ini
-    [mypy]
-    python_version = 3.9
-    check_untyped_defs = True
-    warn_return_any = True
-
-    Abra o terminal nesta pasta e execute mypy main.py. Observe o erro reportado.
-
-Corrigir erros de tipo detectados pelo mypy:
-
-    No arquivo main.py do exercício anterior, corrija a linha que causa o erro de tipo para que mypy não aponte mais problemas.
-
-    Execute mypy main.py novamente para confirmar que não há mais erros.
-
-Copie e cole este código para corrigir o main.py:
-```python
-# main.py (corrigido)
-    from typing import List
-
-    def saudar_todos(nomes: List[str]) -> None:
-        for nome in nomes:
-            print(f"Olá, {nome}!")
-```
-# Correção: todos os elementos da lista devem ser strings
-    saudar_todos(["Alice", "Maria", "Bob"])
-
-    Experimentar a integração de type hints com sua IDE:
-
-        Abra um dos arquivos de exercícios anteriores (ex: exercicio_modulo2.py) em sua IDE (PyCharm, VS Code, etc.).
-
-        Tente introduzir um erro de tipo (por exemplo, passar um int para uma função que espera str).
-
-        Observe como a IDE (via Pylance, Jedi, ou o próprio PyCharm) sublinha o erro em tempo real, sem que você precise rodar o mypy manualmente. Isso mostra o valor da integração.
-
-        Corrija o erro após observar a detecção.
-
-# Módulo 5: Melhores Práticas e Desafios
-
-## 5.1. Dicas e Boas Práticas
-
-    Ser explícito com os tipos: Quanto mais específico, melhor. Evite Any sempre que possível.
-
-    Usar type aliases para complexidade: Simplifica a leitura de tipos aninhados ou muito longos.
-
-    Documentar seus type hints: Explique a intenção por trás de tipos complexos ou escolhas específicas.
-
-    Quando não usar type hints (ou ser mais flexível):
-
-        Em scripts muito pequenos e descartáveis.
-
-        Quando a inferência de tipo já é óbvia e adicionar hints tornaria o código mais verboso sem ganho.
-
-        Em protótipos rápidos onde a velocidade de desenvolvimento é crítica.
-
-## 5.2. Lidando com Bibliotecas sem Type Hints
-
-Nem todas as bibliotecas de terceiros vêm com type hints nativos.
-
-    Usando stub files (.pyi): São arquivos Python que contêm apenas as assinaturas de funções, classes e seus type hints, sem a implementação. mypy e outras ferramentas podem usá-los para verificar o código. Muitos pacotes populares fornecem stubs via types-xxxx (ex: pip install types-requests).
-
-    Type[T] para classes: Já vimos seu uso para passar tipos como argumentos.
-
-## 5.3. Desafios Comuns e Soluções
-
-    Circular imports com type hints: Quando dois módulos se importam mutuamente e um dos imports é para um type hint.
-
-        Solução: Use from __future__ import annotations (disponível a partir do Python 3.7) ou use strings para forward references ('MinhaClasse').
-    ```python
-# Exemplo de como lidar com imports circulares
-```
-# modulo_a.py
-# from __future__ import annotations # Use isso no topo do arquivo se Python <= 3.9
-from typing import TYPE_CHECKING
-
-if TYPE_CHECKING: # Importa apenas para verificação de tipo, não em runtime
-    from modulo_b import B
-
-class A:
-    def __init__(self, b_inst: 'B') -> None: # Usa string para forward reference
-        self.b_inst = b_inst
-
-# modulo_b.py
-# from __future__ import annotations # Use isso no topo do arquivo se Python <= 3.9
-from typing import TYPE_CHECKING
-
-if TYPE_CHECKING:
-    from modulo_a import A
-
-class B:
-    def __init__(self, a_inst: 'A') -> None:
-        self.a_inst = a_inst
-
-Tipos que dependem de si mesmos (Self-referential types): Estruturas de dados recursivas (ex: nós de árvore).
-
-    Solução: Use strings para forward references.
-
-```python
-from typing import Optional
-```
-class Node:
-    def __init__(self, value: int, next_node: Optional['Node'] = None) -> None:
-        self.value = value
-        self.next_node = next_node
-
-Overloading de funções com typing.overload: Quando uma função tem diferentes assinaturas dependendo dos tipos de seus argumentos.
-```python
-    from typing import overload, Union
-
-    @overload
-    def processar_dado(data: str) -> str:
-        ... # Apenas a assinatura, sem implementação
-
-    @overload
-    def processar_dado(data: int) -> int:
-        ... # Apenas a assinatura
-
-    def processar_dado(data: Union[str, int]) -> Union[str, int]:
-        if isinstance(data, str):
-            return data.upper()
-        elif isinstance(data, int):
-            return data * 2
-        else:
-            raise TypeError("Tipo de dado não suportado.")
-
-    print(processar_dado("hello"))
-    print(processar_dado(10))
-```
-# print(processar_dado(True)) # Mypy sinalizaria erro
-
-## 5.4. Novidades e Tendências
-
-    Python 3.9+ e os operadores | para Union e Optional: Uma sintaxe mais limpa e legível.
-
-        list[str] em vez de List[str] (a partir de 3.9, mas o from __future__ import annotations é recomendado para isso funcionar com tipos embutidos).
-
-        str | int em vez de Union[str, int].
-
-        str | None em vez de Optional[str].
-
-    Genéricos sintaxe simplificada (Python 3.12+): def func[T](arg: T) -> T:.
-
-## Exercícios do Módulo 5
-
-    Refatorar um trecho de código para usar as melhores práticas de tipagem:
-    Crie um arquivo exercicio_modulo5.py e refatore o código abaixo adicionando type hints e, se aplicável, type aliases para melhorar a clareza.
-
-    Código original (copie e cole no exercicio_modulo5.py):
-    ```python
-# exercicio_modulo5.py (Antes da refatoração)
-```
-def processar_config(config_data):
-    if config_data.get('ativo'):
-        print("Sistema ativo.")
-    for item in config_data.get('lista', []):
-        print(f"Item processado: {item}")
-    return len(config_data.get('lista', []))
-
-# Teste
-minha_config = {'ativo': True, 'lista': ['A', 'B', 'C'], 'versao': 1.0}
-resultado = processar_config(minha_config)
-print(f"Total de itens na lista: {resultado}")
-
-Sua tarefa é adicionar as dicas de tipo para config_data, para que mypy possa verificar corretamente. Pense em como criar um TypeAlias ou TypedDict para config_data.
-
-Exemplo de como ficaria após a refatoração (NÃO COPIE AINDA, tente fazer o seu primeiro!):
-```python
-# exercicio_modulo5.py (Após refatoração - Exemplo)
-```
-from typing import List, TypedDict, Union
-
-class AppConfig(TypedDict):
-    ativo: bool
-    lista: List[str]
-    versao: float
-# Você pode adicionar 'Optional' se uma chave pode não existir
-# descricao: Optional[str]
-
-def processar_config(config_data: AppConfig) -> int:
-    if config_data.get('ativo'): # .get() ainda é válido, mas mypy conhece o tipo agora
-        print("Sistema ativo.")
-    for item in config_data['lista']: # Agora sabemos que 'lista' existe e é List[str]
-        print(f"Item processado: {item}")
-    return len(config_data['lista'])
-
-# Teste
-minha_config: AppConfig = {'ativo': True, 'lista': ['A', 'B', 'C'], 'versao': 1.0}
-resultado = processar_config(minha_config)
-print(f"Total de itens na lista: {resultado}")
-
-# mypy agora poderá detectar se você tentar:
-# minha_config_errada: AppConfig = {'ativo': 'sim', 'lista': [1, 2], 'versao': '1.0'}
-# processar_config(minha_config_errada)
-
-Criar um stub file para uma biblioteca de exemplo:
-Imagine que você tem uma biblioteca simples sem type hints. Crie três arquivos em uma nova pasta:
-
-    minha_lib.py:
-    ```python
-# minha_lib.py
-```
-def carregar_dados_externos(caminho):
-# Simula o carregamento de dados de um arquivo
-    if caminho == "valido":
-        return {"chave": "valor", "numero": 123}
-    return None
-
-class Configurador:
-    def __init__(self):
-        self.settings = {}
 
     def set_setting(self, key, value):
         self.settings[key] = value
 
 minha_lib.pyi (o stub file - crie este arquivo manualmente e copie o conteúdo):
-```python
+
 # minha_lib.pyi
-```
+
+```python
+
 from typing import Dict, Any, Optional
 
 def carregar_dados_externos(caminho: str) -> Optional[Dict[str, Any]]: ...
 
 class Configurador:
-    settings: Dict[str, Any]
-    def __init__(self) -> None: ...
-    def set_setting(self, key: str, value: Any) -> None: ...
+settings: Dict[str, Any]
+def __init__(self) -> None: ...
+def set_setting(self, key: str, value: Any) -> None: ...
 
 app.py:
+```
+
+
 ```python
+
 # app.py
         from minha_lib import carregar_dados_externos, Configurador
         from typing import Dict, Any, Optional

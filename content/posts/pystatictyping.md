@@ -1023,6 +1023,8 @@ Python
 
             Como a tipagem estática pode impactar o processo de revisão de código em suas equipes?
 
+
+
 ## Materiais Adicionais
 
     Documentação Oficial Python: Módulo typing.
@@ -1032,3 +1034,4 @@ Python
     Mypy Docs: Documentação oficial do Mypy.
 
     Real Python: Artigos sobre tipagem em Python.
+    

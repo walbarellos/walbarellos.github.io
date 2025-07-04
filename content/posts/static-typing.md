@@ -1,6 +1,6 @@
 ---
-title: "Tipagem Estática em Python"
-date: 2025-04-18
+title: "🧬 Tipagem Estática em Python"
+date: 2025-07-03
 tags: ["Programming", "Python", "static", "typing", "imperative", "course"]
 description: "Mini curso completo sobre tipagem estática em Python: fundamentos, uso prático, ferramentas e boas práticas."
 weight: 1

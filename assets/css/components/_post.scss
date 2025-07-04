@@ -1,99 +1,92 @@
-/*  ────────────────────────────────────────────────────────────────────
-    _post.scss  ▸  estilos do conteúdo dos posts
-    Paleta usada:
-      $primary-color   → #4caf50   (verde acentuado)
-      $accent-color    → #c0c0c0   (cinza claro)
-      $gold-color      → #ffd700   (dourado)
-      $hebrew-bg       → rgba(0, 0, 0, 0.3)
-      $lightest-color  → #f5f5f5   (quase branco)
-   ──────────────────────────────────────────────────────────────────── */
+/* ─────────────────────────────────────────────────────
+   _post.scss — Estilos para conteúdo dos posts
+   Tema: Verde escuro (baseado em #4caf50)
+───────────────────────────────────────────────────── */
 
-/* Variáveis (mantidas aqui por conveniência; remova se já existirem num _variables.scss) */
+/* 🎨 Variáveis */
 $primary-color:   #4caf50;
 $accent-color:    #c0c0c0;
 $gold-color:      #ffd700;
 $hebrew-bg:       rgba(0, 0, 0, 0.3);
 $lightest-color:  #f5f5f5;
 
-/* ——— Títulos e metadados ———————————————————————————————— */
+/* 🟢 Título do post */
 .post-title {
-  color: $lightest-color; /* contraste máximo no tema escuro */
+  font-size: 2em;
+  font-weight: bold;
+  color: $primary-color;
+  margin-bottom: 0.5em;
 }
 
-.post-meta > div {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 0.2em;
-  font-size: 0.8em;
+/* 📅 Metadados */
+.post-meta {
+  font-size: 0.9em;
   color: $accent-color;
+  margin-bottom: 1em;
 
-  > .icon {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+
+  .icon {
     margin-right: 0.4em;
+
     svg,
-    img { fill: currentColor; }
+    img {
+      fill: currentColor;
+      height: 1em;
+    }
   }
 }
 
-/* ——— Conteúdo do post ———————————————————————————————— */
+/* 📄 Conteúdo do post */
 .post-content {
-  /* 1) trechos de código em pre ou highlight */
-  & > pre,
-  .highlight {
-    margin: 1em 0;
-  }
-
-  & > pre,
-  .highlight > pre,
-  .highlight > div {
-    border-left: 0.35em solid rgba($primary-color, 0.85);
-    padding: 1em 1.25em;
-    background: rgba(255, 255, 255, 0.05);   /* leve contraste contra o fundo geral */
-    border-radius: 6px;
-    overflow-x: auto;
-    color: $lightest-color;                  /* garante leitura */
-  }
-
-  /* 2) blocos de citação */
-blockquote {
-  position: relative;
-  background: rgba(0, 0, 0, 0.4); // fundo escuro translúcido
-  border-left: 4px solid $primary-color;
-  padding: 2.5em 1.5em 1.5em 1.5em;
-  margin: 2em 0;
-  border-radius: 12px;
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.4);
   color: $lightest-color;
-  font-size: 1rem;
-  line-height: 1.6;
-  overflow-x: auto;
+  line-height: 1.7;
+  font-size: 1.05em;
 
-  &::before {
-    content: "שְׁתִיקָה";
-    font-family: 'Noto Serif Hebrew', serif;
-    font-size: 0.85em;
-    font-weight: bold;
-    position: absolute;
-    top: 0;
-    left: 1.25em;
-    transform: translateY(-50%);
-    background: rgba(76, 175, 80, 0.12); // leve fundo verde
-    color: $primary-color;
-    padding: 0.4em 0.8em;
-    border-radius: 6px;
-    border: 1px solid $primary-color;
-    box-shadow: 0 0 6px rgba(76, 175, 80, 0.5);
-    z-index: 2;
+  a {
+    color: lighten($primary-color, 10%);
+    text-decoration: underline;
+
+    &:hover {
+      color: $gold-color;
+    }
   }
 
-  &::after {
-    display: none; // remove o detalhe visual “barra de janela”
+  /* 🧱 Blocos de código */
+  pre,
+  .highlight {
+    background: rgba(255, 255, 255, 0.05);
+    border-left: 0.35em solid $primary-color;
+    border-radius: 8px;
+    padding: 1em 1.5em;
+    overflow-x: auto;
+    font-family: 'Fira Code', monospace;
+    font-size: 0.95em;
+    color: $lightest-color;
+    margin: 1.5em 0;
+  }
+
+  /* 🧾 Blocos de citação */
+  blockquote {
+    position: relative;
+    background: rgba(0, 0, 0, 0.5);
+    border-left: 4px solid $primary-color;
+    padding: 1.5em;
+    border-radius: 10px;
+    margin: 2em 0;
+    color: $lightest-color;
+    font-style: italic;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+  }
+
+  blockquote::before {
+    content: "❝";
+    font-size: 2em;
+    color: $primary-color;
+    position: absolute;
+    top: 0.2em;
+    left: 0.5em;
   }
 }
-      /*background:
-        radial-gradient(circle at 10px 6px, #ff5f56 5px, transparent 6px),
-        radial-gradient(circle at 34px 6px, #ffbd2e 5px, transparent 6px),
-        radial-gradient(circle at 58px 6px, #27c93f 5px, transparent 6px);
-        */
